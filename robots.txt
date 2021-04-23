@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://vanpariyar.github.io/swaminarayan-charitra/sitemap.xml

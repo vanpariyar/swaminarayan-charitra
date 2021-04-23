@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Swaminarayan Charitra</title>
+    <link>https://vanpariyar.github.io/swaminarayan-charitra/series/</link>
+    <description>Recent content in Series on Swaminarayan Charitra</description>
+    <image>
+      <url>https://vanpariyar.github.io/swaminarayan-charitra/papermod-cover.png</url>
+      <link>https://vanpariyar.github.io/swaminarayan-charitra/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://vanpariyar.github.io/swaminarayan-charitra/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Themes Guide</title>
+      <link>https://vanpariyar.github.io/swaminarayan-charitra/series/themes-guide/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanpariyar.github.io/swaminarayan-charitra/series/themes-guide/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

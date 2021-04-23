@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swaminarayan Charitra</title>
+    <link>https://vanpariyar.github.io/swaminarayan-charitra/guj/</link>
+    <description>Recent content on Swaminarayan Charitra</description>
+    <image>
+      <url>https://vanpariyar.github.io/swaminarayan-charitra/papermod-cover.png</url>
+      <link>https://vanpariyar.github.io/swaminarayan-charitra/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://vanpariyar.github.io/swaminarayan-charitra/guj/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
