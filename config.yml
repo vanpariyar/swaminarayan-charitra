@@ -1,7 +1,8 @@
-baseURL: "https://vanpariyar.github.io/swaminarayan-charitra"
+baseURL: "https://vanpariyar.github.io/swaminarayan-charitra/"
 title: Swaminarayan Charitra
 paginate: 5
 theme: hugo-PaperMod
+publishDir: public
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
