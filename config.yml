@@ -1,6 +1,6 @@
 baseURL: "https://vanpariyar.github.io/swaminarayan-charitra/"
 title: Swaminarayan Charitra
-paginate: 5
+paginate: 10
 theme: hugo-PaperMod
 publishDir: public
 
@@ -10,7 +10,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-# googleAnalytics: UA-123-45
+googleAnalytics: UA-165932508-1
 
 minify:
     disableXML: true
@@ -22,9 +22,12 @@ languages:
         weight: 1
         menu:
             main:
+                - name: Home
+                  url: /
+                  weight: 5
                 - name: Archive
                   url: archives
-                  weight: 5
+                  weight: 10
                 - name: Search
                   url: search/
                   weight: 10
@@ -35,37 +38,37 @@ languages:
                   url: categories/
                   weight: 10
 
-    guj:
-        languageName: "ગુજરાતી"
-        weight: 2
-        title: Swaminarayan Charitra
-        profileMode:
-            enabled: true
-            title: Swaminarayan Nitya
-            # imageUrl: "#"
-            # imageTitle: my image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Tags
-                  url: tags
-        menu:
-            main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
-                - name: Tags
-                  url: tags
-                  weight: 10
-                - name: Categories
-                  url: categories
-                  weight: 10
-                - name: Series
-                  url: series
-                  weight: 10
+    # guj:
+    #     languageName: "ગુજરાતી"
+    #     weight: 2
+    #     title: Swaminarayan Charitra
+    #     profileMode:
+    #         enabled: true
+    #         title: Swaminarayan Nitya
+    #         # imageUrl: "#"
+    #         # imageTitle: my image
+    #         # imageWidth: 120
+    #         # imageHeight: 120
+    #         subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
+    #         buttons:
+    #             - name: Blog
+    #               url: posts
+    #             - name: Tags
+    #               url: tags
+    #     menu:
+    #         main:
+    #             - name: Archive
+    #               url: archives/
+    #               weight: 5
+    #             - name: Tags
+    #               url: tags
+    #               weight: 10
+    #             - name: Categories
+    #               url: categories
+    #               weight: 10
+    #             - name: Series
+    #               url: series
+    #               weight: 10
 
 outputs:
     home:
@@ -75,9 +78,9 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
-    # author: ["Me", "You"] # multiple authors
+    description: "All in one juction of Swaminarayan Charitras in Hindi, English, Gujarati"
+    # author: Theme PaperMod
+    author: ["Bharat Desai", "Dhaval Desai", "Hitendra Kalariya", "Ronak Vanpariya"] # multiple authors
 
     defaultTheme: auto
     # disableThemeToggle: true
@@ -89,7 +92,7 @@ params:
     ShowBreadCrumbs: true
     ShowToc: true
     # comments: false
-    images: ["papermod-cover.png"]
+    images: ["Swaminarayan-Charitra-Banner.png"]
 
     profileMode:
         enabled: false
@@ -107,13 +110,15 @@ params:
     homeInfoParams:
         Title: "Swaminarayan Charitra"
         Content: >
-            Welcome to Swaminarayan Charitra.
+            Welcome to Swaminarayan Charitra. **( 3 in 1 Gujarati / Hindi / English )**
 
-            - **Lord Swaminarayan** is born in chhpaiya then he started journey as Nilakanth varni.
+            - **Lord Swaminarayan** is born in chhpaiya then started journey as Nilakanth varni at the age of 11. 
 
-            - Do give a 🌟 on Github !
+            - This theme is also Open source and Free 
+            
+            - 
 
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            - `If you want to add Your Charitra / Contribute  in this site ? Feel Free to contact me`
 
     socialIcons:
         - name: github
@@ -122,6 +127,10 @@ params:
           url: "https://www.buymeacoffee.com/vanpariyar"
         - name: RsS
           url: "index.xml"
+        - name: contact
+          url: "https://vanpariyar.github.io/contact/"
+        - name: Email
+          url: "mailto:vanpariyar@gmail.com"
 
     # label:
     #     text: "Home"
@@ -157,6 +166,7 @@ taxonomies:
     category: categories
     tag: tags
     series: series
+    author: author
 
 markup:
      goldmark:
@@ -169,6 +179,11 @@ markup:
 #         lineNos: true
 #         # noClasses: false
 #         style: monokai
+
+sitemap:
+    changefreq: monthly
+    filename: sitemap.xml
+    priority: 0.5
 
 privacy:
     vimeo:
