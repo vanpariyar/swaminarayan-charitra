@@ -1,14 +1,15 @@
 ---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+# draft: true
 author: "Bharat Desai"
-date: "2020-04-24"
-description: "Swaminarayan charitra of kapadvanj modh vanik, About asylum of the loard swaminarayan"
+description: "Swaminarayan charitra of <Add Contnet>, About loard Swaminarayan"
 tags: ["Zadi desh", "murti"]
 categories: ["Sharanagati"]
-series: ["Themes Guide"]
+series: ["Daily Charitra"]
 # aliases: ["migrate-from-jekyl"]
 # ShowToc: true
 # TocOpen: true
-title: કપડવંજથી મોઢ વણિક / Kapadvanj thi modh vanik 
 weight: 2
 ---
 
@@ -16,3 +17,5 @@ weight: 2
 
 <!--more-->
 
+
+<!-- Remove this and start Content Here -->
