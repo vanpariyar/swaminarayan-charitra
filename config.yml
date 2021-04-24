@@ -28,7 +28,7 @@ languages:
                 - name: Archive
                   url: archives
                   weight: 10
-                - name: Search
+                - name: Search 🕵
                   url: search/
                   weight: 10
                 - name: Tags
@@ -108,11 +108,11 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "👌 Swaminarayan Charitra 🙏"
+        Title: "Swaminarayan Charitra 🙏"
         Content: >
-            Welcome to Swaminarayan Charitra.  🙂 **( 3 in 1 Gujarati / Hindi / English )**
+            Welcome to Swaminarayan Charitra.  🙂 **( 3 in 1 Gujarati / Hindi / English )**.
 
-            - **Lord Swaminarayan** is born in chhpaiya then started journey as Nilakanth varni at the age of 11 😮. 
+            - **Lord Swaminarayan** was born in chhpaiya then started journey as Nilakanth varni at the age of 11 😮. 
             
             - 
 
