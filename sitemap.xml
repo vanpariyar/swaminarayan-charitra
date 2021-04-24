@@ -1,16 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/en/sitemap.xml</loc>
-    
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/guj/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/charitra/kapadvanj-na-modh-vanik-2020-04-24/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/author/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/author/bharat-desai/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/categories/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/charitra/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/murti/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/series/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/categories/sharanagati/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/series/themes-guide/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/zadi-desh/</loc>
+    <lastmod>2020-04-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/archives/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/search/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
