@@ -2,7 +2,7 @@
 author: "Bharat Desai"
 date: "2020-04-24"
 title: કડવા ભગત ની મહારાજ પ્રત્યે શરણાગતિ / Kadva bhagat ni sharnagati 🙇‍♀️
-description: "Swaminarayan charitra of kapadvanj modh vanik and kadava bhagat, About asylum of the loard swaminarayan"
+description: "Swaminarayan charitra of kapadvanj modh vanik and kadava bhagat, About asylum of the lord swaminarayan"
 tags: ["Zadi desh", "murti"]
 categories: ["Sharanagati"]
 series: ["Themes Guide"]
