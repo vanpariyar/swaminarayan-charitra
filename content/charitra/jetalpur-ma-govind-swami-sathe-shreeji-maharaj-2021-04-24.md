@@ -3,7 +3,7 @@ title: "Jetalpur Ma Govind Swami Sathe Shreeji Maharaj 🎉"
 date: "2021-04-24"
 # draft: true
 author: "Bharat Desai"
-description: "Swaminarayan charitra of Jetalpur jetalpur village with Govind Swami, Shreeji Maharaj, About yagna done by loard Swaminarayan"
+description: "Swaminarayan charitra of Jetalpur jetalpur village with Govind Swami, Shreeji Maharaj, About yagna done by lord Swaminarayan"
 tags: ["Ahmedabad Desh", "Santo", "Ramuji"]
 categories: ["Mahima"]
 series: ["Daily Charitra"]
