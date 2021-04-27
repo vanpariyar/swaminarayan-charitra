@@ -3,7 +3,7 @@ title: "એક પંથ દો કાજ / Ek Panth Do Kaj"
 date: 2021-04-26T22:57:13+05:30
 # draft: true
 author: "Bharat Desai"
-description: "This charitra is from Gadhupur and this is about ekadashi jagran of all saints , About lord Swaminarayan"
+description: "This charitra is from Gadhpur and this is about ekadashi jagran of all saints , About lord Swaminarayan"
 tags: ["Gadhpur Lila", "Murti", "Ekadashi", "Jagaran"]
 categories: ["Dhyan Mate"]
 series: ["Daily Charitra"]
