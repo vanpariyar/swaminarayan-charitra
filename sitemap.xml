@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/charitra/ek-panth-do-kaj-25-04-26/</loc>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/charitra/dada-khachar-nu-samarpan-20211-04-27/</loc>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/charitra/ek-panth-do-kaj-2021-04-26/</loc>
     <lastmod>2021-04-26T22:57:13+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -18,41 +23,66 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/author/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/author/bharat-desai/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/categories/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/charitra/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/dada-khachar/</loc>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/series/daily-charitra/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/categories/dhyan-mate/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/ekadashi/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/gadhpur-lila/</loc>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/series/</loc>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/categories/smarpan/</loc>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/</loc>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/</loc>
+    <lastmod>2021-04-27T22:55:02+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/categories/dhyan-mate/</loc>
     <lastmod>2021-04-26T22:57:13+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -63,21 +93,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/murti/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/series/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/</loc>
-    <lastmod>2021-04-26T22:57:13+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/</loc>
     <lastmod>2021-04-26T22:57:13+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
