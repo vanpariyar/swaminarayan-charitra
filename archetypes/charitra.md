@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # draft: true
 author: "Bharat Desai"
-description: "Swaminarayan charitra of <Add Contnet>, About loard Swaminarayan"
+description: "Swaminarayan charitra of <Add Contnet>, About lord Swaminarayan"
 tags: ["Zadi desh", "murti"]
 categories: ["Sharanagati"]
 series: ["Daily Charitra"]
