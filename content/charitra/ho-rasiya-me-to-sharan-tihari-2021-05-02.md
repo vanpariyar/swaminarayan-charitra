@@ -1,7 +1,7 @@
 ---
 title: "હો રસિયા મેતો શરણ તિહારી / Ho Rasiya Me to Sharan Tihari"
 date: 2021-05-02T00:26:23+05:30
-draft: true
+# draft: true
 author: "Bharat Desai"
 description: "Swaminarayan charitra of premanand swami and they recalls the memory, About lord Swaminarayan"
 tags: ["Gadhpur", "Premanand Swami", "Rampratap Bhai"]
