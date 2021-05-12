@@ -20,7 +20,7 @@ weight: 2
 
 <!-- Remove this and start Content Here -->
 ## Gujarati
-### મહારાજ ની અમદાવાદ માં પધરામણી :tada:	
+### દાદાખાચર નું સમર્પણ :tada:	
 
 ગઢપુર મા જળઝીલણી એકાદશી ના દિવસે દાદાખાચરે પીપળાના ઝાડ વાળા મારગ ને સુમાબાઇ ની વોંકળીની વચાળે થોરની વાડ્ય હતી ઇ ઓરીયાની જમીનનો લેખ શ્રીગોપીનાથજી મહારાજના થાળ સારુ શ્રીજીમહારાજને અર્પણ કર્યો. મહારાજ બહુ રાજી થયા. જળઝીલણી એકાદશીના દિવસે શ્રીહરિ જરીયાની જામોને સુરવાળ વગેરે પહેરીને માણકીએ થયા ને ઠાકોરજીને પાલખીમા પધરાવ્યાને સહુ સંતો ભક્તો ને હથિયારબંધ પાળાઓ સાથે ખોપાળાના માર્ગે વાજતે ગાજતે ધૂન્ય-કિરતન :notes: કરતા કરતા પધાર્યા. ત્યાં ઘેલામા પરમહંસના ઓટાની નાવાની જગ્યા છે ત્યાં મોટા પત્થરની ઉપર ઠાકોરજીને પધરાવ્યાને ઘેલાના નિર્મળ નિરથી ઝીલાવ્યા :ocean:. ઠાકોરજીને નવા વાઘા ધારણ કરાવ્યા ને પાંચ આરતિ કરી. 
 
@@ -44,7 +44,7 @@ weight: 2
 - શ્રીહરિચરિત્રચિંતામણિ... :pray:
 
 ## Hindi
-### महाराज नी अमदावाद मां पधरामणी :tada:	
+### दादाखाचर नुं समर्पण :tada:	
 
 गढपुर मा जळझीलणी एकादशी ना दिवसे दादाखाचरे पीपळाना झाड वाळा मारग ने सुमाबाइ नी वोंकळीनी वचाळे थोरनी वाड्य हती इ ओरीयानी जमीननो लेख श्रीगोपीनाथजी महाराजना थाळ सारु श्रीजीमहाराजने अर्पण कर्यो. महाराज बहु राजी थया. जळझीलणी एकादशीना दिवसे श्रीहरि जरीयानी जामोने सुरवाळ वगेरे पहेरीने माणकीए थया ने ठाकोरजीने पालखीमा पधराव्याने सहु संतो भक्तो ने हथियारबंध पाळाओ साथे खोपाळाना मार्गे वाजते गाजते धून्य-किरतन :notes: करता करता पधार्या. त्यां घेलामा परमहंसना ओटानी नावानी जग्या छे त्यां मोटा पत्थरनी उपर ठाकोरजीने पधराव्याने घेलाना निर्मळ निरथी झीलाव्या :ocean:. ठाकोरजीने नवा वाघा धारण कराव्या ने पांच आरति करी. 
 
@@ -68,7 +68,7 @@ weight: 2
 - श्रीहरिचरित्रचिंतामणि... :pray:
 
 ## English
-### mahārāj nī amadāvād māan padharāmaṇī :tada:	
+### Dādākhāchar nuan samarpaṇa :tada:	
 
 Gaḍhapur mā jaḷazīlaṇī ekādashī nā divase dādākhāchare pīpaḷānā zāḍ vāḷā mārag ne sumābāi nī voankaḷīnī vachāḷe thoranī vāḍya hatī i orīyānī jamīnano lekh shrīgopīnāthajī mahārājanā thāḷ sāru shrījīmahārājane arpaṇ karyo. Mahārāj bahu rājī thayā. Jaḷazīlaṇī ekādashīnā divase shrīhari jarīyānī jāmone suravāḷ vagere paherīne māṇakīe thayā ne ṭhākorajīne pālakhīmā padharāvyāne sahu santo bhakto ne hathiyārabandha pāḷāo sāthe khopāḷānā mārge vājate gājate dhūnya-kiratan :notes: karatā karatā padhāryā. Tyāan ghelāmā paramahansanā oṭānī nāvānī jagyā chhe tyāan moṭā pattharanī upar ṭhākorajīne padharāvyāne ghelānā nirmaḷ nirathī zīlāvyā :ocean:. Ṭhākorajīne navā vāghā dhāraṇ karāvyā ne pāancha ārati karī. 
 
@@ -76,7 +76,9 @@ Pote sarve jarīyānī vastro utārī ne kachhoṭo vāḷī ne ghelāmā dhūba
 
 ```
 ---
-Mukatānanda kahe mohe aur kī jo pṛutit hoye..! Jānīyo adhik nich shvapach labāḍ se..!! Chhāanḍī ke shrīkṛuṣhṇadev aur kī jo kanru seva..
+Mukatānanda kahe mohe aur kī jo pṛutit hoye..! 
+Jānīyo adhik nich shvapach labāḍ se..!! 
+Chhāanḍī ke shrīkṛuṣhṇadev aur kī jo kanru seva..
 ---
 ```
 
