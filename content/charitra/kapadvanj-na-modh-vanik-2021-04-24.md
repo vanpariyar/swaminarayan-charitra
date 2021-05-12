@@ -5,7 +5,7 @@ title: કડવા ભગત ની મહારાજ પ્રત્યે �
 description: "Swaminarayan charitra of kapadvanj modh vanik and kadava bhagat, About asylum of the lord swaminarayan"
 tags: ["Zadi desh", "murti"]
 categories: ["Sharanagati"]
-series: ["Themes Guide"]
+series: ["Daily Charitra"]
 # aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true
