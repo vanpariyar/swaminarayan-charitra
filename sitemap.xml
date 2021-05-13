@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/charitra/2021-05-13-gondal-naresh-ne-maharaj-ni-swarup-nishtha-kevi-hati/</loc>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/charitra/2021-05-12-ramanand-swami-ae-mayaram-bhatt-ne-nishchay-kravyo/</loc>
     <lastmod>2021-05-12T22:39:38+05:30</lastmod>
     <changefreq>monthly</changefreq>
@@ -43,27 +48,67 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/author/</loc>
-    <lastmod>2021-05-12T22:39:38+05:30</lastmod>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/author/bharat-desai/</loc>
-    <lastmod>2021-05-12T22:39:38+05:30</lastmod>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/categories/</loc>
-    <lastmod>2021-05-12T22:39:38+05:30</lastmod>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/charitra/</loc>
-    <lastmod>2021-05-12T22:39:38+05:30</lastmod>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/series/daily-charitra/</loc>
-    <lastmod>2021-05-12T22:39:38+05:30</lastmod>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/devanand-swami/</loc>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/gondal/</loc>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/muktanand-swami/</loc>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/premanand-swami/</loc>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/series/</loc>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/</loc>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/categories/swarup-nishtha/</loc>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/</loc>
+    <lastmod>2021-05-13T23:20:18+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -87,27 +132,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/series/</loc>
-    <lastmod>2021-05-12T22:39:38+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/</loc>
-    <lastmod>2021-05-12T22:39:38+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/</loc>
-    <lastmod>2021-05-12T22:39:38+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/gadhpur/</loc>
-    <lastmod>2021-05-02T00:26:23+05:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://vanpariyar.github.io/swaminarayan-charitra/tags/premanand-swami/</loc>
     <lastmod>2021-05-02T00:26:23+05:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
