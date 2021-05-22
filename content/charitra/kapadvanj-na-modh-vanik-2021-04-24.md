@@ -3,13 +3,13 @@ author: "Bharat Desai"
 date: "2020-04-24"
 title: કડવા ભગત ની મહારાજ પ્રત્યે શરણાગતિ / Kadva bhagat ni sharnagati 🙇‍♀️
 description: "Swaminarayan charitra of kapadvanj modh vanik and kadava bhagat, About asylum of the lord swaminarayan"
-tags: ["Zadi desh", "murti"]
+tags: ["Zadi desh", "Murti"]
 categories: ["Sharanagati"]
 series: ["Daily Charitra"]
 # aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true
-weight: 2
+# weight: 2
 ---
 
 શ્રીજીમહારાજ વડતાલ બીરાજતા હતા. બપોર પછી ગોમતીના કાંઠે આંબલા હેઠે સભા કરીને બેઠા હતા ત્યાં ગામ કપડવંજથી મોઢ વણિકની એક બાઇ પોતાનો નાનો એવો દિકરો તેડીને આવી ને મહારાજ ના દર્શન કર્યા. :pray:

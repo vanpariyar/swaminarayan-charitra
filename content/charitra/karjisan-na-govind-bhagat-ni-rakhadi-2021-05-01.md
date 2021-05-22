@@ -10,7 +10,7 @@ series: ["Daily Charitra"]
 # aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true
-weight: 2
+# weight: 2
 ---
 
 <!-- this Content Here will shown id listing page till "more" tag -->

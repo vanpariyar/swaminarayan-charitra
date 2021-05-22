@@ -4,13 +4,13 @@ date: 2021-05-02T00:26:23+05:30
 # draft: true
 author: "Bharat Desai"
 description: "Swaminarayan charitra of premanand swami and they recalls the memory, About lord Swaminarayan"
-tags: ["Gadhpur", "Premanand Swami", "Rampratap Bhai"]
+tags: ["Gadhpur Lila", "Premanand Swami", "Rampratap Bhai"]
 categories: ["Virah"]
 series: ["Daily Charitra"]
 # aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true
-weight: 2
+# weight: 2
 ---
 
 <!-- this Content Here will shown id listing page till "more" tag -->
