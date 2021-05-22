@@ -42,6 +42,7 @@ TocOpen: true
 શ્રીહરિચરિત્રામૃત સાગર
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
 
 ## Hindi
 ### गोंडल नरेश ने महाराज नी स्वरूप निष्ठा केवी हती  :question:
@@ -65,6 +66,7 @@ TocOpen: true
 श्रीहरिचरित्रामृत सागर
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
 
 ## English
 ### goanḍal naresh ne mahārāj nī svarūp niṣhṭhā kevī hatī  :question:
@@ -87,3 +89,5 @@ Shrīhari rājī :slightly_smiling_face: thaīne bolyā ke ā mukatamuni nā gā
 
 Shrīharicharitrāmṛut sāgara
 :pray:
+
+### Navigation:point_down:

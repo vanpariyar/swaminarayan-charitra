@@ -40,6 +40,9 @@ TocOpen: true
 સદગુરુ શ્રી અક્ષરાનંદ સ્વામીની વાતો તથા ભગવાન શ્રી સ્વામિનારાયણ...
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
+
+----
 ## Hindi
 ### करजीसण गोविंदभगत नी राखडी :prayer_beads:	
 
@@ -60,7 +63,9 @@ TocOpen: true
 सदगुरु श्री अक्षरानंद स्वामीनी वातो तथा भगवान श्री स्वामिनारायण...
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
 
+----
 ## English
 ### karajīsaṇ goviandabhagat nī rākhaḍī :prayer_beads:	
 
@@ -80,3 +85,5 @@ Goviandabhagat nā shrīhari nā upar nā atūṭ vishvās joine shrījīmahār�
 
 Sadaguru shrī akṣharānanda swāmīnī vāto tathā bhagavān shrī swāminārāyaṇa...
 :pray:
+
+### Navigation:point_down:

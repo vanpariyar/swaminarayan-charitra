@@ -43,6 +43,9 @@ TocOpen: true
 
 - શ્રીહરિચરિત્રચિંતામણિ... :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
+
+-----
 ## Hindi
 ### दादाखाचर नुं समर्पण :tada:	
 
@@ -67,6 +70,9 @@ TocOpen: true
 
 - श्रीहरिचरित्रचिंतामणि... :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
+
+----
 ## English
 ### Dādākhāchar nuan samarpaṇa :tada:	
 
@@ -90,3 +96,5 @@ Shrījīmahārāje dādākhāchar ne kahyuan ke tame ā jamīnane dev nā thā�
 Ā dādokhāchar e j māro kharo putra...!
 
 - shrīharicharitrachiantāmaṇi... :pray:
+
+### Navigation:point_down:

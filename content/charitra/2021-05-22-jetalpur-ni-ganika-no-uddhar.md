@@ -51,6 +51,8 @@ TocOpen: true
 - ભગવાન શ્રી સ્વામિનારાયણ....
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
+
 ----
 
 ## Hindi
@@ -87,6 +89,8 @@ TocOpen: true
 - भगवान श्री स्वामिनारायण....
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
+
 -----
 
 ## English
@@ -122,3 +126,5 @@ Sajani koḍe ānanda māre ghera...
 
 - bhagavān shrī swāminārāyaṇa....
 :pray:
+
+### Navigation:point_down:

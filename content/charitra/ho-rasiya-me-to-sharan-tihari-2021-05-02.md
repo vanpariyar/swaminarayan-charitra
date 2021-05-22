@@ -44,6 +44,9 @@ TocOpen: true
 - સદગુરુ અક્ષરાનંદ સ્વામીની વાતો
 🙏
 
+[Goto Naviagation:point_down: ](#navigation)
+
+----
 ## Hindi
 ### हो रसिया मेतो शरण तिहारी :tada:
 
@@ -68,6 +71,9 @@ TocOpen: true
 - सदगुरु अक्षरानंद स्वामीनी वातो
 🙏
 
+[Goto Naviagation:point_down: ](#navigation)
+
+----
 ## English
 ### ho rasiyā meto sharaṇ tihārī :tada:
 
@@ -90,3 +96,5 @@ Mahārāj bane bhāinī ā vāte bahu hasyā ne bane bhāie rasoi āpīne rāmap
 
 - sadaguru akṣharānanda swāmīnī vāto
 🙏
+
+### Navigation:point_down:

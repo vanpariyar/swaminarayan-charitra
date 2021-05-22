@@ -23,13 +23,23 @@ TocOpen: true
 ## Gujarati
 ### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
 
+<!-- Remove This and add charitra Gujarati -->
 
+[Goto Naviagation:point_down: ](#navigation)
 
 ----
 ## Hindi
 ### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
 
+<!-- Remove This and add charitra Gujarati -->
+
+[Goto Naviagation:point_down: ](#navigation)
 
 ----
 ## English
 ### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
+
+<!-- Remove This and add charitra Gujarati -->
+
+
+### Navigation:point_down:

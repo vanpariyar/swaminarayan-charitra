@@ -35,7 +35,9 @@ TocOpen: true
 
 - શ્રીહરિચરિત્રચિંતામણી.....
 
+[Goto Naviagation:point_down: ](#navigation)
 
+----
 ## Hindi
 ### एक पंथ दो काज :tada:
 
@@ -55,7 +57,9 @@ TocOpen: true
 
 - श्रीहरिचरित्रचिंतामणी.....
 
+[Goto Naviagation:point_down: ](#navigation)
 
+----
 ## English
 ### ek pantha do kāj :tada:
 
@@ -74,3 +78,5 @@ Tyāre shrījīnā sakhā evā brahmamuni bolyā ke he mahārāj āj to sau sant
 Savāre moḍekathī sahu darshan karavā padhāryā tyāre mahārāj rājī thatā thakā bolyā ke āj to ākhīya rāt santoe jāgaraṇ karyuan ne..! Tyāre brahmānanda swāmī bolyā ke he mahārāja..! Ā jāgaraṇ mā to tame padhāryā te lābh paṇ evo j maḷyo ne..! 
 
 - shrīharicharitrachiantāmaṇī.....
+
+### Navigation:point_down:
