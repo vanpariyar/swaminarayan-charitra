@@ -4,13 +4,13 @@ date: 2021-05-01T23:14:55+05:30
 # draft: true
 author: "Bharat Desai"
 description: "Swaminarayan charitra of Lakha bhagat and he dreamed about his farm | About lord Swaminarayan"
-tags: ["Gadhpur", "Ramuji"]
+tags: ["Gadhpur Lila", "Ramuji"]
 categories: ["Samajan"]
 series: ["Daily Charitra"]
 # aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true
-weight: 2
+# weight: 2
 ---
 
 <!-- this Content Here will shown id listing page till "more" tag -->

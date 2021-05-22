@@ -4,13 +4,13 @@ date: {{ .Date }}
 # draft: true
 author: "Bharat Desai"
 description: "Swaminarayan charitra of <Add Contnet>, About lord Swaminarayan"
-tags: ["Zadi desh", "murti"]
+tags: ["Zadi desh", "Murti"]
 categories: ["Sharanagati"]
 series: ["Daily Charitra"]
 # aliases: ["migrate-from-jekyl"]
 ShowToc: true
 TocOpen: true
-weight: 2
+# weight: 2
 ---
 
 <!-- this Content Here will shown id listing page till "more" tag -->
@@ -23,8 +23,13 @@ weight: 2
 ## Gujarati
 ### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
 
+
+
+----
 ## Hindi
 ### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
 
+
+----
 ## English
 ### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
