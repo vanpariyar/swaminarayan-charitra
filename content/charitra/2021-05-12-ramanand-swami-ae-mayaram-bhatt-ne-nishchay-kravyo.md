@@ -44,6 +44,7 @@ TocOpen: true
 -શ્રીહરિચરિત્રચિંતામણી...
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
 
 ## Hindi
 ### रामानंद स्वामी ए मयाराम भट्ट ने निश्चय कराव्यो :bow:
@@ -69,6 +70,8 @@ TocOpen: true
 -श्रीहरिचरित्रचिंतामणी...
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
+
 ## English
 ### rāmānanda swāmī e mayārām bhaṭṭa ne nishchaya karāvyo :bow:
 
@@ -90,3 +93,5 @@ Shrīhari hasatā hasatā kahe ālasībhāi..! Dhanya chhe tamārī guru vachana
 
 -shrīharicharitrachiantāmaṇī...
 :pray:
+
+### Navigation:point_down:

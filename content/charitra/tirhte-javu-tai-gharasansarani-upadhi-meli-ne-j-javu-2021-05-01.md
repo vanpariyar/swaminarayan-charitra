@@ -31,7 +31,9 @@ TocOpen: true
 સદગુરુ શ્રી અક્ષરાનંદ સ્વામીની વાતો તથા ભગવાન શ્રી સ્વામિનારાયણ...
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
 
+----
 ## Hindi
 ### तीर्थ जावु तइ घरसंसारनी उपाधी मेली ने ज जावु. :ok_man:
 
@@ -46,6 +48,9 @@ TocOpen: true
 सदगुरु श्री अक्षरानंद स्वामीनी वातो तथा भगवान श्री स्वामिनारायण...
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
+
+----
 ## English
 ### tīrtha jāvu tai gharasansāranī upādhī melī ne j jāvu. :ok_man:
 
@@ -59,3 +64,5 @@ I hāru j kāyam moṭā santo keya ke tīrtha jāvu tai gharasansāranī upādh
 
 Sadaguru shrī akṣharānanda swāmīnī vāto tathā bhagavān shrī swāminārāyaṇa...
 :pray:
+
+### Navigation:point_down:

@@ -38,6 +38,9 @@ TocOpen: true
 - શ્રીહરિચરિત્ર ચિંતામણી.....
 🙏
 
+[Goto Naviagation:point_down: ](#navigation)
+
+----
 ## Hindi
 ### महाराज नी अमदावाद मां पधरामणी :tada:
 
@@ -58,6 +61,9 @@ TocOpen: true
 - श्रीहरिचरित्र चिंतामणी.....
 🙏
 
+[Goto Naviagation:point_down: ](#navigation)
+
+----
 ## English
 ### mahārāj nī amadāvād māan padharāmaṇī :tada:
 
@@ -77,3 +83,5 @@ Goviandaswāmī bolyā ke shrījī mahārāj to purṇa puruṣhottam chhe ene v
 
 - shrīharicharitra chiantāmaṇī.....
 🙏
+
+### Navigation:point_down:

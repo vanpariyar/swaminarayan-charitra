@@ -44,6 +44,9 @@ TocOpen: true
 - શ્રીહરિચરિત્રચિંતામણી...
 :pray:
 
+
+[Goto Naviagation:point_down: ](#navigation)
+
 ---
 
 ## Hindi
@@ -70,6 +73,8 @@ TocOpen: true
 - श्रीहरिचरित्रचिंतामणी...
 :pray:
 
+[Goto Naviagation:point_down: ](#navigation)
+
 ----
 
 ## English
@@ -94,3 +99,5 @@ Somalākhāchare badhīya vigate vātya karī ne gaḍhapur javā rājī thayā.
 
 - shrīharicharitrachiantāmaṇī...
 :pray:
+
+### Navigation:point_down:
