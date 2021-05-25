@@ -31,7 +31,7 @@ TocOpen: true
 ## Hindi
 ### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
 
-<!-- Remove This and add charitra Gujarati -->
+<!-- Remove This and add charitra Hindi -->
 
 [Goto Naviagation:point_down: ](#navigation)
 

@@ -28,14 +28,14 @@ languages:
                 - name: Archive
                   url: archives
                   weight: 10
-                - name: Search 🕵
-                  url: search/
-                  weight: 10
                 - name: Tags
                   url: tags/
-                  weight: 10
+                  weight: 5
                 - name: Categories
                   url: categories/
+                  weight: 10
+                - name: Search 🕵
+                  url: search/
                   weight: 10
 
     # guj:
@@ -123,6 +123,8 @@ params:
           url: "https://github.com/vanpariyar/swaminarayan-charitra"
         - name: KoFi
           url: "https://www.buymeacoffee.com/vanpariyar"
+        - name: dev
+          url: "https://vanpariyar.in"
         - name: RsS
           url: "index.xml"
         - name: contact
