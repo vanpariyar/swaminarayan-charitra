@@ -44,7 +44,6 @@ TocOpen: true
 - શ્રીહરિચરિત્રચિંતામણી...
 :pray:
 
-
 [Goto Naviagation:point_down: ](#navigation)
 
 ---
