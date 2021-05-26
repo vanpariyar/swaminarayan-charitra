@@ -1,0 +1,9 @@
+{{ if .Get "src" }}
+{{ else }}
+{{ errorf "missing value for param 'src': %s" .Position }}
+{{ end }}
+<audio controls>
+  <source src="{{ .Get "src" }}" type="audio/ogg">
+  <source src="{{ .Get "src" }}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>

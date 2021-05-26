@@ -18,6 +18,10 @@ TocOpen: true
 
 <!--more-->
 
+<!-- start Remove this if audio not available -->
+## Audio
+{{< audio src="link.mp3" >}}
+<!-- End Audio -->
 
 <!-- Remove this and start Content Here -->
 ## Gujarati
