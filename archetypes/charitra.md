@@ -23,7 +23,6 @@ TocOpen: true
 {{< audio src="link.mp3" >}}
 <!-- End Audio -->
 
-<!-- Remove this and start Content Here -->
 ## Gujarati
 ### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
 
@@ -43,7 +42,7 @@ TocOpen: true
 ## English
 ### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
 
-<!-- Remove This and add charitra Gujarati -->
+<!-- Remove This and add charitra English -->
 
 
 ### Navigation:point_down:
