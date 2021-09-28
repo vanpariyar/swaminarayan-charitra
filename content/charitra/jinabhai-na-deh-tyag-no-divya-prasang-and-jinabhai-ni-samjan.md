@@ -18,7 +18,7 @@ TocOpen: true
 <!--more-->
 
 ## Gujarati
-### મહારાજ ની અમદાવાદ માં પધરામણી :tada:
+### જીણાભાઇ નો દેહત્યાગ અને સમજણ નો પ્રસંગ :tada:
 
 જૂનાગઢ જીણાભાઈ માંદા થયા તે શ્રીહરિને કાગળ લખ્યો, હે પૃભુ દર્શન દેવા આવજો. શ્રીહરિ બન્ને આચાર્યો, દાદાખાચર, સોમલાખાચર, સુરાખાચર વિગેરે સાથે જૂનાગઢ ગયા. મેડી પર ઝીણાભાઈનો ખાટલો હતો. મહારાજ પહોંચતા ઝીણાભાઈનાં માં તો હરખઘેલા થઇ ગયાને બોલ્યા કે “હે મહારાજ, હે દિનદયાળ તમે પધાર્યા ત્યારે મારો ઝીણો હવે સાજા થઈ જશે.”
 
@@ -42,7 +42,7 @@ TocOpen: true
 
 ----
 ## Hindi
-### महाराज नी अमदावाद मां पधरामणी :tada:
+### जीनाभाई नो देहत्याग अने समझन नो प्रसंग:tada:
 
 जूनागढ जीणाभाई मांदा थया ते श्रीहरिने कागळ लख्यो, हे पृभु दर्शन देवा आवजो. श्रीहरि बन्ने आचार्यो, दादाखाचर, सोमलाखाचर, सुराखाचर विगेरे साथे जूनागढ गया. मेडी पर झीणाभाईनो खाटलो हतो. महाराज पहोंचता झीणाभाईनां मां तो हरखघेला थइ गयाने बोल्या के “हे महाराज, हे दिनदयाळ तमे पधार्या त्यारे मारो झीणो हवे साजा थई जशे.”
 
@@ -67,7 +67,7 @@ TocOpen: true
 
 ----
 ## English
-### mahārāj nī amadāvād mān padharāmaṇī :tada:
+### Jinabhai Na Deh Tyag No Divya Prasang ane Samjan :tada:
 
 Jūnāgaḍh jīṇābhāī māndā thayā te shrīharine kāgaḷ lakhyo, he pṛubhu darshan devā āvajo. Shrīhari banne āchāryo, dādākhāchara, somalākhāchara, surākhāchar vigere sāthe jūnāgaḍh gayā. Meḍī par zīṇābhāīno khāṭalo hato. Mahārāj pahonchatā zīṇābhāīnān mān to harakhaghelā thai gayāne bolyā ke “he mahārāja, he dinadayāḷ tame padhāryā tyāre māro zīṇo have sājā thaī jashe.”
 
