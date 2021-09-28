@@ -1,10 +1,10 @@
 ---
-title: "મહારાજ પંચાળા ના પધારવાથી ઝીણાભાઈ ખુબ દિલગીર થયા / Maharaj panchala na padharvathi zinabhai dilgir thaya"
+title: "મહારાજ પંચાળા ના પધારવાથી ઝીણાભાઈ ખુબ દિલગીર થયા / Maharaj panchala na padharvathi Jinabhai dilgir thaya"
 date: 2021-05-08T23:16:17+05:30
 # draft: true
 author: "Bharat Desai"
-description: "Swaminarayan charitra of Zina Bhai feel regreted after Maharaj declines to come at their home, About lord Swaminarayan"
-tags: ["Loya Dham","Panchala","Gadhpur Lila","Zina Bhai","Vera Bhai"]
+description: "Swaminarayan charitra of Jina Bhai feel regreted after Maharaj declines to come at their home, About lord Swaminarayan"
+tags: ["Loya Dham","Panchala","Gadhpur Lila","Jina Bhai","Vera Bhai"]
 categories: ["Nishtha", "Samarpan"]
 series: ["Daily Charitra"]
 # aliases: ["migrate-from-jekyl"]

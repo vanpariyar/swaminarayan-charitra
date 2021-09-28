@@ -138,7 +138,11 @@ params:
         - name: contact
           url: "https://vanpariyar.github.io/contact/"
         - name: Email
-          url: "mailto:vanpariyar@gmail.com"
+          url: "mailto:ronak@vanpariyar.in"
+    editPost:
+      URL: "https://github.com/vanpariyar/swaminarayan-charitra/tree/writing/content"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: true # to append file path to Edit link
 
     # label:
     #     text: "Home"

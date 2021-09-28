@@ -4,7 +4,7 @@ date: 2021-05-22T23:27:00+05:30
 # draft: true
 author: "Bharat Desai"
 description: "Swaminarayan charitra of Panchala village where maharaj came from Gadhpur without telling anyone, About lord Swaminarayan"
-tags: ["Panchala", "Zinabhai" ,"Adiba", "Somala khachar"]
+tags: ["Panchala", "Jinabhai" ,"Adiba", "Somala khachar"]
 categories: ["Sharanagati"]
 series: ["Daily Charitra"]
 # aliases: ["migrate-from-jekyl"]
