@@ -1,5 +1,6 @@
 ---
 title: "જીણાભાઇ નો દેહત્યાગ અને સમજણ નો પ્રસંગ / Jinabhai Na Deh Tyag No Divya Prasang ane Samjan"
+slug: "jinabhai-na-deh-tyag-no-divya-prasang-and-jinabhai-ni-samjan"
 date: 2021-05-09T21:49:36+05:30
 # draft: true
 author: "Bharat Desai"
@@ -16,6 +17,11 @@ TocOpen: true
 <!-- this Content Here will shown id listing page till "more" tag -->
 મહારાજ મને તો કોઈ ધામની ઈચ્છા નથી, મને તો મૂળજી બ્રહ્મચારી ને રતનજી - મિયાજી, ભગુજી જેવી નિરંતર તમારા ચરણની સેવા આપો.
 <!--more-->
+
+<!-- start Remove this if audio not available -->
+## Audio
+{{< audio src="https://github.com/vanpariyar/swaminarayan-openaudio/raw/03591e058a02414b7e433644461a729807e240a3/daily-charitra/09-05-2021.mp3" >}}
+<!-- End Audio -->
 
 ## Gujarati
 ### જીણાભાઇ નો દેહત્યાગ અને સમજણ નો પ્રસંગ :tada:
