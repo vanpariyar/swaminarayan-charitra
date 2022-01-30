@@ -1,7 +1,7 @@
 ---
 title: "Jivakhachar Ae Maharaj Pase Thi Adbhut Vardan Mangyu / જીવાખાચર એ મહારાજ પાસે થી અદભુત્ત વરદાન માંગ્યું"
 slug: "jivakhachar-ae-maharaj-pase-thi-adbhut-vardan-mangyu"
-date: 2022-01-12T21:15:28+05:30
+date: 2021-05-12T21:15:28+05:30
 # draft: true
 author: "Bharat Desai"
 description: "Swaminarayan Charitra of Jivakhachar who took the extra ordinary blessing from Maharaj, About lord Swaminarayan"
@@ -21,7 +21,7 @@ TocOpen: true
 
 <!-- start Remove this if audio not available -->
 ## Audio
-{{< player src="link.mp3" >}}
+{{< player src="https://github.com/vanpariyar/swaminarayan-audio/blob/main/charitra/daily-charitra/2021-05-12.mp3?raw=true" >}}
 <!-- End Audio -->
 
 ## Gujarati
