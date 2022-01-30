@@ -21,7 +21,7 @@ TocOpen: true
 
 <!-- start Remove this if audio not available -->
 ## Audio
-{{< audio src="https://github.com/vanpariyar/swaminarayan-openaudio/raw/main/daily-charitra/11-05-2021.mp3" >}}
+{{< player src="https://github.com/vanpariyar/swaminarayan-audio/blob/main/charitra/daily-charitra/2021-05-11.mp3?raw=true" >}}
 <!-- End Audio -->
 
 ## Gujarati
