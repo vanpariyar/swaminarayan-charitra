@@ -21,7 +21,7 @@ TocOpen: true
 
 <!-- start Remove this if audio not available -->
 ## Audio
-{{< audio src="link.mp3" >}}
+{{< player src="link.mp3" >}}
 <!-- End Audio -->
 
 ## Gujarati

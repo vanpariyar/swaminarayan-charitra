@@ -1,0 +1,228 @@
+{{ if .Get "src" }}
+{{ else }}
+{{ errorf "missing value for param 'src': %s" .Position }}
+{{ end }}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+<style>
+    .music-container-wrapper {
+        height: 40vh;
+        margin: 0;
+        font-family: 'Lato', sans-serif;
+        background-image: linear-gradient( 0deg, rgb(247, 247, 247) 23.8%, rgb( 252, 221, 221) 92%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .music-container-wrapper .music-container {
+        background-color: #fff;
+        border-radius: 15px;
+        box-shadow: 0 20px 20px 0 rgba(252, 169, 169, 0.6);
+        display: flex;
+        padding: 20px 30px;
+        position: relative;
+        margin: 100px 0;
+        z-index: 10;
+        width: 80%;
+    }
+
+    .music-container-wrapper .img-container {
+        position: relative;
+        width: 110px;
+    }
+
+    .music-container-wrapper .img-container::after {
+        content: '';
+        /*background-color: #fff;*/
+        height: 20px;
+        width: 20px;
+        position: absolute;
+        left: 50%;
+        bottom: 50%;
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+
+    .music-container-wrapper .img-container img {
+        width: inherit;
+        height: 110px;
+        border-radius: 50%;
+        object-fit: cover;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        animation: rotate 10s linear infinite;
+        animation-play-state: paused;
+    }
+
+    .music-container-wrapper .music-container.play .img-container img {
+        animation-play-state: running;
+    }
+
+    @keyframes rotate {
+        from {
+            transform: rotate(0deg);
+        }
+
+        to {
+            transform: rotate(360deg);
+        }
+    }
+
+    .music-container-wrapper .navigation {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 1;
+        margin: auto;
+    }
+
+    .music-container-wrapper .action-btn {
+        background-color: #fff;
+        border: 0;
+        color: #dfdbdf;
+        font-size: 20px;
+        cursor: pointer;
+        padding: 10px;
+        margin: 0 20px;
+    }
+
+    .music-container-wrapper .action-btn:focus {
+        outline: 0;
+    }
+
+    .music-container-wrapper .action-btn-big {
+        color: #cdc2d0;
+        font-size: 30px;
+    }
+
+    .music-container-wrapper .music-info {
+        background-color: rgba(255, 255, 255, 0.5);
+        border-radius: 15px 15px 0 0;
+        position: absolute;
+        top: 0;
+        left: 20px;
+        width: calc(100% - 40px);
+        padding: 10px 10px 10px 150px;
+        opacity: 0;
+        transform: translateY(0%);
+        transition: transform 0.3s ease-in, opacity 0.3s ease-in;
+
+    }
+
+    .music-container-wrapper .music-info h4 {
+        margin: 0;
+    }
+
+    .music-container-wrapper .music-container.play .music-info {
+        opacity: 1;
+        transform: translateY(-100%);
+    }
+
+    .music-container-wrapper .progress-container {
+        background: #fff;
+        border-radius: 5px;
+        cursor: pointer;
+        margin: 10px 0;
+        height: 4px;
+        width: 100%;
+    }
+
+    .music-container-wrapper .progress {
+        background-color: #fe8daa;
+        border-radius: 5px;
+        height: 100%;
+        width: 0%;
+        transition: width 0.1s linear;
+    }
+</style>
+<div class="music-container-wrapper">
+<div class="music-container">
+    <div class="music-info">
+        <h4 id="title">Swaminarayan Charitra</h4>
+        <div class="progress-container">
+            <div class="progress"></div>
+        </div>
+    </div>
+    <audio src='{{ .Get "src" }}' id="charitra-audio"></audio>
+
+    <div class="img-container">
+        <img src='{{ "disk.png" | absURL }}' alt="music-cover" id="cover">
+    </div>
+    <div class="navigation">
+        <!-- <button id="prev" class="action-btn">
+            <i class="fas fa-backward"></i>
+        </button> -->
+        <button id="play" class="action-btn action-btn-big">
+            Play / Pause <i class="fas fa-play"></i>
+        </button>
+        <!-- <button id="next" class="action-btn">
+            <i class="fas fa-forward"></i>
+        </button> -->
+    </div>
+</div>
+</div>
+<script type="text/javascript">
+    const musicContainer = document.querySelector('.music-container')
+    const audio = document.querySelector('#charitra-audio')
+    const playBtn = document.querySelector('#play')
+    const progress = document.querySelector('.progress')
+    const progressContainer = document.querySelector('.progress-container')
+    const title = document.querySelector('#title')
+    const cover = document.querySelector('#cover')
+
+    //Initially load song info DOM
+
+    //loadSong(songs[songIndex])
+
+    //update song details
+
+    function playSong() {
+        musicContainer.classList.add('play')
+        playBtn.querySelector('i.fas').classList.remove('fa-play')
+        playBtn.querySelector('i.fas').classList.add('fa-pause')
+
+        audio.play();
+    }
+
+    function pauseSong() {
+        musicContainer.classList.remove('play')
+        playBtn.querySelector('i.fas').classList.add('fa-play')
+        playBtn.querySelector('i.fas').classList.remove('fa-pause')
+
+        audio.pause();
+    }
+
+    function updateProgress(e) {
+        const { duration, currentTime } = e.srcElement
+        const progressPercent = (currentTime / duration) * 100
+        progress.style.width = `${progressPercent}%`
+    }
+
+    function setProgress(e) {
+        const width = this.clientWidth
+        const clickX = e.offsetX
+        const duration = audio.duration
+
+        audio.currentTime = (clickX / width) * duration
+    }
+
+    //Event listners
+    playBtn.addEventListener('click', () => {
+        const isPlaying = musicContainer.classList.contains('play')
+
+        if (isPlaying) {
+            pauseSong()
+        } else {
+            playSong()
+        }
+    })
+
+    //Change song events
+    audio.addEventListener('timeupdate', updateProgress)
+
+    progressContainer.addEventListener('click', setProgress)
+
+</script>
