@@ -2,13 +2,15 @@
 {{ else }}
 {{ errorf "missing value for param 'src': %s" .Position }}
 {{ end }}
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+    crossorigin="anonymous" />
 <style>
     .music-container-wrapper {
-        height: 40vh;
+        /* height: 40vh; */
         margin: 0;
         font-family: 'Lato', sans-serif;
-        background-image: linear-gradient( 0deg, rgb(247, 247, 247) 23.8%, rgb( 252, 221, 221) 92%);
+        background-image: linear-gradient(0deg, rgb(247, 247, 247) 23.8%, rgb(252, 221, 221) 92%);
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -137,37 +139,55 @@
         width: 0%;
         transition: width 0.1s linear;
     }
+
+    @media screen and (max-width:768px) {
+        .music-container-wrapper .img-container {
+            position: initial;
+        }
+
+        .music-container-wrapper .music-info {
+            width: 100%;
+            padding: 10px;
+            left: 0;
+        }
+
+        .music-container-wrapper .action-btn {
+            margin: 0px;
+        }
+
+    }
 </style>
 <div class="music-container-wrapper">
-<div class="music-container">
-    <div class="music-info">
-        <h4 id="title">Swaminarayan Charitra</h4>
-        <div class="progress-container">
-            <div class="progress"></div>
+    <div class="music-container">
+        <div class="music-info">
+            <h4 id="title">Swaminarayan Charitra</h4>
+            <div class="progress-container">
+                <div class="progress"></div>
+            </div>
+        </div>
+        <audio src='{{ .Get "src" }}' id="charitra-audio"></audio>
+
+        <div class="img-container">
+            <img src='{{ "disk.png" | absURL }}' alt="music-cover" id="cover">
+        </div>
+        <div class="navigation">
+            <!-- <button id="prev" class="action-btn">
+            <i class="fas fa-backward"></i>
+            </button> -->
+            <button id="play" class="action-btn action-btn-big" title="Play">
+                <i class="fas fa-play"></i>
+            </button>
+            <a id="download-btn" class="action-btn" title="Download" href='{{ .Get "src" }}' download="true">
+                <i class="fas fa-download"></i>
+            </a>
         </div>
     </div>
-    <audio src='{{ .Get "src" }}' id="charitra-audio"></audio>
-
-    <div class="img-container">
-        <img src='{{ "disk.png" | absURL }}' alt="music-cover" id="cover">
-    </div>
-    <div class="navigation">
-        <!-- <button id="prev" class="action-btn">
-            <i class="fas fa-backward"></i>
-        </button> -->
-        <button id="play" class="action-btn action-btn-big">
-            Play / Pause <i class="fas fa-play"></i>
-        </button>
-        <!-- <button id="next" class="action-btn">
-            <i class="fas fa-forward"></i>
-        </button> -->
-    </div>
-</div>
 </div>
 <script type="text/javascript">
     const musicContainer = document.querySelector('.music-container')
     const audio = document.querySelector('#charitra-audio')
     const playBtn = document.querySelector('#play')
+    const downloadBtn = document.querySelector('#download-btn')
     const progress = document.querySelector('.progress')
     const progressContainer = document.querySelector('.progress-container')
     const title = document.querySelector('#title')
