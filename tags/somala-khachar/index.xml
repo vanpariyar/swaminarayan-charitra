@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Somala khachar on Swaminarayan Charitra</title>
+    <title>Somala Khachar on Swaminarayan Charitra</title>
     <link>https://vanpariyar.in/swaminarayan-charitra/tags/somala-khachar/</link>
-    <description>Recent content in Somala khachar on Swaminarayan Charitra</description>
+    <description>Recent content in Somala Khachar on Swaminarayan Charitra</description>
     <image>
+      <title>Swaminarayan Charitra</title>
       <url>https://vanpariyar.in/swaminarayan-charitra/Swaminarayan-Charitra-Banner.png</url>
       <link>https://vanpariyar.in/swaminarayan-charitra/Swaminarayan-Charitra-Banner.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 22 May 2021 23:27:00 +0530</lastBuildDate><atom:link href="https://vanpariyar.in/swaminarayan-charitra/tags/somala-khachar/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 May 2021 23:27:00 +0530</lastBuildDate>
+    <atom:link href="https://vanpariyar.in/swaminarayan-charitra/tags/somala-khachar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>મહારાજ ગઢપુર છોડી ને ક્યાં ચાલ્યા ગયા ? 😮 | Maharaj Gadhapur Chhodi Ne Kya Chalya Gya❓</title>
       <link>https://vanpariyar.in/swaminarayan-charitra/charitra/2021-05-03-maharaj-gadhapur-chhodi-ne-kya-chalya-gya/</link>
       <pubDate>Sat, 22 May 2021 23:27:00 +0530</pubDate>
-      
       <guid>https://vanpariyar.in/swaminarayan-charitra/charitra/2021-05-03-maharaj-gadhapur-chhodi-ne-kya-chalya-gya/</guid>
       <description>Swaminarayan charitra of Panchala village where maharaj came from Gadhpur without telling anyone, About lord Swaminarayan</description>
     </item>
-    
   </channel>
 </rss>

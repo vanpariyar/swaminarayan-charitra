@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Zadi desh on Swaminarayan Charitra</title>
+    <title>Zadi Desh on Swaminarayan Charitra</title>
     <link>https://vanpariyar.in/swaminarayan-charitra/tags/zadi-desh/</link>
-    <description>Recent content in Zadi desh on Swaminarayan Charitra</description>
+    <description>Recent content in Zadi Desh on Swaminarayan Charitra</description>
     <image>
+      <title>Swaminarayan Charitra</title>
       <url>https://vanpariyar.in/swaminarayan-charitra/Swaminarayan-Charitra-Banner.png</url>
       <link>https://vanpariyar.in/swaminarayan-charitra/Swaminarayan-Charitra-Banner.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://vanpariyar.in/swaminarayan-charitra/tags/zadi-desh/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.157.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vanpariyar.in/swaminarayan-charitra/tags/zadi-desh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>કડવા ભગત ની મહારાજ પ્રત્યે શરણાગતિ / Kadva bhagat ni sharnagati 🙇‍♀️</title>
       <link>https://vanpariyar.in/swaminarayan-charitra/charitra/kapadvanj-na-modh-vanik-2021-04-24/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://vanpariyar.in/swaminarayan-charitra/charitra/kapadvanj-na-modh-vanik-2021-04-24/</guid>
       <description>Swaminarayan charitra of kapadvanj modh vanik and kadava bhagat, About asylum of the lord swaminarayan</description>
     </item>
-    
   </channel>
 </rss>
