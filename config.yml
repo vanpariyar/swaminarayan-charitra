@@ -1,6 +1,7 @@
 baseURL: "https://vanpariyar.in/swaminarayan-charitra/"
 title: Swaminarayan Charitra
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: hugo-PaperMod
 publishDir: public
 
@@ -10,7 +11,15 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-googleAnalytics: G-T7YMQ8HWGV
+googleAnalytics: G-T7YMQ8HWGV # Legacy but kept for compatibility
+
+services:
+    googleAnalytics:
+        ID: G-T7YMQ8HWGV
+    instagram:
+        disableInlineCSS: true
+    x:
+        disableInlineCSS: true
 
 minify:
     disableXML: true
@@ -204,7 +213,7 @@ privacy:
         disabled: false
         simple: true
 
-    twitter:
+    x:
         disabled: false
         enableDNT: true
         simple: true
@@ -216,9 +225,3 @@ privacy:
     youtube:
         disabled: false
         privacyEnhanced: true
-
-services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true

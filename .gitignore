@@ -24,3 +24,17 @@ _testmain.go
 
 /public
 .DS_Store
+
+node_modules
+dist
+build
+coverage
+*.log
+*.tmp
+*.bak
+
+# Hugo specific
+.hugo_build.lock
+hugo_stats.json
+resources/
+_vendor/

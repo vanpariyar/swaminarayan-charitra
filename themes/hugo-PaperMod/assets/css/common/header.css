@@ -27,7 +27,7 @@
     font-weight: 700;
 }
 
-.logo a img {
+.logo a img, .logo a svg {
     display: inline;
     vertical-align: middle;
     pointer-events: none;
@@ -36,21 +36,16 @@
     margin-inline-end: 8px;
 }
 
-#theme-toggle svg {
-    height: 18px;
-}
-
 button#theme-toggle {
     font-size: 26px;
     margin: auto 4px;
 }
 
-body.dark #moon {
-    vertical-align: middle;
+[data-theme="dark"] #moon {
     display: none;
 }
 
-body:not(.dark) #sun {
+[data-theme="light"] #sun {
     display: none;
 }
 
