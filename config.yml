@@ -79,6 +79,8 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "All in one juction of Swaminarayan Charitras in Hindi, English, Gujarati"
+    googleAdsense: "ca-pub-5659963957549282"
+    googleAdSlot: "XXXXXXXXXX"
     # author: Theme PaperMod
     author: ["Bharat Desai", "Dhaval Desai", "Hitendra Kalariya", "Ronak Vanpariya"] # multiple authors
 

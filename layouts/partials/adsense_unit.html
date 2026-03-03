@@ -1,0 +1,13 @@
+{{- if and (hugo.IsProduction | or (eq .Site.Params.env "production")) .Site.Params.googleAdsense .Site.Params.googleAdSlot }}
+<div class="adsense-unit" style="margin: 20px 0; text-align: center;">
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="{{ .Site.Params.googleAdsense }}"
+         data-ad-slot="{{ .Site.Params.googleAdSlot }}"
+         data-ad-format="auto"
+         data-full-width-responsive="true"></ins>
+    <script>
+         (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+{{- end }}
