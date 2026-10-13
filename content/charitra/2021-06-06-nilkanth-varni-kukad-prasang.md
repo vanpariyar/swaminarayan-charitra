@@ -44,3 +44,67 @@ TocOpen: true
 
 - નિલકંઠ ચરિત્ર માથી....
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### कूकड़ में नीलकंठ वर्णी और भगवानसिंहजी दरबार
+
+अनंत जीवों के आत्यंतिक कल्याण के लिए नीलकंठ वर्णी महाप्रभु ने लगभग १२,००० किलोमीटर का वन-विचरण किया। घने जंगलों, नदियों, सरोवरों, निर्जन बियाबानों, गाँवों और नगरों को पावन करते हुए वे गुजरात में सूरत, नर्मदा तट, वडोदरा, बोचासण, पोलारपुर, खोडाभाई के सदाव्रत तथा गोराड गाँव की वाड़ी आदि अनेक तीर्थ-स्थलों से होते हुए सौराष्ट्र के समुद्र तट पर पहुँचे। जहाँ-जहाँ से भी वर्णी गुजरते, वहाँ के मुमुक्षु जीव उनके दिव्य और तेजोमय स्वरूप को देखकर मुग्ध हो जाते थे। लोग विस्मय और अहोभाव से उनके दर्शन करते, और जब कोई उनसे उनका परिचय पूछता, तो वे अपने यथार्थ स्वरूप का बोध कराते और भविष्य का संकेत देते।
+
+विचरण करते-करते नीलकंठ वर्णी भावनगर जिले के कूकड़ गाँव के सीमारेखा (पादरी) पर पधारे। गाँव के मध्य से होते हुए वे जब गाँव के स्वामी (दरबार) की डेहली के सामने से निकले, तब वहाँ दरबार भगवानसिंहजी और उनके दीवान (कामदार) खोजा जीवा ठक्कर बैठे हुए थे। नीलकंठ वर्णी ने "नमो नारायण" कहा और वहीं खड़े रहे। दरबार ने मन में सोचा कि यह कोई भिक्षुक साधु या ब्रह्मचारी होंगे। परंतु वर्णी की तेजोमयी मूर्ति का दर्शन करते ही उनके मन में सहज आदर भाव उत्पन्न हुआ। उन्होंने पूछा, "हे ब्रह्मचारी! आप कहाँ रहते हैं? आपका नाम क्या है और आपकी जाति क्या है?"
+
+नीलकंठ वर्णी ने अलौकिक तेज और खुमारी से उत्तर दिया, "दरबार! हमारा देश तो अनिर्देश (मायातीत परमधाम) है, नाम अनंत हैं और जाति से हम साक्षात् 'ब्रह्म' हैं। हम स्वयं भी अपने नामों की गणना नहीं कर सकते!" इतना कहकर वे आगे चल पड़े।
+दरबार इस गूढ़ रहस्य को पूरी तरह समझ तो नहीं पाए, परंतु परब्रह्म परमात्मा के उन वचनों ने उनके जन्म-जन्मांतर के आवरणों को भेदकर अंतःकरण में अपूर्व शांति और शीतलता भर दी।
+
+दरबार के कामदार जीवा ठक्कर चतुर और विवेकी थे। उन्होंने विचार किया, "इस वर्णी का दिव्य प्रभामंडल अत्यंत अलौकिक है; वे सामान्य साधु-महात्माओं जैसे नहीं हैं। ऐसी ईश्वरीय अगम वाणी और ऐसा दिव्य रूप मैंने कभी किसी मनुष्य में नहीं देखा।" यह समझकर जीवा ठक्कर ने तत्काल दरबार से कहा, "भगवानसिंहजी बापू! आप मानें या न मानें, परंतु वे कोई परम सिद्ध योगी हैं। हमने उनका समुचित सत्कार न करके उन्हें रोक नहीं रखा, यह हमसे भूल हो गई।"
+
+भगवानसिंहजी बापू भी भीतर से मुमुक्षु थे, अतः वे बोले, "जीवा! तुम्हारी बात सत्य जान पड़ती है। जब से वे गए हैं, उनकी वह मनोहारी मूरत मेरे अंतःकरण में घूम रही है। एक काम करते हैं, हम तुरंत उनके पीछे जाते हैं; वे अभी अधिक दूर नहीं गए होंगे। हम उन्हें वापस लिवा लाते हैं।"
+
+ऐसा विचार कर दोनों तीव्र गति से उसी मार्ग पर चल पड़े, जिस ओर नीलकंठ वर्णी गए थे। नदी किनारे पहुँचकर उन्होंने देखा कि एक आम के वृक्ष के नीचे मृगचर्म बिछाकर, पद्मासन लगाए, नेत्र मूँदकर वर्णी एकाग्र दृष्टि से ध्यान में लीन थे। समीप ही उनका तूंबी-पात्र (कमंडल) रखा था। दोनों ने निकट जाकर श्रद्धापूर्वक उनके चरण स्पर्श किए, जिससे वर्णी ध्यान से बाह्य अवस्था में आए।
+
+गाँव के स्वामी भगवानसिंह दरबार ने हाथ जोड़कर प्रार्थना की, "हे ब्रह्मचारी! आप हमारे द्वार से इस प्रकार भूखे चले जाएँ, यह हमारे लिए शोभनीय नहीं है। हमारे आतिथ्य को स्वीकार कीजिए और दरबारगढ़ में पधारिए। हम अज्ञानी आपकी उस अगम वाणी को समझ नहीं सके, अतः कृपा कर हम पामर जीवों को अपना दिव्य ज्ञान प्रदान कर पावन कीजिए।"
+
+धीर-गंभीर और ओजस्वी वाणी में वर्णी बोले, "दरबार! आप कच्ची सामग्री (सीधा) यहीं ले आइए, हम यहीं भोजन बनाकर आरोगेंगे। हम जनबस्तियों में अधिक नहीं जाते; हमें तो एकांत वन-उपवन ही प्रिय हैं।"
+
+दरबार ने तुरंत जीवा ठक्कर को भेजकर सीधा मँगवाया। वर्णी ने सूखी लकड़ियों की अग्नि प्रज्वलित की, बाटी बनाई और शाक (भाजी) तैयार कर अपने शालिग्राम भगवान को नैवेद्य अर्पित किया। उन्होंने स्वयं थोड़ा सा भोजन ग्रहण किया और शेष प्रसादी दरबार भगवानसिंहजी तथा जीवा ठक्कर को प्रदान की। वह प्रसादी पाकर दोनों अलौकिक आनंद से भर गए।
+
+वर्णी उन्हें पुनः पधारने का वचन देकर आगे प्रस्थान कर गए और दीयोर गाँव पधारे। वहाँ गाँव के चबूतरे पर बैठे वृद्ध गपशप कर रहे थे; उन्हें उपदेश देकर सन्मार्ग दिखाया, और एक भावसार भक्त के घर से सीधा लेकर भोजन बनाकर आरोगी। इस प्रकार वे मार्ग में गाँव-गाँव अगणित जीवों का परम कल्याण करते हुए आगे बढ़ते रहे...
+
+- नीलकंठ चरित्र से...
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Nilkanth Varni and Darbar Bhagvansinhji in Kukad
+
+For the ultimate redemption and salvation of countless souls, Nilkanth Varni Mahaprabhu undertook an epic spiritual journey (van-vicharan) traversing over 12,000 kilometers on foot. Sanctifying dense jungles, torrential rivers, serene lakes, desolate wastelands, villages, and towns across India, He arrived in Gujarat, blessing holy sites like Surat, the banks of the Narmada, Vadodara, Bochasan, Polarapur, Khodabhai's charitable kitchen (sadavrat), and the gardens of Gorad village, before reaching the Saurashtra coast. Wherever Varni traveled, spiritual seekers (mumukshus) were instantly captivated by His radiant, divine form. People beheld Him with profound reverence and awe, and whenever someone inquired about His identity, He revealed His transcendent nature and gave indications of His divine mission ahead.
+
+Continuing His pilgrimage, Nilkanth Varni arrived at the outskirts of Kukad village in Bhavnagar district. Walking through the heart of the village, He passed before the gateway (deli) of the local chieftain (gam-dhani), Darbar Bhagvansinhji. At that moment, Darbar Bhagvansinhji and his estate administrator (kamdar), Khoja Jiva Thakkar, were seated there. Nilkanth Varni offered the traditional greeting, "Namo Narayan," and paused momentarily. The Darbar assumed that He was merely a wandering mendicant or young ascetic. However, as soon as he gazed upon Varni's luminous countenance, deep reverence welled up in his heart. He asked, "O Brahmachari! Where do You reside? What is Your name, and what is Your caste?"
+
+Nilkanth Varni answered with regal majesty and spiritual authority, "Darbar! Our homeland is Anirdesh (the transcendent Akshardham beyond mundane description), Our name is Anant (infinite), and by caste We are Brahm (the Supreme Divine Reality). Even We cannot count all of Our own names!" Having spoken these words, He quietly continued on His way.
+Although the Darbar could not fully comprehend the depth of these words, the divine utterances of Parabrahma Paramatma pierced through the spiritual coverings of his past births, bringing profound peace and divine coolness to his soul.
+
+The Darbar’s manager, Jiva Thakkar, was keen-minded and discerning. He reflected, "This Varni radiates a completely unique divine aura; He is unlike any ordinary ascetic or sadhu. Never before have I heard such transcendent, mystical wisdom (agam-vani), nor have I witnessed such divine majesty in any mortal human being." Realizing this, Jiva Thakkar immediately turned to the Darbar and said, "Bhagvansinhji Bapu! Believe it or not, He is a great, realized yogi! We made a mistake by not welcoming Him properly and persuading Him to stay."
+
+Bhagvansinhji Bapu was a sincere spiritual seeker at heart, so he immediately replied, "Jiva, what you say rings entirely true! Ever since He departed, His divine image has been playing constantly before my mind's eye. Let us hurry after Him right away; He cannot have gone very far yet. We must bring Him back!"
+
+With this resolve, both men hastened along the trail Nilkanth Varni had taken. Reaching the riverbank, they found Varni seated in the lotus posture (padmasana) upon a deerskin beneath the shade of a mango tree, absorbed in deep meditation with eyes closed. Beside Him lay His water gourd (tumbi-patra). They approached reverently, touched His lotus feet, and bowed down. Sensing their touch, Varni gently emerged from His meditation.
+
+The village ruler Bhagvansinh Darbar earnestly pleaded, "O Brahmachari! It is not honorable for us if You depart hungry from our doorstep. Please accept our humble hospitality and grace the Darbargadh. Being unlettered, we could not fathom Your profound divine words; please explain them to us and sanctify us lowly souls with Your divine knowledge."
+
+In a serene, resonant, and majestic voice, Varni answered, "Darbar! Bring uncooked rations (sidhu) here; We shall cook and dine right here. We rarely visit bustling settlements; secluded forests and nature are dear to Us."
+
+Immediately, the Darbar dispatched Jiva Thakkar to fetch the provisions. Varni kindled a fire with dry twigs, prepared baati (roasted wheat dumplings), cooked leafy greens (bhaji), devoutly offered the naivedya to His Shaligram deity, and partook of a portion of the food. He then blessed Darbar Bhagvansinhji and Jiva Thakkar with the holy sanctified remnants (prasadi). Both partook of the prasad and experienced immense spiritual bliss.
+
+Granting them a sacred promise to visit again in the future, Varni resumed His journey and arrived at the village of Diyor. There, seeing village elders sitting at the community square idling away in worldly chatter, He delivered spiritual discourses to elevate them, accepted sidhu from the home of a Bhavsar devotee, and cooked His meal. Thus, traveling from village to village, He continued redeeming and elevating countless souls on their path to ultimate liberation.
+
+- From Nilkanth Charitra...
+🙏
+
+### Navigation:point_down:

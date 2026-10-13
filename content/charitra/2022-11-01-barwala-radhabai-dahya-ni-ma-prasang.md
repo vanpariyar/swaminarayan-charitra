@@ -65,4 +65,60 @@ TocOpen: true
 
 - શ્રીહરિલીલામૃત કળશ ૮ વિશ્રામ ૫૫માંથી…. 
 
-🙇🏻‍♂️🙏
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### बरवाला की राधाबाई और डाह्या की माँ का प्रसंग
+
+एक समय श्रीहरि ढोलका से सभी काठी दरबारों के साथ अश्वारूढ़ होकर निकले और बरवाला गाँव पहुँचे। वहाँ उतावली नदी पर घोड़ों को पानी पिलाने हेतु सभी सवारों के साथ रुके। उतावली नदी के निर्मल जल में श्रीहरि तथा उनके साथ के दरबारों ने माणकी घोड़ी और अन्य अश्वों को जल पिलाया, फिर हाथ-मुख आदि धोकर नदी के बालूका तट पर थोड़ी देर विश्राम करने रुके। 
+उसी समय गाँव के वस्ताभाई लुहाणा के पुत्र वशराम की पत्नी राधाबाई तथा डाह्या सुथार (बढ़ई) की माँ दोनों नदी पर जल भरने आई थीं। नदी से जल की गागरें भरकर लौटते समय उन्हें श्रीहरि की परम मनोहर मूर्ति के दिव्य दर्शन हुए। दोनों के चित्त श्रीहरि के स्वरूप में ऐसे तन्मय हो गए कि वे अपनी सुध-बुध (देहभान) ही भूल गईं। 
+थोड़ी देर विश्राम करने के पश्चात् श्रीहरि तो माणकी पर सवार होकर सभी दरबारों के साथ कुंडल होते हुए गढ़पुर (गढ़ड़ा) की ओर प्रस्थान कर गए। परंतु इन दोनों माताओं का मन श्रीहरि की मूर्ति में इतना लीन हो चुका था कि वे जल से भरे घड़े वहीं नदी किनारे रखकर पैदल ही गढ़पुर के मार्ग पर चल पड़ीं।
+
+बरवाला से कुंडल होते हुए लगभग पचास किलोमीटर का दुर्गम मार्ग तय करके श्रीहरि गढ़पुर पधारे। दरबारगढ़ में श्रीहरि का भव्य सामैया (स्वागत) हुआ और लाडूबा-जीवूबा ने श्रीहरि तथा साथ आए समस्त दरबारों के लिए विविध प्रकार के स्वादिष्ट थाल तैयार करके उन्हें जिमाया। नाजा जोगिया ने माणकी और अन्य घोड़ों को घेला नदी में नहलाकर दरबारगढ़ की अश्वशाला में लाकर चारा-दाना (जोगाण) दिया।
+
+दोपहर के बाद श्रीहरि दरबारगढ़ में सभा सजाकर विराजमान हुए। उनके सम्मुख सूरा खाचर, दादा खाचर, सोमला खाचर आदि प्रमुख दरबार बैठे थे। उसी समय बरवाला से पचास किलोमीटर पैदल चलकर आईं ये दोनों देवियाँ भी वहाँ पहुँचीं और श्रीहरि के दर्शन कर महिलाओं की सभा में बैठ गईं। 
+उस समय श्रीहरि के प्रिय सखा सूरा खाचर ने पूछा, "हे महाराज! जब हमने व्यासजी की पोथी से श्रीमद्भागवत सुना, तो उसमें आया कि श्रीकृष्ण की वेणु का नाद सुनते ही गोपियाँ अपने पुत्र, पति और परिवार को छोड़कर दौड़ी चली आई थीं। क्या आज इस कलियुग में भी कोई ऐसे अनन्य भक्त हो सकते हैं?" 
+यह सुनकर श्रीहरि मुस्कुराए और बोले, "सूरा बापू! ऐसे अनन्य भक्त तो हमारी आज की इस सभा में ही उपस्थित हैं!" 
+इतना कहकर महाराज ने उन दोनों महिलाओं को बुलवाकर उनका नाम-ठाम पूछा। तब उन्होंने विनीत भाव से कहा, "हे महाराज! जब आप हमारे बरवाला की उतावली नदी पर घोड़ों को जल पिलाने पधारे थे, तब हमें आपके दर्शन हुए। हम पानी की गागरें वहीं नदी किनारे छोड़कर आज आपके पीछे-पीछे पैदल ही गढ़पुर चली आई हैं।" 
+यह सुनकर श्रीहरि ने कहा, "राधाबाई! आपकी तो तीन छोटी-छोटी बेटियाँ हैं, उनकी देखरेख कौन करेगा? उनमें से एक तो मात्र पाँच महीने की दुधमुँही बच्ची है, वह तो रो-रोकर बेहाल हो जाएगी!" 
+तब राधाबाई ने श्रीहरि को हाथ जोड़कर प्रणाम करते हुए कहा, "हे महाराज! जिसने गर्भ में उसकी रक्षा की है, वही बाहर भी उसकी रक्षा करेगा! जब आप ही सर्व कर्ता-हर्ता हैं, तो फिर हम किस बात की चिंता करें? आप हमें सिर से भी अधिक अमूल्य मिले हैं, तो अब हम लोक-लाज और घर-बार की चिंता क्यों करें!" 
+तब श्रीहरि ने कहा, "यदि आप हमें अपना इष्टदेव मानती हैं, तो हमारी आज्ञा है कि आप तुरंत अपने घर लौट जाएँ!" 
+यह सुनकर दोनों माताओं के नेत्रों में अश्रु छलक आए और वे गद्गद कंठ से प्रार्थना करने लगीं, "हे प्रभु! जैसे जल के बिना मछली जीवित नहीं रह सकती, वैसे ही आपके नित्य दर्शन के बिना हम इस संसार में कैसे जी पाएँगी? अतः कृपा करके हमें अपने चरणों में ही रखिए।" 
+श्रीहरि की असीम कृपा से उसी क्षण दोनों माताओं को श्रीजी महाराज की मूर्ति के अखंड अनावरण (दिव्य) दर्शन होने लगे। तत्पश्चात् श्रीहरि ने उन्हें घर लौटने के लिए समझाया और एक बैलगाड़ी जुतवाकर पार्षदों को उन्हें सकुशल बरवाला पहुँचाने की आज्ञा दी। राधाबाई और डाह्या की माँ की ऐसी अलौकिक प्रीति देखकर सूरा खाचर आदि सभी भक्तगण अत्यंत विस्मित हो गए।
+
+- श्रीहरिलीलामृत कलश ८ विश्राम ५५ से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### The Episode of Radhabai and Dahya's Mother from Barwala
+
+Once, Shri Hari set out on horseback from Dholka accompanied by Kathi Darbars and arrived at the village of Barwala. They halted on the banks of the Utavali River to water their horses. In the flowing waters of the Utavali, Shri Hari and the Darbars offered water to Manki and the other horses, washed their hands and faces, and rested for a brief while on the sandy riverbank.
+At that time, Radhabai, the daughter-in-law of Vastabhai Luhana (wife of Vashram), and the mother of Dahya the carpenter (Suthar) had both come to the river to fetch water. As they filled their brass pots (hel) and turned to leave, they were blessed with the divine darshan of Shri Hari's enchanting form. Their minds became so captivated by His divine beauty that they completely lost all bodily awareness (dehbhaan).
+After resting a while, Shri Hari mounted Manki and, accompanied by the Darbars, rode toward Gadhpur via Kundal. However, having offered their hearts entirely to Shri Hari's murti, both women left their water pots behind on the riverbank and set out on foot toward Gadhpur following His trail.
+
+Traversing a distance of about fifty kilometers from Barwala through Kundal, Shri Hari arrived in Gadhpur. A grand welcoming procession (samaiyu) was held at the Darbargadh, where Laduba and Jivuba prepared a variety of sumptuous dishes and served thaal to Shri Hari and all the accompanying Darbars. Naja Jogiya took Manki and the other horses to the Ghela River to bathe them, then led them to the Darbargadh stables and provided them with fodder.
+
+In the afternoon, Shri Hari presided over an assembly in the Darbargadh, surrounded by prominent Darbars including Sura Khachar, Dada Khachar, and Somla Khachar. Having walked fifty kilometers on foot from Barwala, the two devoted women arrived, had darshan of Shri Hari, and took their seats in the women's assembly.
+At that juncture, Shri Hari's close companion Sura Khachar asked, "O Maharaj! When we listened to the Shrimad Bhagavatam narrated by the Brahmins, we heard how the Gopis abandoned their homes, children, and families the moment they heard the divine sound of Shri Krishna's flute. Could such singular devotees exist in this current age of Kaliyuga?"
+Shri Hari smiled and replied, "Sura Bapu, such devoted souls are present right here in our assembly today!"
+Calling both women forward, Maharaj inquired about their names and where they had come from. They devoutly answered, "O Maharaj! When You came to water Your horses at the Utavali River in our village of Barwala, we had Your divine darshan. Leaving our water pots right there on the riverbank, we have walked all the way to Gadhpur behind You today."
+Hearing this, Shri Hari said, "Radhabai, you have three young daughters; who will care for them? One of them is merely a five-month-old infant; the poor child will cry uncontrollably!"
+Radhabai bowed to Shri Hari and answered with resolute faith, "O Maharaj! He who protected her in the womb will surely protect her now! When You alone are the ultimate doer of all things (Sarva Karta-Harta), why should we worry? Now that we have attained You, who are dearer than life itself, why should we be anxious about family or worldly affairs?"
+Shri Hari then instructed them, "If you truly regard Me as your Ishtadev, it is My command that you return home!"
+Hearing His command, tears welled in the eyes of both women, and with choked voices they pleaded, "O Lord! Just as a fish cannot survive without water, how can we live in this worldly existence without Your daily darshan? Please graciously let us stay at Your lotus feet."
+By Shri Hari's boundless grace, at that very moment, both women were blessed with the continuous, unceasing divine vision (anavaran darshan) of His murti within their hearts. Shri Hari then lovingly persuaded them to return home and arranged an ox-cart (veldu) along with parshads to escort them safely back to Barwala. Witnessing such unprecedented devotion, Sura Khachar and all the assembled devotees were filled with profound awe.
+
+- From Shri Harililamrut Kalash 8, Vishram 55...
+
+🙏
+
+### Navigation:point_down:

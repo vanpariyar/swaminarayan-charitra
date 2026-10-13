@@ -38,3 +38,76 @@ TocOpen: true
 - સોરઠી સંતોમાંથી....
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### शास्त्री धर्मतनयदासजी (कुँवर हठीसिंह) और सत्संग सेवा
+
+भाल प्रदेश में धंधूका के निकट स्थित खरड गाँव में सद्गुरु रामानंद स्वामी के विचरण काल से ही सत्संग का बीजारोपण हो चुका था। धोलेरा मंदिर में रहते हुए सद्गुरु निष्कुलानंद स्वामी और सद्गुरु अद्भुतानंद स्वामी ने भाल प्रदेश के गाँवों में निरंतर विचरण कर सत्संग को अपार पोषण प्रदान किया।
+
+खरड गाँव के क्षत्रिय राजघराने में संवत १९०३ आषाढ़ शुक्ल द्वितीया के पावन दिन एक मुक्तात्मा, कुँवर हठीसिंह का जन्म हुआ। राजकुमार हठीसिंह बाल्यावस्था से ही पूजा-पाठ, देव-दर्शन और सत्संग के रंग में रंगे हुए थे। खरड गाँव के हरिभक्त जब बारी-बारी से सेवा, दर्शन और कथा-वार्ता के श्रवण हेतु धोलेरा मंदिर जाते, तब बालक हठीसिंह भी उनके साथ नियमपूर्वक जाया करते थे। वे धोलेरा मंदिर में उत्साहपूर्वक दौड़-दौड़ कर सेवा करते और सभी को अत्यंत प्रसन्न करते। सद्गुरु अद्भुतानंद स्वामी की कृपादृष्टि होते ही बालक हठीसिंह के पूर्वजन्म के सुप्त आध्यात्मिक संस्कार जागृत हो उठे।
+
+एक दिन उन्होंने स्वामीजी से करबद्ध प्रार्थना की, "अब मेरा मन घर लौटने का नहीं है, मेरी तीव्र इच्छा साधु बनने की है।" अद्भुतानंद स्वामी ने उनके सिर पर वरदहस्त रखते हुए कहा, "कुँवर हठीसिंह! आपका यह शुभ संकल्प श्रीहरि अवश्य पूर्ण करेंगे।" ऐसा कहकर स्वामीजी ने अत्यंत प्रसन्न होकर उन्हें आशीर्वाद दिया।
+
+हठीसिंह धोलेरा मंदिर में रहकर ठाकुरजी की सेवा में लीन हो गए। कुछ दिनों पश्चात जब उनके पिता दरबारश्री उन्हें लेने आए, तब स्वामीजी ने उनका यथोचित आदर-सत्कार किया और कहा, "दरबार! आपका पुत्र हठीसिंह तो पूर्वजन्म का कोई सिद्ध मुक्त है। इसका मन साधु होने का है, यदि आप सहर्ष अनुमति दें तो हम इसे साधु बना दें!" यह सुनकर दरबारश्री ने विनयपूर्वक कहा, "स्वामी! अभी हठी बहुत छोटा बालक है। उसे वैराग्य और त्यागी जीवन की कठिन साधना का क्या भान होगा! आपके प्रति उसका बाल-स्नेह है, किंतु अभी बाल्यावस्था होने के कारण इसका घर पर रहना ही उचित है।" इस प्रकार समझा-बुझाकर वे नन्हें हठीसिंह को वापस घर ले आए।
+
+यह क्रम दो-तीन वर्षों तक चलता रहा, किंतु हठीसिंह अपनी धुन के पक्के थे। वे यही रट लगाए रहते कि "मुझे तो साधु ही बनना है!" अंततः उनके पिता ने उनके वैराग्य को पहचानकर सहर्ष आजज्ञा दे दी।
+
+सद्गुरु अद्भुतानंद स्वामी ने उनसे कहा, "हठीभगत! अपने गाँव के इतने निकट रहने पर आपको सत्संग का वास्तविक अलौकिक सुख नहीं मिल सकेगा। यदि आप यहाँ से थोड़ी दूर जूनागढ़ जाकर सद्गुरु गुणातीतानंद स्वामी के सान्निध्य में रहेंगे, तो आपको सत्संग का परमानंद प्राप्त होगा।" ऐसा कहकर स्वामीजी ने उन्हें जूनागढ़ गुणातीतानंद स्वामी के पास भेज दिया। हठीसिंह ने संवत १९१७ में जूनागढ़ में पार्षद दीक्षा ग्रहण की और देव-सेवा में समर्पित हो गए। संवत १९१७ से १९२३ तक वे गुणातीतानंद स्वामी की आज्ञा और अनुवृत्ति में रहकर उन्हें निरंतर प्रसन्न करते रहे। उनकी स्मरण-शक्ति अत्यंत विलक्षण थी। स्वामी को रिझाने के लिए वे प्रतिदिन सभा में ऊँचे, गंभीर और सुरीले स्वर में श्रीहरि का स्मरण करते हुए 'नवल स्नेही नाथजी जीरे' और 'आज मारे ओरडे रे' जैसे पद गाया करते थे। स्वामी ने उनकी कुशाग्र बुद्धि और विलक्षण प्रतिभा देखकर उन्हें अचिंर्त्यानंद ब्रह्मचारीजी के पास भेजा और विशेष अनुशंसा कर उन्हें संस्कृत का गहन अध्ययन कराया।
+
+इसके अतिरिक्त, पार्षद हठीसिंह दिन के समय संतों के कमरों (मेड़ी) के निर्माण कार्य में बिना किसी संकोच के अत्यंत निरभिमान भाव से सेवा करते थे। वे स्वयं राजकुँवर होते हुए भी चूने और गिट्टी के भारी तगाड़े अपने सिर पर उठाते थे और सभी छोटे-बड़े संतों एवं भक्तों के सम्मुख परम दीनभाव से आचरण करते थे।
+
+संवत १९२३ के आश्विन शुक्ल द्वादशी के दिन सद्गुरु गुणातीतानंद स्वामी ने उनका हाथ पकड़कर ठाकुरजी की परिक्रमा करते हुए स्नेहपूर्वक कहा, "भगत! जब हम देह रूप में न रहें, तब आप बालमुकुंददास स्वामी के साथ रहना। हमने उनसे आपकी सिफारिश कर दी है, वे ही आपको साधु दीक्षा दिलवाएँगे।" इसके कुछ समय पश्चात गुणातीतानंद स्वामी अक्षरधाम पधार गए, और हठीसिंह ने अपना शेष जीवन सद्गुरु बालमुकुंददास स्वामी के मंडल में व्यतीत किया।
+
+संवत १९२४ में पार्षद हठीसिंहजी अपने विद्यागुरु अचिंर्त्यानंद ब्रह्मचारी और बालमुकुंददास स्वामी के साथ श्रीरामनवमी का विशाल समैया (उत्सव) मनाने वड़ताल पधारे। वहाँ उन्होंने बालमुकुंददास स्वामी के समक्ष विधिवत साधु बनने की इच्छा प्रकट की। उस अवसर पर वड़ताल पीठाधिपति आचार्य श्री भगवतप्रसादजी महाराज ने उन्हें पावन भागवती दीक्षा प्रदान कर उनका नाम 'शास्त्री धर्मतनयदासजी' रखा।
+
+अपनी अध्ययन पुस्तकों में स्वामी सदैव "गुरु गुणातीतानंद, शिष्य साधु धर्मतनयदास" लिखा करते थे। अपने दीक्षा-गुरु बालमुकुंददास स्वामी को भी उन्होंने जीवन पर्यंत गुरु-पद पर मानकर उनकी प्रत्येक आज्ञा का निष्ठापूर्वक पालन किया।
+
+संवत १९६८ के आश्विन कृष्ण एकादशी के दिन गोंडल में शास्त्री धर्मतनय स्वामी ने सभी भक्तों को पूर्व-सूचना देते हुए कहा, "साक्षात श्रीहरि, सद्गुरु गुणातीतानंद स्वामी और समस्त परमहंस मुझे अपने परमधाम ले जाने के लिए पधारे हैं।" सभी को 'जय श्री स्वामिनारायण' कहकर वे शांतिपूर्वक अपने नश्वर देह को त्यागकर अक्षरधाम सिधार गए।
+
+वर्तमान में भी जूनागढ़ श्री स्वामिनारायण मंदिर में स्वामीजी की पावन शिष्य-परंपरा के संत सत्संग की निरंतर सेवा कर रहे हैं।
+
+— 'सोरठी संतो' से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Shastri Dharmatanaydasji (Kunwar Hathisinh) and Devoted Satsang Service
+
+In the village of Kharad near Dhandhuka in the Bhal region, the holy roots of Satsang had been deeply planted ever since the divine travels of Sadguru Ramanand Swami. While residing at the holy shrine of Dholera Mandir, Sadguru Nishkulanand Swami and Sadguru Adbhutanand Swami continuously toured the rural villages of Bhal, nurturing the Satsang community with immense spiritual care.
+
+In this very village of Kharad, within a royal Rajput family, an exalted liberated soul (*muktatma*), Prince Hathisinh (Kunwar Hathisinh), was born on the auspicious day of Ashadh Sud Beej, Samvat 1903. From his tender childhood, Kunwar Hathisinh was deeply immersed in daily worship, temple darshan, and spiritual discourses. Whenever the devotees of Kharad traveled in groups to Dholera Mandir for devotional service, darshan, and spiritual discourses (*katha-varta*), young Kunwar Hathisinh would enthusiastically accompany them. At Dholera Mandir, he performed strenuous devotional seva with boundless zeal, delighting everyone. When the gracious, compassionate gaze of Sadguru Adbhutanand Swami fell upon him, young Hathisinh's spiritual impressions (*sanskaras*) from previous births were instantaneously awakened.
+
+One day, he earnestly pleaded with Swami, "I no longer wish to return home; my deepest desire is to renounce the world and become a sadhu." Placing his blessing hand upon Hathisinh’s head, Adbhutanand Swami affirmed, "Kunwar Hathisinh, Shri Hari will certainly fulfill your noble spiritual resolve!" With great delight, Swami showered him with divine blessings.
+
+Hathisinh remained at Dholera Mandir, absorbed in serving Thakorji. A few days later, his father, the revered ruler (*Darbar*), arrived to take him back home. Swami received him with honor, seated him respectfully, and said, "Darbar! Your son Hathisinh is an elevated mukta from past lives, and he yearns to renounce the world. If you gladly grant your consent, we shall initiate him into the holy sadhu fold!" Hearing this, the Darbar gently replied, "Swami, Hathi is still very young. He does not yet understand how arduous and demanding the ascetic life of renunciation truly is! He holds deep affection for you, but given his tender age, it is best that he stays at home in worldly life for now." Persuading young Hathisinh with loving reasoning, his father took him back home.
+
+This tug-of-war continued for two to three years, but Hathisinh remained unshakably resolute: "I want to become a sadhu and dedicate my life to God!" Recognizing his unyielding spiritual conviction, his father finally relented and granted him permission.
+
+Sadguru Adbhutanand Swami lovingly advised him, "Hathi Bhagat, residing so close to your family and native place will hinder your complete absorption in the bliss of Satsang. If you reside a little farther away in Junagadh under the spiritual mentorship of Sadguru Gunatitanand Swami, you will experience the sublime bliss of divine fellowship." With these words, Swami dispatched him to Junagadh to be under Gunatitanand Swami's holy guidance. In Samvat 1917, Hathisinh received Parshad diksha and dedicated himself to the service of God in Junagadh. From Samvat 1917 to 1923, he lived in complete alignment (*anuvrutti*) with Gunatitanand Swami's inner wishes, winning Swami's profound pleasure. Endowed with a photographic memory and a melodious, resonant voice, he would sing devotional hymns such as *"Naval Snehi Nathji Jire"* and *"Aaj Maare Orade Re"* in the daily assembly, meditating upon Shri Hari to please Swami. Observing his sharp intellect and extraordinary memory, Swami entrusted him to Achintyanand Brahmachari with a special recommendation to teach him advanced Sanskrit grammar and scriptures.
+
+Alongside his scriptural studies, Parshad Hathisinh served tirelessly during the day in the construction of the sadhus' residential quarters (*medi*), joyfully carrying heavy pans (*tagara*) of lime and gravel without a trace of royal ego. Despite being born a prince, he conducted himself with genuine humility, meekness (*deenbhav*), and reverence before all sants and devotees, young and old alike.
+
+On the holy day of Aso Sud Baras, Samvat 1923, Sadguru Gunatitanand Swami held Hathisinh’s hand while circumambulating Thakorji and instructed him affectionately: "Bhagat, when I am no longer physically present, remain in the holy company of Balamukunddas Swami. I have commended you to his care, and he will arrange your sadhu diksha." Sometime later, Gunatitanand Swami departed to Akshardham, and Hathisinh spent the remainder of his life in the holy mandal of Sadguru Balamukunddas Swami.
+
+In Samvat 1924, Parshad Hathisinhji arrived in Vadtal alongside his vidya-guru Achintyanand Brahmachari and Balamukunddas Swami to celebrate the grand Hari Navami festival. There, Parshad Hathisinhji placed his heartfelt request for sadhu initiation before Balamukunddas Swami. On that auspicious occasion, Vadtal Pithadhipati Acharya Shri Bhagvatprasadji Maharaj conferred upon him the sacred Bhagwati Diksha, bestowing upon him the ascetic name 'Shastri Dharmatanaydasji'.
+
+In all his scholarly study books, Swami humbly inscribed: *"Guru Gunatitanand, Shishya Sadhu Dharmatanaydas"*. Throughout his life, he also revered his diksha-guru Balamukunddas Swami with supreme guru-bhakti, living in unflinching obedience to his commands.
+
+On Aso Vad Ekadashi, Samvat 1968, while in Gondal, Shastri Dharmatanay Swami forewarned the devotees of his departure, declaring: "Shri Hari Himself, Sadguru Gunatitanand Swami, and all the divine paramhansas have arrived to escort me to the eternal abode!" Bidding farewell to everyone with *"Jai Shri Swaminarayan"*, he peacefully cast off his mortal frame and departed for Akshardham.
+
+To this day, sants belonging to his revered disciple lineage continue their holy service at the Shri Swaminarayan Mandir in Junagadh.
+
+— From *Sorathi Santo*...
+
+🙏
+
+### Navigation:point_down:
+

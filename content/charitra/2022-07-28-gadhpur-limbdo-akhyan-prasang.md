@@ -31,3 +31,43 @@ TocOpen: true
 - શ્રીહરિચરિત્રચિંતામણીમાંથી… 
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### गढ़पुर में नीम के वृक्ष तले दिव्य लीला और ओघड़जी का आख्यान
+
+एक समय श्रीहरि गढ़पुर में दादा खाचर के दरबार में नीम के पवित्र वृक्ष (लींबतरु) के नीचे ढोलिए पर विराजमान थे। उनके सम्मुख समस्त संत, हरिभक्त और पार्षद सभा में भावविभोर होकर बैठे हुए थे। श्रीहरि के अनन्य सखा सूरा खाचर भी ढोलिए के समीप ही बैठे थे। उस समय श्रीहरि ने सूरा खाचर से पूछा, "सूराबापू! आपने अपने गाँव के ओघड़जी का जो आख्यान रचा है, वह हमें सुनाइए!"
+
+सूराबापू ने तुरंत अपने गंभीर और बुलंद राग में ओघड़जी के आख्यान की गाथा और भावपूर्ण कीर्तन गाकर सुनाए। श्रीहरि वह अद्भुत आख्यान सुनकर अत्यंत प्रसन्न हुए।
+
+उस समय गढ़पुर में असंख्य मुक्तगण और देवता भी आकाश मार्ग से अपने-अपने विमानों में बैठकर श्रीहरि के इस दिव्य दर्शन और पावन कथा-वार्ता का श्रवण करने पधारे थे। श्रीहरि ने सूराबापू को वरदान दिया, "आपने जो यह ओघड़जी का आख्यान गाया है, जो कोई भी इस आख्यान को गाएगा या प्रेमपूर्वक श्रवण करेगा, उसे परमपद (अक्षरधाम) की प्राप्ति होगी और श्रीहरि उसके समस्त संकट दूर करेंगे।"
+
+इस प्रकार श्रीहरि ने उस दिन नीम के वृक्ष के नीचे विराजकर समस्त भक्तों को अलौकिक सुख प्रदान किया और सत्संग में भक्तिभाव की अपार वृद्धि की।
+
+- श्रीहरिचरित्रचिंतामणि से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Divine Leela beneath the Neem Tree in Gadhpur and the Narrative of Oghadji
+
+Once, Shri Hari was seated upon a cot beneath the sacred neem tree in the courtyard of Dada Khachar in Gadhpur. An assembly of revered saints, devotees, and parshads was seated before Him in deep devotion. Sura Khachar, Shri Hari’s beloved companion, was sitting right beside the cot. At that time, Shri Hari affectionately turned to Sura Khachar and said, "Sura Bapu! Please narrate to Us the narrative (*akhyan*) of Oghadji of your village, which you have composed!"
+
+Without hesitation, Sura Bapu tuned into his resonant, deep voice and sang the sacred story and devotional kirtans celebrating Oghadji. Shri Hari was immensely pleased upon hearing this extraordinary narrative.
+
+At that divine moment, countless liberated souls (*muktas*) and celestial deities arrived via the skies in their heavenly chariots (*vimanas*) to behold Shri Hari’s divine darshan and listen to this sacred discourse. Shri Hari bestowed a benevolent boon upon Sura Bapu: "Whoever sings or listens with devotion to this narrative of Oghadji composed by you shall attain the supreme abode (Param Pad / Akshardham), and Shri Hari shall alleviate all their distress."
+
+Thus, by presiding beneath the sacred neem tree that day, Shri Hari bestowed boundless divine bliss upon all the devotees and deepened the spirit of pure devotion in the Satsang fellowship.
+
+- From Shri Hari Charitra Chintamani...
+
+🙏
+
+### Navigation:point_down:

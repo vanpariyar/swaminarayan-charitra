@@ -29,3 +29,88 @@ TocOpen: true
 - શ્રીપુરુષોત્તમલીલામૃત સુખસાગર અધ્યાય ૧૧માંથી…
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### मानकूवा के लवजी विप्र और श्रीजी महाराज का उपदेश
+
+एक समय श्रीहरि कच्छ देश के मानकूवा गाँव में सुथार नाथाभाई के घर पधारे थे। नाथा सुथार के परिवारजन अत्यंत निष्ठावान और अनन्य प्रेमी भक्त थे, जो प्रतिदिन बड़े ही प्रेम और भाव से श्रीहरि के लिए थाल बनाकर उन्हें पवाते थे। एक दिन मानकूवा गाँव के ही अबोटी ब्राह्मण लवजी विप्र की धर्मपत्नी डाहीबाई ने श्रीहरि को अपने घर थाल आरोगने (भोजन करने) का स्नेहभरा आमंत्रण दिया। दोपहर का समय होने पर श्रीहरि उनके घर पधारे। डाहीबाई और लवजी विप्र ने ओसरी (बरामदे) में सुंदर आसन बिछाकर थाल परोसने की पूरी तैयारी कर रखी थी। श्रीजी महाराज उस आसन पर विराजमान हुए।
+
+उसी समय श्रीहरि की दृष्टि सामने वाले कक्ष (ओरड़े) की ओर गई। वहाँ कमरे के भीतर लकड़ी और लोहे की अनेक प्रतिमाएँ सिंदूर से पुती हुई रखी थीं। उन्हें देखकर श्रीहरि बोले, "लवजी! तुम्हारे घर तो इतने सारे देवी-देवता (भूत-प्रेत रूपी देवलियाँ) पहले से ही विद्यमान हैं, फिर यहाँ हमारा क्या काम? इसलिए हम तुम्हारे घर भोजन नहीं करेंगे; हम अपने मुकाम पर लौट जाएँगे।"
+
+तब डाहीबाई के पति विप्र लवजी ने हाथ जोड़कर कहा, "हे महाराज! थाल तैयार है, बिना भोजन किए आप क्यों पधार रहे हैं?"  
+श्रीहरि ने स्पष्ट शब्दों में कहा, "ऐसे पाखंड और अंधविश्वास के साथ हमारा कोई संबंध नहीं रह सकता। या तो हमें रखिए, या फिर इन पूजी हुई मूर्तियों और देवी-देवताओं को रखिए। दोनों एक साथ नहीं चल सकते।"
+
+तब लवजी विप्र ने दीनभाव से कहा, "हे महाराज! जैसा आप कहें, मैं वैसा ही करूँगा।"  
+श्रीहरि ने उन्हें उपदेश देते हुए कहा, "अपने सिर पर जो यह बड़ी जटा और चोटी बढ़ा रखी है, उसे कटवा दीजिए। तंत्र-मंत्र, जादू-टोना, ढोंग-धतूरा, नाटक-चेटक और अंधविश्वास आदि सब त्याग दीजिए। किसी पर देव-देवी का आना (धूणना) बंद होना चाहिए। आज से तुम्हारे सारे जंत्र-मंत्र निष्फल हो चुके हैं; तुम्हारा कोई भी छल-प्रपंच अब काम नहीं करेगा। कमरे में रखे इन सारे पुतलों को बाँधकर सरोवर के जल में विसर्जित (पधरा) कर आओ, उसके बाद ही हम भोजन करेंगे।"
+
+लवजी विप्र ने तुरंत उन सभी मूर्तियों की एक गठरी बाँधी और गाँव के सरोवर में जाकर उन्हें जल में विसर्जित कर दिया। इसके पश्चात श्रीहरि ने प्रेमपूर्वक थाल आरोग्या और भोजनोपरांत अपने विश्राम-स्थान पर पधारे। उनके जाने के बाद लवजी विप्र ने भी भोजन किया और सीधे श्रीहरि के चरणों में पहुँचा। वहाँ नाई को बुलवाकर उसने अपने सिर के लंबे बाल और जटाएँ कटवा दीं। स्नान-ध्यान करके श्रीहरि से नियम-व्रतमान धारण किए। उसी दिन से वह श्रीहरि का पक्का और निष्ठावान सत्संगी बन गया।
+
+श्रीजी महाराज जितने दिन मानकूवा में रहे, प्रतिदिन गाँव के पश्चिम दिशा में स्थित 'विचेन्द्रसर' नामक सरोवर में स्नान करने जाते थे। मार्ग में एक मारवाड़ी की बाड़ी (खेत) थी, जहाँ वे नदी की ऊँची कगार (भेखड़/टीले) पर बैठा करते थे। एक दिन वहाँ पहुँचकर श्रीहरि ने संतों से विनोदपूर्वक कहा, "आओ, इस कगार पर से कूदें!" ऐसा कहकर सर्वप्रथम प्रभु स्वयं कूदे और लगभग बारह-तेरह हाथ दूर जा गिरे। उसके बाद सभी साधु और पार्षद (पाले) भी एक-एक करके कूदे। सभी ने भरपूर प्रयास किया, किंतु कोई भी श्रीहरि जितना दूर नहीं कूद सका।
+
+श्रीजी महाराज इस खेल को देखकर मंद-मंद मुस्कुराते हुए हास्य-विनोद में बोले, "हमारे जितना दूर कोई भी नहीं कूद सका। हम सबसे आगे कूदे हैं!"  
+तब सभी संतों और हरिभक्तों ने हाथ जोड़कर विनयपूर्वक कहा, "हे महाराज! आप सबसे बड़े हैं, इसलिए बड़े की छलांग भी बड़ी होती है और छोटों की छलांग छोटी होती है।" यह सुनकर श्रीहरि खिलखिलाकर हँस पड़े। सरोवर की पाल पर, जहाँ वर्तमान में छतरी बनी हुई है, वहाँ श्रीहरि विराजमान हुए और संतों-भक्तों के साथ देर तक ज्ञानवार्ता की। इसके बाद वे मारवाड़ी की बाड़ी में आए और 'भूतिया वटवृक्ष' की जटाओं के नीचे एक ऊँचे आसन पर विराजमान हुए। उनके चारों ओर संत और हरिभक्त बैठ गए।
+
+उस समय श्रीहरि ने सभा में अत्यंत मर्मस्पर्शी उपदेश दिया और फिर कहा, "अब गाँव की ओर चलें।" ऐसा कहकर वे वहाँ से प्रस्थान कर गए। मीठी बाड़ी के खलिहान में पहुँचने पर कड़बी (पाटीदार) विश्राम ने आकर प्रार्थना की, "हे महाराज! यह मेरा पुत्र देवशी आपके साथ घूमता रहता है, कृपा करके इसे साधु मत बनाइएगा।"  
+श्रीहरि ने हँसते हुए आश्वासन दिया, "तुम्हारी सात पीढ़ियों तक हम किसी को साधु नहीं बनाएँगे!" इस प्रकार हास्य-विनोद करते हुए प्रभु सुथार नाथाभाई के घर पधारे।
+
+उस समय नाथा सुथार की पुत्री देवबाई का विवाह विथोण गाँव में हुआ था। उसका ससुर उसे विदा कराकर ले जाने आया था, किंतु देवबाई ने हठ पकड़ रखी थी कि "मैं ससुराल नहीं जाऊँगी।" तब नाथा सुथार ने श्रीहरि से निवेदन किया, "महाराज! यह कन्या ससुराल जाने से मना कर रही है।"  
+श्रीहरि ने देवबाई के ससुर को बुलवाकर समझाया, "यह कन्या ससुराल जाने से इनकार कर रही है, इसलिए आप अपने पुत्र का विवाह किसी अन्य स्त्री से करा दीजिए। उसका जो भी खर्च होगा, वह हम वहन करेंगे।"  
+किंतु सुथार ससुर ने हठपूर्वक कहा, "हम तो अपनी बहू को ही साथ लेकर जाएँगे।"  
+तब श्रीहरि ने चेतावनी भरे शब्दों में कहा, "यदि तुम इसे ले जाओगे, तो इस कन्या के माध्यम से तुम्हारा वंश आगे नहीं बढ़ेगा।" फिर भी ससुर अपनी बात पर अड़ा रहा और बोला, "हम तो इसे ही ले जाएँगे।"
+
+तब श्रीहरि ने देवबाई से स्नेहपूर्वक कहा, "तुम ससुराल चली जाओ।"  
+इस पर देवबाई ने निवेदन किया, "यदि आप भी वहाँ पधारें, तभी मैं जाऊँगी।"  
+श्रीहरि ने वचन दिया, "हम अवश्य आएँगे।"  
+अगले दिन श्रीहरि थाल आरोगकर बैलगाड़ी पर सवार हुए और दूसरी गाड़ी में देवबाई बैठी। सभी लोग ससुराल के गाँव विथोण पहुँचे। वहाँ श्रीहरि ने थाल आरोग्या और पाँच दिनों तक रहकर भक्तों को दिव्य सुख दिया। इसके पश्चात वे पुनः मानकूवा पधारे और नाथा सुथार के घर अपना मुकाम किया।
+
+- 'श्री पुरुषोत्तमलीलामृत सुखसागर' अध्याय ११ से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Lavji Vipra of Mankuva and the Divine Teachings of Shriji Maharaj
+
+Once, Shri Hari graced the village of Mankuva in Kutch, residing at the home of Suthar Nathabhai. The members of Natha Sutar’s family were deeply loving and dedicated devotees, who daily prepared delicious thal and served it to Shri Hari with profound devotion. One day, Dahibai, the wife of Aboti Brahmin Lavji Vipra from the same village, extended a loving invitation to Shri Hari to partake of thal at their home. At midday, Shri Hari arrived at their house. Dahibai and Lavji Vipra had lovingly spread a clean seat on the veranda (*osari*) and arranged the meal. Shriji Maharaj took His seat upon the platform.
+
+At that moment, Shri Hari cast His glance toward their inner chamber (*orda*). To His astonishment, the room was filled with numerous wooden and iron figurines smeared with vermilion (*sindoor*)—superstitious deities and spirits (*devla*). Seeing them, Shri Hari said, "Lavji, you already have so many petty deities housed here; what need do you have of Us? Therefore, We shall not dine at your home; We shall return to Our residence."
+
+Hearing this, Dahibai’s husband, Lavji Vipra, pleaded with folded hands, "O Maharaj! The thal is prepared. Why are You turning back without partaking of food?"  
+Shri Hari replied firmly, "We cannot abide in the presence of such hypocrisy and superstition. Either keep Us, or keep all these worshipped figurines and spirits. You cannot have both."
+
+Humbled, Lavji submitted, "O Maharaj! I shall do exactly as You command."  
+Shri Hari then instructed him, "First, shave off this long matted hair (*jata*) and topknot you have grown. Renounce all sorcery, occult spells (*jantra-mantra*), deceptive theatrics, and spirit possession (*dhunvu*). From this day forth, all your spells are rendered utterly powerless; none of your trickery shall ever work again. Bundle up all these figurines, immerse them into the waters of the lake, and only then shall We partake of your meal."
+
+Lavji Vipra immediately gathered all the figurines into a bundle, hurried to the village lake, and immersed them in the water. Having purged his home of superstition, he served the thal to Shri Hari. After dining, Shri Hari returned to His lodging. Soon after, Lavji Vipra also ate and came before Shri Hari. Calling a barber, he shaved off his long matted hair, bathed, and received the sacred vows (*vartaman*) of Satsang from Shri Hari’s lotus hands. From that auspicious day onward, he became a staunch and devoted follower of Shri Hari.
+
+During His stay in Mankuva, Shriji Maharaj went daily to bathe in Vichendrasar Lake, situated to the west of the village. Along the way, at a Marwadi devotee’s orchard (*vadi*), He would sit upon the high cliff overlooking the riverbed. One day, arriving there with the sadhus, Shri Hari playfully proposed, "Come, let us all jump from this cliff!" Saying so, the Lord leaped first, landing twelve to thirteen cubits (*haath*) away. Then all the sadhus and parshads jumped one after another, but none could match the distance of Shri Hari’s leap.
+
+Observing this friendly contest, Shriji Maharaj joked with divine laughter, "None of you could jump as far as Us! We have leaped the farthest!"  
+The santos and devotees reverently replied, "O Maharaj! You are the greatest of all, so the leap of the great is naturally great, while the leap of the small remains modest." Hearing their loving answer, Shri Hari smiled with delight. On the bank of that lake, where an ornamental memorial dome (*chhatri*) stands today, Maharaj sat and delivered profound spiritual discourses (*gnan-varta*) for hours. Later, walking to the Marwadi's orchard, He seated Himself on an elevated seat beneath the dangling roots of the *Bhutiyo Vad* (ancient banyan tree), surrounded by an assembly of santos and haribhaktas.
+
+After imparting sublime spiritual wisdom, Shri Hari announced, "Now let us head back to the village." As they walked through the threshing floor (*khalo*) of Mithi Vadi, a farmer named Vishram Kanbi approached and pleaded, "O Maharaj! My son Devshi constantly wanders around with You; please do not make him a sadhu!"  
+Shri Hari chuckled and reassured him with humor, "Do not worry! For seven generations, We shall not initiate anyone from your family into sainthood!" Smiling and joking, the Lord returned to Natha Sutar’s house.
+
+At that time, Natha Sutar’s daughter, Devbai, was married into a family in the village of Vithon. Her father-in-law had come to escort her back to her marital home, but Devbai adamantly refused, saying, "I will not go to my in-laws."  
+Natha Sutar brought the dilemma before Shri Hari. Shri Hari called Devbai's father-in-law and suggested, "This lady refuses to return; therefore, arrange another marriage for your son. Whatever expenses are incurred, We shall bear them."  
+However, the father-in-law stubbornly insisted, "No, we will only take our daughter-in-law with us."  
+Shri Hari warned him, "If you take her away against her will, your lineage will not continue through her." Even so, the carpenter remained obstinate, repeating, "We shall take her nonetheless."
+
+Seeing his stubbornness, Shri Hari gently advised Devbai, "Go to your in-laws."  
+Devbai replied with devotion, "If You accompany me there, only then will I go."  
+Shri Hari promised, "We shall surely come."  
+The following morning, after partaking of thal, Shri Hari boarded an ox-cart, and Devbai sat in another. Together they traveled to her in-laws' village of Vithon. Shri Hari dined there and stayed for five days, showering divine joy upon the devotees, before returning to Mankuva to reside once again at Natha Sutar’s home.
+
+- From *Shri Purushottam Leelamrit Sukhsagar*, Chapter 11...
+
+🙏
+
+### Navigation:point_down:
+

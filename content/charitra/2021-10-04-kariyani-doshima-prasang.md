@@ -30,3 +30,47 @@ TocOpen: true
 - ભગવાનશ્રી સ્વામિનારાયણ માથી....
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### कारियाणी की वृद्धा और श्रीजी महाराज की प्रसन्नता
+
+एक समय श्रीहरि कारियाणी गाँव में विराजमान थे। एक दिन प्रभात बीतने पर, कुछ दिन चढ़ने पर, वे अपने निवास-स्थान (उतारे) से वस्ता खाचर से मिलने दरबारगढ़ की ओर जा रहे थे। मार्ग में दरबारगढ़ की ड्योढ़ी (डेली) के पास पाटीदार (कणबी) परिवार की एक वृद्धा दादी खाट पर बैठकर अपने छोटे से पोते को गोद में खिला रही थीं। 
+
+जैसे ही श्रीहरि उनके समीप से अपनी मनमोहक, छबीली चाल से निकले, उनकी काष्ठ की खड़ाऊँ (चाखड़ी) की दिव्य खट-खट ध्वनि सुनकर गोद में बैठा वह नन्हा बालक चौंक उठा। जैसे ही उसकी दृष्टि श्रीहरि पर पड़ी, वह अपनी तोतली और बाल-सुलभ मधुर वाणी में दो बार बोल उठा—'स्वामिनारायण... स्वामिनारायण!' यह सुनते ही वह वृद्धा दादी अत्यंत हर्षित हो उठीं और प्रेमविभोर होकर बोलीं, "मेरे प्यारे लाल! तूने स्वामिनारायण नाम का उच्चारण किया! मैं तुझ पर न्योछावर जाऊँ!" ऐसा कहकर उन्होंने अपने नन्हे पोते की बड़े वात्सल्य से बलाइयाँ (ओवारणा) लीं।
+
+मार्ग में चलते हुए श्रीहरि ने जब उस वृद्धा को खाट पर बैठे-बैठे इस प्रकार प्रेम से बोलते और अपने बालक की बलाइयाँ लेते देखा, तो उनके मुखारविंद पर एक मंद-मंद, मनोहारी मुस्कान खिल उठी।
+
+श्रीहरि अभी कुछ ही कदम आगे बढ़े थे कि मार्ग में सामने से वस्ता खाचर आते दिखे। उन्होंने प्रभु को साष्टांग प्रणाम किया। श्रीहरि को मार्ग में यूँ मंद-मंद मुस्कुराते देखकर वस्ता खाचर ने जिज्ञासापूर्वक पूछा, "हे महाराज! आप किस आनंद में मुस्कुरा रहे हैं?"
+
+तब श्रीजी महाराज बोले, "इस वृद्धा का कल्याण तो हमें मुक्तानंद स्वामी के समान ही करना पड़ेगा! देखिए, इनके हृदय में हमारे नाम का कितना अगाध माहात्म्य है! अपने नन्हे पोते के मुख से हमारा नाम सुनते ही ये कितनी आनंदित हो उठीं और स्नेहपूर्वक उसकी बलाइयाँ लेने लगीं! इन्होंने हमारे दिव्य स्वरूप को पहचान लिया है, इसलिए हम इन्हें निश्चित ही अपने दिव्य धाम अक्षरधाम ले जाएँगे। और आपका यह कारियाणी गाँव तथा यह दरबारगढ़ भी अक्षरधाम के ही तुल्य पावन है।"
+
+- भगवान श्री स्वामिनारायण से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### The Elderly Woman of Kariyani and Shriji Maharaj's Divine Pleasure
+
+Once, Shri Hari was staying in the village of Kariyani. One morning, as the day advanced, He set out from His lodging toward the Darbargadh to meet Darbar Vasta Khachar. Along the pathway near the entrance gateway (deli) of the Darbargadh, an elderly Patidar (Kanbi) grandmother was seated on a cot, rocking and cradling her infant grandson in her lap.
+
+As Shri Hari walked past with His graceful and majestic gait, the toddler heard the rhythmic tapping of His sanctified wooden sandals (chakhadi). Surprised, the young child looked up, caught divine darshan of Shri Hari, and in his sweet, innocent babble uttered twice: "Swaminarayan... Swaminarayan!" Hearing these sacred words from her grandson's lips, the grandmother was filled with boundless joy and exclaimed with deep affection, "O my beloved child! You have chanted the holy name of Swaminarayan! I dedicate my whole life unto you!" Overcome with grandmotherly love, she affectionately showered maternal blessings (ovarana) upon her little grandson.
+
+Seeing the elderly woman seated on the cot expressing such profound devotion and lovingly taking her grandson’s ovarana, a tender, radiant smile illuminated Shri Hari’s lotus face as He walked along the path.
+
+Shri Hari had walked just a few steps further when Vasta Khachar approached from the opposite direction and offered his humble prostrations to the Lord. Seeing Shri Hari walking with a blissful smile on His countenance, Vasta Khachar enquired reverently, "O Maharaj! What brings this enchanting smile to Your face?"
+
+Shri Hari replied, "We shall have to grant liberation (kalyan) to this elderly mother equal to that of Muktanand Swami! Behold the immense reverence and glory (mahima) she cherishes in her heart for Our holy name! Upon hearing her grandson utter Our name, she was so overjoyed that she showered loving blessings upon him! Because she has recognized Our divine reality, We shall surely escort her to Akshardham. Indeed, your village of Kariyani and this very Darbargadh are sacred and equivalent to Akshardham itself."
+
+- From *Bhagwan Shri Swaminarayan*...
+
+🙏
+
+### Navigation:point_down:

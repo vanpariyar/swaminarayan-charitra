@@ -33,3 +33,45 @@ TocOpen: true
 - શ્રીહરિચરિત્ર ચિંતામણિ...
 
 🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### ज़मराला के गंगाधर दवे और प्रसादी का आम
+
+एक बार गर्मियों के समय ज़मराला गाँव में श्रीहरि की सभा बैठी हुई थी। कोई हरिभक्त श्रीजी महाराज के लिए पेड़ की पकी हुई अच्छी शाखा-पक्व (सांख) आम लेकर आए और महाराज के चरणों में समर्पित किए। श्रीजी महाराज ने कहा, "ब्रह्मचारी, यह भक्त बहुत अच्छे आम लाए हैं, इन्हें धोकर लाएं ताकि हम आरोग्यें।" मूलजी ब्रह्मचारी ने आम धोकर एक थाली में प्रस्तुत किए। महाराज आम को हाथ से मसलकर (घोलकर) सभा में ही आरोगने लगे। सभा में गंगाधर दवे बैठे थे। श्रीजी महाराज ने अपने द्वारा घोला हुआ और आंशिक रूप से आरोगित प्रसादी का आम गंगाधर दवे को देने के लिए हाथ आगे बढ़ाया।
+
+गंगाधर दवे के मन में विचार आया कि "मैं जाति से ब्राह्मण हूँ और यदि मैं यह जूठन खाऊँगा तो मेरे वर्णाश्रम धर्म का लोप हो जाएगा।" इस विचार से उन्होंने महाराज के हाथ से आम नहीं लिया। श्रीजी महाराज उनके मन का संकल्प जानकर मंद-मंद मुस्कुराए, परंतु कुछ बोले नहीं।
+
+समय बीतने पर सद्गुरु गोपालानंद स्वामी के साथ उनका प्रगाढ़ स्नेह हुआ। वे सत्संग के रंग में रंग गए और स्वामी से बोले, "स्वामी, अब मुझे त्यागी (संन्यासी) बना दीजिए।"
+स्वामी उन्हें श्रीजी महाराज के पास ले गए और बोले, "हे महाराज..! इस गंगाधर को ब्रह्मचारी दीक्षा दीजिए।" श्रीजी महाराज ने दीक्षा देकर उनका नाम 'ज्ञानस्वरूपानंद ब्रह्मचारी' रखा। तब सद्गुरु गोपालानंद स्वामी बोले, "हे महाराज..! इनके स्वभाव में धर्म का अंग प्रधान है, इसलिए इनका नाम 'धर्मस्वरूपानंद ब्रह्मचारी' रखिए।" श्रीजी महाराज बोले, "हाँ स्वामी, आप जो कह रहे हैं वह यथार्थ है। उसी धर्म के अंग के कारण उस समय ज़मराला गाँव में जब हमने प्रसादी का आम दिया था, तब इन्होंने नहीं खाया था।" श्रीजी महाराज ने उनके सिर पर दोनों हाथ रखे और उनका नाम 'धर्मस्वरूपानंद ब्रह्मचारी' रखा।
+
+जब तक वे जीवित रहे, तब तक भगवान की अनन्य सेवा की। श्रीजी महाराज के स्वधाम सिधारने के पश्चात, वे कई बार उस प्रसादी के आम के प्रसंग को याद करते-करते व्याकुल हो उठते, उनकी आँखों में आँसू आ जाते और वे पुकार उठते, "उन श्रीहरि ने मुझे प्रसादी के आम दिए, परंतु मैं उन दिव्य मूरति को अपनी चर्म-चक्षुओं से पहचान न सका...!"
+
+- श्रीहरिचरित्र चिंतामणि...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Gangadhar Dave of Zamrala and the Sanctified Mango
+
+Once during the summer season, Shri Hari was presiding over an assembly in the village of Zamrala. A devotee brought naturally tree-ripened mangoes for Shriji Maharaj and placed them at His lotus feet. Shriji Maharaj said, "Brahmachari, this devotee has brought wonderful mangoes; please wash them and bring them so that We may partake of them." Mulji Brahmachari washed them and served them on a plate. Maharaj softened the mangoes in His hands and began eating them right in the assembly. Gangadhar Dave was seated in the assembly, and Shriji Maharaj extended His hand to offer the partially eaten sanctified mango (prasadi) to him.
+
+Gangadhar Dave thought to himself, "I am a Brahmin by birth, and if I consume this leftover food, it will violate the codes of my Varnashram dharma." With this thought, he did not accept the mango from Maharaj. Knowing the thoughts in his heart, Shriji Maharaj smiled gently but did not say anything.
+
+With the passage of time, Gangadhar Dave developed deep affection for Sadguru Gopalanand Swami, became thoroughly immersed in Satsang, and prayed, "Swami, please initiate me into renunciation now."
+Swami took him to Shriji Maharaj and requested, "O Maharaj! Please initiate this Gangadhar as a Brahmachari." Shriji Maharaj initiated him and named him 'Gyanswarupanand Brahmachari'. Sadguru Gopalanand Swami then said, "O Maharaj! The virtue of Dharma is predominant in him, so please name him 'Dharmaswarupanand Brahmachari'." Shriji Maharaj replied, "Yes Swami, what you say is very true. It was because of this very adherence to dharma that back in Zamrala village, he did not eat the sanctified mango We offered him." Shriji Maharaj placed both His hands on his head and confirmed his name as 'Dharmaswarupanand Brahmachari'.
+
+Throughout his life, he rendered immense service to the Lord. After Shriji Maharaj returned to His divine abode Akshardham, Gangadhar Dave would often remember that divine episode of the sanctified mango with deep remorse, tears rolling down his eyes, weeping: "Shri Hari offered me sanctified mangoes with His own hands, yet with these mortal eyes, I failed to recognize that Divine Embodiment...!"
+
+- Shri Hari Charitra Chintamani...
+
+🙏
+
+### Navigation:point_down:

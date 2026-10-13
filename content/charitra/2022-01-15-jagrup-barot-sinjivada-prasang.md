@@ -32,3 +32,55 @@ TocOpen: true
 - સદગુરુ શ્રીઅદભૂતાનંદ સ્વામીની વાતોમાંથી...
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### सींजीवाड़ा के जगरूप बारोट की पत्नी और श्रीजी महाराज
+
+एक बार श्रीहरि बोचासण से काशीदास के साथ प्रस्थान कर खोडाभाई के गाँव बुधेज पधारे। वहाँ सभी हरिभक्तों ने अत्यंत हर्षोल्लास के साथ श्रीहरि का भव्य सामैया (स्वागत जुलूस) निकाला। भक्तों के अत्यधिक आग्रह पर श्रीहरि वहाँ रुके और वसंत पंचमी का विशाल उत्सव धूमधाम से मनाया गया। कुछ दिन बुधेज में रुकने के पश्चात श्रीहरि पूरे संघ के साथ आगे बढ़े और ऊँटवाल गाँव में जोइता पगी के घर दर्शन देने पधारे। उन्होंने बड़े भाव और प्रेम से प्रभु को रात्रि में विश्राम कराया और विविध व्यंजनों का थाल बनाकर जिमाया।
+
+अगले दिन श्रीहरि सभी संतों-भक्तों के संघ के साथ चलते हुए सींजीवाड़ा गाँव के पास से होकर सीधे आगे बढ़ रहे थे। जब गाँव के हरिभक्तों को ज्ञात हुआ कि हमारे आराध्य भगवान श्री स्वामीनारायण पूरे संघ के साथ गाँव की सीमा से होकर जा रहे हैं, तो सभी दौड़े-दौड़े आए और दंडवत प्रणाम कर प्रभु के दर्शन से कृतार्थ हुए। सभी ने श्रीहरि से करबद्ध प्रार्थना की, "हे महाराज! आज आपने बड़ी कृपा कर यहाँ चरण रखे हैं, तो कम से कम छाछ पीकर ही आगे पधारिए!" तब महाराज ने कहा, "आज हमें बहुत शीघ्रता है, फिर कभी आएँगे! अभी हमें बहुत लंबा मार्ग तय करना है।"
+
+ऐसा कहकर श्रीहरि आगे बढ़ने लगे। तब हरिभक्तों ने गाँव के अनन्य भक्त जगरूप बारोट की धर्मपत्नी से जाकर कहा, "श्रीहरि गाँव में रुक नहीं रहे हैं; यदि वे यहाँ ठहर जाएँ, तो हम सभी को उनकी सेवा-भक्ति का अलभ्य लाभ मिल जाएगा!" यह सुनते ही जगरूप बारोट की पत्नी द्रुत गति से गाँव की सीमा (भागोळ) पर पहुँचीं और उन्होंने आगे बढ़कर श्रीहरि की माणकी घोड़ी की लगाम (चोकडू) ही पकड़ ली और उसे मार्ग से गाँव की ओर मोड़ दिया।
+
+घट-घट के ज्ञाता अंतर्यामी श्रीहरि सब कुछ जानते हुए भी विनोदपूर्वक बोले, "अरे! आप कौन हैं? क्या आज हमें उपवास करना पड़ेगा?" तब उस निष्ठावान बाई ने बड़े प्रेम और अधिकार भाव से कहा, "हाँ, देख लिए बहुत उपवास करने वाले! चुपचाप चले आइए, हमारे घर को छोड़कर ऐसे भी भला कोई आगे निकल सकता है क्या!" ऐसा कहकर वे अनन्य प्रेम और दृढ़ आग्रह के साथ सभी को अपने घर ले आईं। 
+
+उन्होंने सभी संतों और भक्तों के लिए यथायोग्य विश्राम की व्यवस्था की और श्रीहरि को दालान (ओसरी) में विराजमान कराया। उन्होंने प्रभु के लिए खांड के लड्डू, दूधपाक, मालपुआ, भजिए, दाल और शाक आदि उत्तम रसोई तैयार की। फिर बाजोट पर सुंदर थाल सजाकर श्रीहरि को भोजन के लिए बिठाया। श्रीहरि ने बड़े प्रेम से देर तक तृप्त होकर भोजन ग्रहण किया। उस समय उस भक्तिमती बाई ने अत्यंत भावविभोर होकर श्रीहरि के दिव्य स्वरूप का दर्शन किया। श्रीहरि ने आचमन कर जलपान किया, मुखवास लिया और ढोलिए पर विराजित हुए। तत्पश्चात संघ के सभी संतों और भक्तों ने प्रसादी का भोजन किया।
+
+जगरूप बारोट की पत्नी की अनन्य भक्ति और निष्काम सेवा से श्रीहरि अत्यंत प्रसन्न हुए और उनसे वरदान माँगने को कहा, "आपकी जो भी इच्छा हो, कहिए! आप जो माँगेंगी, हम वही प्रदान करेंगे!" तब उन्होंने प्रार्थना की, "हे महाराज! मुझे एक संतान की इच्छा है, कृपा कर मुझे एक पुत्र प्रदान कीजिए।" तब श्रीहरि ने आशीर्वाद देते हुए कहा, "जाओ, आपके घर एक श्रेष्ठ हरिभक्त पुत्र का जन्म होगा।" ऐसा वरदान देकर प्रभु ने उन्हें अपने पवित्र चरणारविंद के दर्शन व छाप दी।
+
+श्रीहरि एक दिन सींजीवाड़ा में विश्राम कर अगले दिन भोजन ग्रहण करने के पश्चात आगे पधारे। श्रीहरि के दिव्य आशीर्वाद से कालान्तर में जगरूप बारोट के घर प्रभुदास बारोट नाम के महान एकांतिक भक्त का जन्म हुआ।
+
+- सद्गुरु श्रीअद्भुतानंद स्वामी की बातों से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### The Wife of Jagrup Barot of Sinjivada and Shriji Maharaj
+
+Once, Shri Hari traveled from Bochasan along with Kashidas and arrived at Budhej, the village of Khodabhai. There, the devotees welcomed Shri Hari with great devotion through a grand traditional procession (samaiya). At the earnest request of the devotees, Shri Hari prolonged His stay and celebrated the grand festival of Vasant Panchami. After staying in Budhej for a few days, Shri Hari set out with the entire pilgrim congregation (sangh) and arrived at the village of Untval to bless the home of Joita Pagi with His divine darshan. Joita Pagi lovingly hosted Him overnight and offered a sumptuous sanctified meal (Thaal).
+
+The next day, as Shri Hari proceeded along with the congregation, He was passing directly by the outskirts of Sinjivada village without stopping. When the village devotees learned that their beloved Lord, Bhagwan Shri Swaminarayan, was passing through with the sangh, they came running, offered reverent prostrations (dandvat pranam), and felt blessed. Everyone prayed to Shri Hari, "O Maharaj! You have graced us today out of immense compassion; please at least partake of some buttermilk before You proceed!" But Maharaj replied, "We are in great haste today; We shall visit some other time! We still have a long distance to travel."
+
+Saying this, Shri Hari hurried to move forward. The devotees then rushed to the devout wife of Jagrup Barot and said, "Shri Hari is not stopping in the village; if He pauses here, all of us would receive the divine opportunity to serve Him!" Hearing this, Jagrup Barot's wife rushed immediately to the village outskirts (bhagol), firmly held the bridle of Shri Hari's divine mare, Manki, and turned her towards the village.
+
+Though the omniscient Lord (Ghat-ghat na Antaryami) knew everything, He playfully asked, "Who are you? Will We have to observe a fast today?" The devout woman replied with deep affection and spiritual intimacy, "Oh, I have seen plenty of people fasting! Please come along quietly—how could anyone just bypass our home and leave like this?!" With such pure, intense devotion and loving persistence, she escorted everyone to her home.
+
+She arranged comfortable accommodations for everyone and seated Shri Hari on the veranda. She prepared a lavish feast of sugar laddus, dudhpak (sweet milk pudding), malpua, bhajia, dal, and vegetable curry. Arranging a sacred offering (Thaal), she seated Shri Hari on a decorated wooden seat (bajoth) to dine. Shri Hari dined at leisure for a long time, while the devoted woman absorbed His divine darshan with overwhelming reverence. After finishing His meal, Shri Hari rinsed His hands, drank water, took mukhvas, and relaxed upon a cot. Thereafter, all the sadhus and devotees of the congregation enjoyed the sanctified meal.
+
+Shri Hari was exceedingly pleased with the extraordinary devotion and loving service of Jagrup Barot's wife. He invited her to ask for a boon, "Speak whatever wish you have! Whatever you ask, We shall grant!" She prayed, "O Maharaj! I desire a child; please bless me with a son." Shri Hari blessed her, saying, "Go, a noble devotee son shall be born in your home." Bestowing this boon, He granted her the darshan and blessings of His sacred holy feet (charanarvind).
+
+Shri Hari stayed in Sinjivada for the day and departed the following day after dining. Through the divine blessings of Shri Hari, an exalted ekantik devotee named Prabhudas Barot was born in the home of Jagrup Barot.
+
+- From the discourses of Sadguru Shri Adbhutanand Swami...
+
+🙏
+
+### Navigation:point_down:

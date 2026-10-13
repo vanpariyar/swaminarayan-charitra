@@ -30,3 +30,45 @@ TocOpen: true
 - સ્વામીની વાતોમાંથી....
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### आखा के सवजी मेहता और गुणातीतानंद स्वामी
+
+संवत् १८९३ में सद्गुरु गुणातीतानंद स्वामी संत-मंडल सहित सत्संग-विचरण करते हुए सोरठ प्रदेश के आखा गाँव पधारे। उन्होंने गाँव के मंदिर में डेरा किया और वहाँ कथा-वार्ता की अमृत-वर्षा होने लगी। एक दिन गाँव में किसी हरिभक्त के घर स्वामी पधरामणी (चरण-रज देने) जा रहे थे, तभी गाँव के बाज़ार में अपनी दुकान (हाट) पर बैठे उनेवाल ब्राह्मण सवजी मेहता पर स्वामी की कृपादृष्टि पड़ी। स्वामी को देखकर सवजी मेहता उठ खड़े हुए और उन्होंने आदरपूर्वक नमस्कार किया। स्वामी ने उनका कुशल-क्षेम पूछा और स्नेह से कहा, "सवजी भाई! रात्रि को मंदिर में सत्संग और कथा-वार्ता सुनने अवश्य आइएगा।" इतना कहकर स्वामी पधरामणी के लिए आगे प्रस्थान कर गए।
+
+रात्रि में जब मंदिर में सत्संग-सभा लगी, तब सवजी मेहता भी कथा-वार्ता सुनने मंदिर आए। वे जैसे ही स्वामी को सिर झुकाकर साष्टांग प्रणाम करने के लिए झुके, वैसे ही उनकी पाग (पगड़ी) में खोंसी हुई नसवार (सूँघने के तंबाकू) की डिबिया छूटकर नीचे गिर पड़ी। स्वामी ने स्वयं आगे बढ़कर वह तंबाकू की डिबिया उठाई और सवजी मेहता के हाथ में थमा दी। गुणातीतानंद स्वामी जैसे ब्रह्मस्वरूप महान संत के सम्मुख अपने इस गुप्त व्यसन की ऐसी फजीहत होते देख सवजी मेहता सन्न रह गए और लज्जा से गड़ गए। उनके मन में भारी क्षोभ उत्पन्न हुआ और अपनी इस व्यसनरूपी कुटेव पर उन्हें स्वयं से ही घृणा हो गई। उन्होंने ठीक समय पर पोल खोलने वाली उस तंबाकू की डिबिया को तुरंत वहीं दूर फेंक दिया! उन्होंने मन ही मन दृढ़ संकल्प करके उसी क्षण उस व्यसन का सदा के लिए त्याग कर दिया और स्वामी के चरणों में बैठकर कथा-वार्ता सुनने लगे।
+
+स्वामी ने कथा-वार्ता में श्रीहरि के प्रौढ़-प्रताप और अलौकिक ऐश्वर्य तथा 'स्वामीनारायण' महामंत्र की अपार महिमा का विस्तार से निरूपण किया।
+स्वामी की अमृतमयी बातें सुनने के उपरांत सवजी मेहता गद्गद होकर बोले, "हे स्वामी! जब पूर्व में स्वयं साक्षात् श्रीजी महाराज हमारे इस गाँव के बाज़ार से होकर निकलते थे, तब हम दुकान पर बैठे-बैठे सिर पर कपड़ा (फालिया) ओढ़ लेते थे और भूलकर भी उनके सम्मुख नहीं देखते थे। परंतु आज मुझे समझ में आया है कि उस समय हमारे कर्म और लक्षण ऐसे पवित्र नहीं थे कि हमें उस परमब्रह्म स्वरूप के दिव्य दर्शन हो पाते। आज तो आपने हम पर असीम कृपादृष्टि की, तभी मैं यहाँ तक आ सका हूँ। अब तो बस आप मुझे वर्तमान (नियम-धर्म) धारण कराइए और कंठी बाँधकर सत्संगी बनाइए, ताकि मैं प्रकट भगवान का अनन्य आश्रय ग्रहण करके इस भवसागर को पार कर सकूँ!"
+
+सवजी मेहता की ऐसी निर्मल मुमुक्षुता और दृढ़ वैराग्य देखकर सद्गुरु गुणातीतानंद स्वामी ने उन्हें पंच-वर्तमान धारण कराए, कंठी बाँधी और सत्संगी बनाया।
+
+- स्वामीनी बातों से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Savji Mehta of Akha and Gunatitanand Swami
+
+In Samvat 1893, Sadguru Gunatitanand Swami, accompanied by his group of sadhus, arrived at the village of Akha in the Sorath region during his spiritual travels (satsang vicharan). Residing at the local mandir, Swami initiated a continuous shower of divine spiritual discourses (katha-varta). One day, as Swami was on his way to visit the home of a devotee (padhramani), his compassionate glance fell upon Savji Mehta, an Unewal Brahmin sitting at his shop in the village market. Seeing Swami approach, Savji Mehta stood up with reverence and bowed. Swami kindly inquired about his well-being and lovingly said, "Savjibhai, do come to the mandir tonight to listen to the sacred discourses." With these gracious words, Swami proceeded to the devotee's house.
+
+At night, when the assembly gathered at the mandir, Savji Mehta came to listen to the katha. As he bent down with folded hands to bow his head at Swami's holy feet, a small snuffbox (containing powdered tobacco) tucked inside his turban fell out onto the floor. Swami picked up the snuffbox and handed it back to Savji Mehta. Savji Mehta was utterly mortified to have his addiction exposed right before a paramhansa of Gunatitanand Swami's spiritual stature. He felt deep remorse and was overcome with utter self-loathing for his degrading habit. Without a second thought, he hurled away the wretched tobacco box that had revealed his weakness at such a critical moment. Resolving firmly in his heart, he renounced the addiction that very second and sat down humbly before Swami to listen to the spiritual discourses.
+
+In the assembly, Swami eloquently elaborated upon the supreme divine glory and matchless spiritual majesty of Shri Hari, as well as the limitless efficacy of the 'Swaminarayan' Mahamantra.
+Having absorbed Swami's profound divine words, Savji Mehta spoke with deep emotion: "Swami, in the past, whenever Shriji Maharaj passed through our village market, we used to sit at our shop, cover our faces with our headcloth, and intentionally refuse to look at Him. But today, I realize that back then, our spiritual virtues were sorely lacking to truly appreciate the divine darshan of that supreme form. It is only because you have cast your boundless grace upon me today that I could come here. Now, please initiate me into the sacred vows (vartaman) and accept me into the Satsang, so that by taking refuge in the manifest Lord, I may cross this worldly ocean of birth and death!"
+
+Witnessing Savji Mehta's genuine spiritual seeking (mumukshuta) and resolve, Gunatitanand Swami administered the vows (panch-vartaman), tied the sacred kanthi around his neck, and initiated him into the holy Satsang fold.
+
+- From Swami ni Vato...
+
+🙏
+
+### Navigation:point_down:

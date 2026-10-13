@@ -36,3 +36,58 @@ TocOpen: true
 - ઐતિહાસિક પત્રો માંથી…. 
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### महाराजा सयाजीराव गायकवाड़ और श्रीजी महाराज
+
+वडोदरा के महाराजा सयाजीराव गायकवाड़ के हृदय में श्रीजी महाराज के प्रति कैसा अपूर्व आदर-भाव था, इसका परिचय उनके द्वारा लिखे गए इस ऐतिहासिक पत्र से प्राप्त होता है। वह पत्र इस प्रकार था:
+
+'स्वस्ति श्री गढ़पुर महाशुभ स्थान पर पतितपावन, कृपासिंधु, दीनबंधु, भक्तवत्सल, प्रतिपालक सद्गुरु श्री सहजानंदजी महाराज के चरणों में, ग्राम वडोदरा से लिखवाने वाले श्री सरकार गायकवाड़ के साष्टांग दंडवत प्रणाम सेवा में स्वीकार हों।
+
+आगे पत्र लिखने का कारण यह है कि आपका पत्र नारूपंत नाना के पास आया। उसे पढ़कर सभी समाचार ज्ञात हुए। दूसरा यह कि श्री लक्ष्मीनारायण देव संबंधी दान-माफी (कर-मुक्ति) का पत्रक बनवाकर भेजा है, उसे सेवा में स्वीकार कीजिए।
+
+इसके अतिरिक्त हे महाराज! मैं आपका हूँ और मुझे आप प्राप्त हुए हैं, इसका हमें परम गौरव (अभिमान) है। और आपने पत्र में लिखा था कि "हम तो भगवान के भक्त हैं और भगवान के भजन की सच्ची रीति को जानते हैं", इसलिए हे महाराज! ऐसे जो आप हैं, मैं सदा आपकी ही शरण में हूँ। आगे अधिक क्या लिखें!
+
+मिति संवत् १८८३, माघ वदी ६, मंदवासर (शनिवार)  
+श्री हाजीपंत दक्षिणी हरफे (लिपि में)'
+
+प्रसिद्ध ब्रिटिश इतिहासकार जेम्स बर्जेस ने सन् १८७२ के ओरिएंटल रिसर्च जर्नल 'Indian Antiquary' में उल्लेख किया है:  
+'Guikwad Sayajee became a disciple, and also the Raja of Gudhada.'  
+अर्थात् 'गायकवाड़ सयाजी और गढ़ा के राजा (श्रीजी महाराज) के शिष्य बने थे।'
+
+- ऐतिहासिक पत्रों से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Maharaja Sayajirao Gaekwad and Shreeji Maharaj
+
+The extraordinary reverence that Maharaja Sayajirao Gaekwad of Vadodara harbored for Shriji Maharaj is beautifully reflected in this historic letter. The letter reads as follows:
+
+'Svasti Shri Gadhpur, the most auspicious holy abode, to the purifier of the fallen, ocean of compassion, friend of the destitute, affectionate to devotees, and divine protector, Sadguru Shri Sahajanandji Maharaj: from the city of Vadodara, Shri Sarkar Gaekwad submits prostrations (*sashtang dandavat pranams*)—kindly accept them in your holy service.
+
+The purpose of writing is to convey that your esteemed letter addressed to Narupanth Nana was received, and we have learned all the news from it. Furthermore, the official decree granting tax and toll exemption (*daan-mafi*) regarding Shri Lakshminarayan Dev has been prepared and dispatched; kindly accept it in your service.
+
+Moreover, O Maharaj! I belong to You, and having attained You fills our heart with immense spiritual pride. And You wrote in your letter that, "We are devotees of God and we know the true way to worship the Lord." Therefore, O Maharaj, I surrender myself completely at the refuge of such a divine master as You. What more need I write?
+
+Dated: Vikram Samvat 1883, Magha Vadi 6, Mandavasar (Saturday)  
+In the Southern (Modi/Marathi) script by Shri Hajipanth.'
+
+The eminent British historian and antiquarian James Burgess noted in the Oriental research journal *Indian Antiquary* (1872):  
+'Guikwad Sayajee became a disciple, and also the Raja of Gudhada.'  
+("Sayajirao Gaekwad and the Raja of Gadhada became disciples of Bhagwan Swaminarayan.")
+
+- From historical letters and archives...
+
+🙏
+
+### Navigation:point_down:
+

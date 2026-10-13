@@ -46,3 +46,73 @@ TocOpen: true
 - માળાનાં મણકા માથી.....
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### गुरुचरणरतानंद स्वामी (धमासणा) और श्रीजी महाराज
+
+गुजरात के कलोल तालुका के धमासणा गाँव में एक परम मुमुक्षु वृद्धा (डोशी माँ) रहती थीं। उन्होंने किसी हरिभक्त के मुख से सुना कि इस समय गुजरात की पावन धरा पर साक्षात् प्रकट भगवान स्वामिनारायण बिराजमान हैं। यह जानकर वे गाँव की सभी स्त्रियों का संघ लेकर जेतलपुर में आयोजित महायज्ञ में पहुँचीं। वहाँ उन्होंने मोटीबा के हाथों कंठी धारण कर सत्संग अंगीकार किया। उनके भीतर सत्संग प्रचार की ऐसी लगन लगी कि वे गाँव की सभी महिलाओं को सत्संग कराने लगीं और अहरनिश भजन-स्मरण करते हुए अपना बुढ़ापा बिताने लगीं। उन्होंने अपने इकलौते पुत्र और पुत्रवधू को भी सत्संग के रंग में रंग दिया। पुत्रवधू के चार छोटे-छोटे पुत्र थे, और उस दादी माँ ने चारों पोतों को बचपन से ही घुट्टी में सत्संग का अमृत पिलाया।
+
+उन चारों पौत्रों में सबसे बड़े बालक पूर्वजन्म के कोई महान मुमुक्षु जीव थे। बचपन से ही वैराग्य, सत्संग, सेवा और सद्संस्कार उनके स्वभाव में रचे-बसे थे। उनका शरीर अत्यंत तेजस्वी, बलिष्ठ और सुगठित था, जिसे देखते ही दिव्यता की अनुभूति होती थी।
+
+एक बार धमासणा गाँव से हरिभक्तों का संघ श्रीहरि के दर्शन हेतु वडताल गया। उस संघ में वे बालक भी साथ गए। मार्ग में वे दौड़-दौड़कर सबकी सेवा करते, प्यासों को जल पिलाते, रात्रि में सभी के चरण दबाते और दिनभर सबके मुख से श्रीहरि के दिव्य चरित्र श्रवण करते। इस प्रकार सेवा-भजन करते हुए वे वडताल पहुँचे और गोमती सरोवर में स्नान किया। मार्ग में नाश्ते (टीमण) के लिए वे एक मटकी में मिठाई लेकर आए थे, जिसे उन्होंने अपने इष्टदेव श्रीहरि के लिए सहेज कर रखा था। जब वे दर्शन के लिए पहुँचे, तब अंतर्यामी श्रीहरि ने उनके मन का संकल्प जानकर स्वयं माँगकर वह मिठाई आरोगी और बाकी बची मिठाई प्रसादी के रूप में वापस लौटा दी। साक्षात् प्रकट श्रीहरि के उस दिव्य दर्शन और प्रसादी से उनके नयनों में सदा के लिए प्रभु की वह मनमोहक मूर्ति बस गई। वे घर तो लौट आए, परंतु अब संसार से उनका मन पूरी तरह विरक्त हो गया।
+
+कुछ समय पश्चात् गाँव का संघ पुनः गढ़पुर में आयोजित समैया पर श्रीहरि के दर्शनार्थ गया। वे भी संघ के साथ आए, परंतु इस बार वापस घर नहीं लौटे। वे सद्गुरु गोपालानंद स्वामी और मुक्तानंद स्वामी के पावन सान्निध्य में रहकर सत्संग-समागम करने लगे। दरबारगढ़ में वे बड़े-बड़े संतों की निष्काम भाव से सेवा करते और उठते-बैठते निरंतर प्रभु का भजन करते।
+
+एक रात श्रीहरि अक्षर ओरडी में शयन कर रहे थे। लगभग आधी रात का समय था, तभी बाहर से कुछ आहट सुनकर प्रभु जागे। उन्होंने अपने पार्षद भगूजी से कहा, "जाकर देखो तो सही, बाहर कौन है?" भगूजी ने बाहर जाकर देखा तो वही तेजस्वी युवक प्रभु की ओर मुख करके दंडवत प्रणाम कर रहे थे। श्रीहरि ने उन्हें भीतर बुलाया और उनके मस्तक पर अपना वरदहस्त रखा। युवक ने करबद्ध होकर प्रार्थना की, "हे प्रभु! अब मुझे इस संसार में नहीं रहना है। कृपा करके मुझे अपनी सेवा में रखिए और साधु बना लीजिए!" उस समय श्रीहरि ने कोई उत्तर नहीं दिया। युवक का वैराग्य और निश्चय इतना अडिग था कि वे लगातार सात रातों तक पूरी-पूरी रात अक्षर ओरडी के बाहर दंडवत करते रहे। सातवीं रात श्रीहरि ने मानो उनकी निष्ठा की अंतिम परीक्षा पूरी कर परम प्रसन्नता व्यक्त की। अगले दिन प्रातःकाल नीम के वृक्ष के नीचे भरी सभा में श्रीजी महाराज ने उन्हें महासाधु दीक्षा प्रदान की और उनका नाम 'गुरुचरणरतानंद स्वामी' रखा।
+
+सत्संगी भूषण में इसका सुंदर उल्लेख आता है:
+"थया संत पाळाने बृहमचारी, उसकी बात कही विस्‍तारी..!  
+गाम धमासणानु रतन, गुरुचरणरतानंद पावन..!"  
+(सत्संगी भूषण)
+
+एक बार सभा में श्रीहरि ने विचार व्यक्त किया कि यदि गुरुचरणरतानंद स्वामी ईडर जाएँ, तो वहाँ के राजा गंभीरसिंह को सत्संग का रंग लग सकता है। यह बात सुनते ही स्वामी सभा से सीधे ईडर की ओर चल पड़े और राजा को सत्संग में जोड़ दिया। राजा के पुत्र जुवानसिंहजी भी अनन्य एकांतिक भक्त बने। उन्होंने माणसा की राजकन्या से विवाह किया और राजकोष के खर्चे से अपने राजमहल के सामने वही भव्य मंदिर बनवाया जो आज भी विद्यमान है। श्रीहरि अत्यंत प्रसन्न हुए और गढ़पुर में श्री गोपीनाथजी महाराज की प्रतिष्ठा के लिए जो मूर्तियाँ मंगवाई गई थीं, उन्हें ईडर मंदिर में पधराया, जो आज भी भक्तों को दिव्य दर्शन दे रही हैं।
+
+गुरुचरणरतानंद स्वामी ने सिरोही राज्य में भी शिवबहादुरसिंह को सत्संगी बनाया। स्वामी कोई लौकिक रूप से अधिक पढ़े-लिखे नहीं थे, फिर भी अपने अलौकिक तेज और ब्रह्मज्ञान के प्रभाव से बड़े-बड़े विद्वानों से शास्त्रार्थ जीत लेते थे। जब गुरुचरणरतानंद स्वामी गढ़पुर पधारे और महाराज से मिले, तब श्रीहरि ने परम प्रसन्न होकर अपने मस्तक से पाघ (पाग) उतारकर स्वामी को पहना दी। स्वामी ने सिरोही में भी एक सुंदर मंदिर का निर्माण करवाया।
+
+एक बार श्रीजी महाराज संघ सहित दंडव्य देश पधारे और ओळा गाँव पहुँचे। उस समय श्रीहरि ने गुरुचरणरतानंद स्वामी को साथ लिया और उनके पूर्वाश्रम के गाँव धमासणा ले आए। गाँव की सीमा पर स्थित घोघला कुएँ में श्रीहरि ने अपने थाल की प्रसादी पधराई और वरदान दिया कि जो कोई भी इस कुएँ का जल पिएगा, उसे यमदूतों का भय नहीं रहेगा और उसे यमपुरी का बुलावा नहीं आएगा।
+
+स्वामी का गोविंदानंद स्वामी के साथ अत्यंत आत्मीय स्नेह था, अतः वे दोनों सदैव जोड़ी बनाकर सत्संग विचरण करते थे। देश-विभाग का लेख होने के पश्चात् वे निरंतर सद्गुरु महानुभावानंद स्वामी के मंडल में रहकर सेवा-सत्संग करते रहे।
+
+- माला ना मणका में से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Gurucharanratanand Swami (Dhamasana) and Shriji Maharaj
+
+In the village of Dhamasana in the Kalol taluka of Gujarat, there lived a deeply spiritual and devout elderly woman (Doshima). She heard from a fellow Haribhakt that Bhagwan Swaminarayan was currently manifest in human form on the sacred soil of Gujarat. Learning this, she led a pilgrim party of women from her village to attend the grand Yagna at Jetalpur. There, she received the holy kanthi from Motiba and embraced Satsang. Inspired by an immense enthusiasm to spread the faith, she guided many women in the village towards Satsang and spent her twilight years absorbed day and night in constant devotion and bhajan. She also inspired her only son and daughter-in-law to embrace Satsang wholeheartedly. Her daughter-in-law was blessed with four young sons, and the grandmother nurtured all four from their infancy with the nectar of Satsang.
+
+Among the four grandsons, the eldest was an exalted spiritual seeker (mumukshu) from past lifetimes. From childhood, an innate detachment from worldly life (virakti), a love for Satsang, selfless service, and noble virtues seemed deeply etched into his soul. His physique was striking, radiant, and robust, emanating an aura of divine purity that captivated anyone who saw him.
+
+Once, a pilgrim group (sangh) from Dhamasana journeyed to Vadtal for the divine darshan of Shri Hari. The young boy accompanied the pilgrims. Throughout the journey, he tirelessly served everyone—rushing to fetch drinking water along the road, pressing the feet of fatigued pilgrims at night, and eagerly listening during the day to the divine charitras of Shri Hari from the elders. In this spirit of loving service, they reached Vadtal and took a holy bath in the Gomti lake. Along the journey, he had brought sweets in an earthen pot for sustenance, but he had lovingly kept them aside exclusively for Shri Hari. When he went for darshan, omniscient Shri Hari, knowing his innermost prayer, lovingly asked for the sweets, ate them, and returned the remaining sanctified food as prasadi. The moment manifest Shri Hari tasted his offering, His enchanting divine form became permanently etched in the youth's vision. Though he returned home, his heart completely detached from the material world.
+
+Some time later, the village pilgrims set out once again for Gadhpur to participate in a festive gathering (samaiya) and behold Shri Hari. The youth went along, but this time he never returned home. He stayed back in the divine fellowship of Sadguru Gopalanand Swami and Sadguru Muktanand Swami. In the Darbargadh, he selflessly served the eminent saints and continuously chanted the Lord's holy name with every breath.
+
+One night, Shri Hari was resting in the Akshar Ordi. Around midnight, hearing a rustling sound outside, the Lord awoke and asked His parshad Bhaguji to see who was outside. Bhaguji went out and discovered the young devotee performing prostrations (dandavat pranam) in the quiet of the night. Shri Hari called him inside and placed His compassionate hand upon his head. The youth pleaded with folded hands, "O Prabhu! I no longer wish to live in this worldly existence. Please accept me into Your personal service and initiate me as a sadhu!" At that moment, Shri Hari gave no reply. Undeterred, the youth continued performing prostrations outside the Akshar Ordi throughout the entire night for seven consecutive nights. On the seventh night, having tested his unyielding resolve and deep devotion, Shri Hari was immensely pleased. The following morning, beneath the shade of the neem tree (limbataru) in the grand assembly, Maharaj bestowed upon him the mahasadhu initiation (diksha) and named him 'Gurucharanratanand Swami.'
+
+This divine event is celebrated in the holy scripture Satsangi Bhushan:
+"Renounced as a saint, a lifelong celibate, his glories are vast and profound;  
+The jewel of Dhamasana village, Gurucharanratanand Swami, sacred and renowned!"  
+(Satsangi Bhushan)
+
+Later, in an assembly, Shri Hari expressed that if Gurucharanratanand Swami were to go to Idar, he could inspire King Gambhirsinh to embrace Satsang. The moment Swami heard this wish of Maharaj, he departed directly from the assembly towards Idar without even going back to his lodging, and introduced Satsang to King Gambhirsinh. The king's son, Juvansinhji, also became an Ekantik devotee; he married the princess of Mansa and, at royal expense, constructed the grand mandir that stands today right opposite his royal palace. Shriji Maharaj was exceedingly pleased and graciously installed the divine murtis originally brought for Shri Gopinathji Maharaj in Gadhpur into the Idar mandir, where they grant darshan to this day.
+
+Gurucharanratanand Swami also introduced Satsang to Shivbahadursinh in the kingdom of Sirohi. Although Swami had received little formal worldly education, his divine spiritual aura was so profound that he emerged victorious in theological scriptural debates (shastrartha) against prominent scholars. When Gurucharanratanand Swami returned to Gadhpur and met Maharaj, Shri Hari was so overwhelmed with joy that He untied the turban (paagh) from His own head and placed it upon Swami's head as a mark of highest honor. Swami also oversaw the construction of a beautiful mandir in Sirohi.
+
+On another occasion, when Shriji Maharaj was touring the Dandhavya region with a pilgrim entourage, He visited the village of Ola. At that time, Shri Hari took Gurucharanratanand Swami with Him to his former village, Dhamasana. On the village outskirts, Shri Hari poured prasadi from His divine thaal into the Ghoghla well and blessed it, proclaiming that anyone who drank water from that sanctified well would be freed from the clutches of Yama (the fear of death) and attain salvation.
+
+Gurucharanratanand Swami shared a deep spiritual bond with Govindanand Swami, and the two saints traveled together in Satsang vicharan as companions. Following the declaration of the Desh-Vibhag Lekh, he remained permanently in the holy group (mandal) of Sadguru Mahanubhavanand Swami, dedicating his life to devotion and service.
+
+- From the beads of the rosary (Mala na Manka)...
+
+🙏
+
+### Navigation:point_down:

@@ -34,3 +34,58 @@ TocOpen: true
 - શ્રીહરિચરિત્ર ચિંતામણિ...
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### गढ़पुर में आटा पीसने का प्रकरण और श्रीजी महाराज की प्रसन्नता
+
+गढ़पुर के दरबारगढ़ में पूर्व में त्यागी संत बहनों (माताओं) द्वारा बनाए गए रोटले जीमते थे। एक समय श्रीहरि ने नया नियम (प्रकरण) चलाया और आज्ञा की कि "अब से किसी भी त्यागी संत को स्त्रियों के हाथ के बने रोटले नहीं जीमने हैं; सभी को अपने ही हाथों से रसोई बनानी होगी।" सभी संतों ने सहर्ष 'हाँ' कही और महाराज की आज्ञा को शिरोधार्य किया। संतों ने श्रीजी महाराज से पूछा, "हे महाराज! चूल्हे के ईंधन (लकड़ी आदि) की क्या व्यवस्था की जाए?" तब श्रीहरि ने कहा कि दरबारगढ़ की चक्की से आटा ले जाना और जंगल से लकड़ियाँ बीनकर या उपले-कंडे एकत्र करके अपने हाथों से ही रसोई बनाना। इसके पश्चात सभी संत लक्ष्मीवाड़ी में अपने हाथों से रसोई बनाकर भोजन करने लगे।
+
+किंतु पार्षदों को आटा गूँथकर रोटला बनाना ठीक से नहीं आता था, जिससे उनके बनाए रोटले तवे पर रखते ही टूट जाते थे। कुछ पार्षदों ने शिकायत की कि "ये सांख्ययोगी वृद्ध माताएँ चक्की पर खड़े-खड़े अनाज पीसती हैं, इसलिए आटा मोटा रह जाता है और हमारे रोटले टूट जाते हैं।"
+
+जब यह बात लाडूबा और जीवूबा को पता चली, तो उन्होंने तुरंत अनाज पीसने की सेवा करने वाली सभी सांख्ययोगी बहनों को बुलाकर डाँटा। जीवूबा ने कहा, "इतने दिनों तक हम सभी ने रोटले बनाकर सभी संत-भक्तों को जिमाया और सबको प्रसन्न किया। अब यदि हम चक्की में मोटा आटा पीसकर देंगी, तो हमारी सारी सेवा व्यर्थ हो जाएगी!" तब सभी बहनों ने लाडूबा-जीवूबा को चक्की के पास ले जाकर दिखाया कि हम तो अनाज बिल्कुल महीन और बारीक ही पीसती हैं। यह देखकर लाडूबा-जीवूबा को तसल्ली तो हुई, किंतु वे कुछ बोलीं नहीं।
+
+चार-पाँच दिन बाद, एक दिन जब श्रीहरि पश्चिमी दिशा वाले कमरे की अटारी में अकेले बैठे थे, तब अनाज पीसने की सेवा करने वाली सभी माताएँ श्रीहरि के पास आईं और मन भारी करके रोने लगीं। श्रीहरि ने पूछा, "बहनों! क्या हुआ?" वे बोलीं, "हम तो महीन ही आटा पीसती हैं, किंतु पाले (पार्षद) लाडूबा-जीवूबा से शिकायत करते हैं कि हम खड़े-खड़े मोटा आटा पीसती हैं जिससे रोटले टूट जाते हैं, और इस कारण लाडूबा-जीवूबा ने हमें डाँटा है।" ऐसा कहकर उन्होंने आटे की मटकियाँ श्रीहरि को दिखाईं। श्रीहरि ने देखकर कहा, "यह आटा तो अत्यंत सुंदर और महीन है! बहनों, आप निश्चिंत रहिए, अब आपको आटा नहीं पीसना पड़ेगा। अब वे सभी अपनी-अपनी आवश्यकतानुसार स्वयं ही आटा पीस लेंगे।"
+
+इसके बाद श्रीजी महाराज ने नई चक्कियाँ मँगवाकर मंदिर की प्रदक्षिणा के पिछले भाग में रखवा दीं और यह नियम बना दिया कि सभी को स्वयं पीसकर खाना होगा।
+
+एक दिन लक्ष्मीवाड़ी से प्रेममूर्ति सद्गुरु सच्चिदानंद स्वामी और सद्गुरु सिद्धानंद स्वामी दोनों आटा पीसने आए। वे खड़े-खड़े चक्की चलाते जाते और सामने विराजमान श्रीजी महाराज के दर्शन करते जाते। उस समय महाराज पूर्व की ओर मुखारविंद करके खड़े थे। सभा समाप्त होते ही महाराज वहीं पधारे जहाँ संत आटा पीस रहे थे। महाराज को आते देखकर सच्चिदानंद स्वामी हर्षोल्लास से ऊँचे स्वर में गा उठे:
+"घंटी ना घसरके रे, वालो मारो आव्या रे...!"
+
+यह सुनकर श्रीहरि खिलखिलाकर हँस पड़े और बोले, "स्वामी! आप कीर्तन रहने ही दीजिए! आपको कीर्तन गाना नहीं आएगा, यह तो मुक्तानंद स्वामी और ब्रह्मानंद स्वामी का ही काम है!" ऐसा कहकर श्रीहरि ने चक्की की परात से चुटकी भर आटा उठाकर देखा और बोले, "हैं तो दोनों साधु समाधि वाले, परंतु आटा पीसना भी बहुत बढ़िया जानते हैं!"
+ऐसा कहकर महाराज दोनों संतों पर अत्यधिक प्रसन्न और निहाल हो गए।
+
+- श्रीहरिचरित्र चिंतामणि...
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### The Flour Grinding Episode in Gadhpur and Shriji Maharaj's Divine Pleasure
+
+In the Darbargarh of Gadhpur, the renunciant saints originally consumed rotlas prepared by the female devotees. One day, Shri Hari instituted a new rule (prakaran) and commanded, "From now on, no renunciant saint shall consume rotlas prepared by women; everyone must prepare their own meals with their own hands." All the saints humbly accepted and revered His divine wish. The saints asked Shriji Maharaj, "O Maharaj! How shall we arrange firewood for the stoves?" Shri Hari instructed that they should take flour from the flour-mills in the Darbargarh and gather twigs and firewood or dried cow-dung cakes themselves, cooking with their own hands. Following this, the saints began cooking their own food in Lakshmiwadi.
+
+However, the attendants (parshads) lacked the skill to knead dough and shape rotlas properly; consequently, whenever they placed the rolled dough onto the earthen pan (tavdi), the rotlas broke apart. Some of the attendants complained, "These elderly Sankhyayogi women grind the grain standing up at the mill, making the flour too coarse, which causes our rotlas to break."
+
+When Laduba and Jivuba heard about this complaint, they immediately summoned all the Sankhyayogi women who served by grinding grain and reprimanded them. Jivuba said, "For so many days, all of us have lovingly prepared rotlas, fed all the holy saints and devotees, and earned their divine pleasure. Now, if we provide coarsely ground flour, our entire service will go in vain!" The women then took Laduba and Jivuba to the hand-mills and demonstrated that they ground the grain into very fine flour. Seeing this, Laduba and Jivuba were reassured, though they said nothing further.
+
+Four to five days later, seeing Shri Hari sitting alone on the balcony of the west-facing room, all the women who served at the hand-mills approached Him and began weeping in distress. Shri Hari asked with compassion, "Sisters, what has happened?" They replied, "We grind the flour very finely, yet the attendants complain to Laduba and Jivuba that we grind coarsely while standing, which breaks their rotlas. Because of this, Laduba and Jivuba scolded us!" Saying so, they presented the pots of freshly ground flour before Shri Hari. Shri Hari examined it and said, "This flour is indeed wonderful and very finely ground! Sisters, worry no more. You will not have to grind flour any longer; henceforth, they will all grind their own grain according to their needs."
+
+Shriji Maharaj then ordered hand-mills to be placed in the circumambulatory path (pradakshina) behind the mandir, introducing a new practice where everyone ground their own flour before preparing meals.
+
+One day, Premmurti Sadguru Sachchidanand Swami and Sadguru Siddhanand Swami came from the farm to grind flour. As they turned the mill, they continuously absorbed the divine darshan of Shriji Maharaj. At that time, Maharaj was standing with His lotus face turned eastward. As soon as the assembly concluded, Maharaj walked over to where the two saints were grinding. Seeing Maharaj approach, Sachchidanand Swami burst out joyfully at the top of his voice:
+"Ghaṇṭī nā ghasarke re, vālo māro āvyā re...!"
+
+Hearing this impromptu verse, Shri Hari laughed heartily and said, "Swami, please leave singing kirtans aside! Composing and singing kirtans is not your domain; that is meant for Muktanand Swami and Brahmanand Swami!" Saying so, Shri Hari picked up a pinch of flour from the mill’s tray, inspected it, and remarked with a smile, "Though both these sadhus are masters of samadhi, they certainly know how to grind flour exceptionally well!"
+Saying this, Maharaj was immensely pleased with both saints and showered His abundant divine grace upon them.
+
+- From 'Shri Haricharitramrut Chintamani'...
+🙏
+
+### Navigation:point_down:
+

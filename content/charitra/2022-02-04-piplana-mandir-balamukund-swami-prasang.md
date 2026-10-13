@@ -36,3 +36,53 @@ TocOpen: true
 - સોરઠી સંતોમાંથી...
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### पीपलाणा मंदिर का निर्माण और सद्गुरु बालमुकुंददास स्वामी
+
+प्रभु नीलकंठ वर्णी और सद्गुरु रामानंद स्वामी के प्रथम मिलन का महाप्रसादी पावन स्थान पीपलाणा गाँव ओझत नदी के तट पर स्थित है। पीपलाणा गाँव के इसी प्रसादीभूत स्थान पर सद्गुरु बालमुकुंददास स्वामी एक सुंदर हरिमंदिर का निर्माण करा रहे थे। संतों का मंडल हरिभक्तों के साथ एक छोटा-सा छप्पर (टिन का शेड) बनाकर वहीं रहता था। संत और भक्त दिन-रात चिनाई व निर्माण कार्य की सेवा करते और सुबह-शाम बालमुकुंददास स्वामी सभी को कथा-वार्ता सुनाकर सत्संग कराते थे। बालमुकुंददास स्वामी स्वयं भी संतों के साथ वहीं रहकर निरंतर सेवा में जुटे रहते थे।
+
+उस समय सूरत निवासी और न्याय विभाग में मुंसिफ (न्यायाधीश) के उच्च पद पर कार्यरत हरिभक्त श्री मनसुखभाई चोकसी ग्रीष्मावकाश में अपनी नौकरी से छुट्टी लेकर तीर्थयात्रा व विभिन्न मंदिरों के दर्शन करते हुए जूनागढ़ पधारे। मनसुखभाई ने जूनागढ़ मंदिर में श्रीराधारमण देव के भावपूर्ण दर्शन किए और संतों के स्थान में जाकर नारायणदास स्वामी को दंडवत प्रणाम किया तथा सद्गुरु बालमुकुंददास स्वामी के दर्शन की अभिलाषा व्यक्त की। नारायणदास स्वामी ने तुरंत एक व्यक्ति को भेजकर स्वामी को संदेश भिजवाया। बालमुकुंददास स्वामी अगले दिन जूनागढ़ पधारे। मनसुखभाई ने अत्यंत स्नेहपूर्वक स्वामी से भेंट की और उन्हें साष्टांग दंडवत प्रणाम किया।
+
+स्वामी ने उनसे कहा, "मनसुखभाई! जब आप यहाँ तक दर्शन करने आ ही गए हैं, तो दो-चार दिन और रुक जाइए और सोरठ में श्रीहरि के पावन प्रसादी स्थानों की पंचतीर्थी की यात्रा भी कर लीजिए।" मनसुखभाई ने निवेदन किया, "स्वामीजी! छुट्टियों के दिन बहुत कम बचे हैं, परंतु जब आप जैसे महापुरुष आज्ञा कर रहे हैं, तो हम लोज और मांगरोल तक दर्शन करने अवश्य चलेंगे!"
+
+तदनंतर मनसुखभाई स्वामीजी के साथ पीपलाणा पहुँचे। गाँव में जहाँ-जहाँ श्रीहरि के चरण पड़े थे, उन सभी प्रसादी स्थानों के दर्शन किए। फिर संतों के छप्पर में स्थापित श्रीहरि की पावन चित्र-प्रतिमा के दर्शन कर वे बालमुकुंददास स्वामी के समीप बैठे। स्वामीजी ने उन्हें श्रीहरि की अपार महिमा की दिव्य बातें सुनाईं।
+
+कुछ ही देर में धूप चढ़ आई। टिन की छत वाला वह छप्पर बहुत छोटा था, जिससे भीतर भीषण गर्मी होने लगी। मनसुखभाई पसीने से तर-बतर हो गए। साथ ही वहाँ मक्खियों और मच्छरों का भारी उपद्रव देखकर मनसुखभाई ने स्वामीजी से करबद्ध प्रार्थना की, "स्वामीजी! इस छप्पर में इतनी प्रचंड गर्मी है और इस खुले स्थान में मक्खी-मच्छरों का भी बहुत त्रास है। जब तक नया मंदिर बनकर तैयार नहीं होता, तब तक गाँव में कोई मकान किराए पर ले लेते हैं ताकि सभी संत वहाँ सुखपूर्वक रह सकें। मकान का जो भी किराया या खर्च होगा, वह सब मैं वहन करूँगा। आपका शरीर भी अब वृद्ध हो गया है, अतः इस निर्माण कार्य में स्वयं शारीरिक श्रम करने के बजाय आप कारीगर और मजदूर लगा लीजिए, उसका संपूर्ण व्यय भी मैं ही दूँगा।"
+
+मनसुखभाई के ये वचन सुनकर बालमुकुंददास स्वामी बोले, "यह परम पवित्र स्थान श्रीहरि और गुरुदेव रामानंद स्वामी के प्रथम मिलन की पावन भूमि है। यहाँ ही प्रभु का नाम 'सहजानंद स्वामी' रखा गया था। इस भूमि पर तो हम अपने शरीर को जितना घिसें (तपायें), उतना कम है! यहाँ सभी संत और भक्त अपने शरीर से कठोर सेवा करके श्रीहरि को राजी कर रहे हैं। मेरे शरीर से जितनी बन पड़े, उतनी सेवा तो मुझे भी अवश्य करनी ही चाहिए। आप जैसे भक्त अपनी पसीने की गाढ़ी कमाई का धन हरिमंदिर के निर्माण हेतु अर्पित करते हैं, तो हम तन-मन से जो सेवा करें, वही सच्ची भक्ति कहलाती है। वैसे भी, अपने शारीरिक श्रम और पसीने से हरिमंदिर बनाने पर श्रीहरि अत्यंत प्रसन्न होते हैं। हम इस अलौकिक महिमा को समझकर ही सभी से सेवा कराते हैं।"
+
+सत्संग की सेवा के प्रति स्वामीजी के ऐसे महिमापूर्ण वचन सुनकर मुंसिफ साहब श्री मनसुखभाई चोकसी का हृदय अहोभाव और भक्तिभाव से भर गया। वे तुरंत खड़े हो गए और स्वामीजी के चरणों में बारंबार दंडवत प्रणाम करने लगे।
+
+— *सोरठी संतों में से...*
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Construction of Piplana Mandir and Sadguru Balamukunddas Swami
+
+The sacred village of Piplana, located on the banks of the Ozat River, is a deeply revered holy site marked by the divine first meeting of Bhagwan Nilkanth Varni and Sadguru Ramanand Swami. At this auspicious prasadi site in Piplana, Sadguru Balamukunddas Swami was overseeing the construction of a Hari Mandir (shrine). The assembly of sadhus along with dedicated devotees lived on-site in a modest tin-roofed shed, performing masonry work and manual labor with their own hands. Every morning and evening, Swami conducted uplifting spiritual discourses (katha-varta) to nurture their devotion. Sadguru Balamukunddas Swami himself stayed right there alongside the sadhus, actively participating in the seva.
+
+During that time, Shri Mansukhbhai Choksi, a resident of Surat who held a prestigious post as a Munsif (judicial magistrate) in the judiciary, took a summer leave from his duties to embark on a pilgrimage of holy mandirs, arriving at Junagadh. At the Junagadh Mandir, Mansukhbhai lovingly had darshan of Shri Radha Raman Dev, offered prostrations (dandavat pranam) to Narayandas Swami in the sadhus' quarters, and expressed his heartfelt wish to have darshan of Sadguru Balamukunddas Swami. Narayandas Swami promptly dispatched a messenger, and Balamukunddas Swami arrived the following day. Mansukhbhai met Swami with deep affection and prostrated before him. Swami said, "Mansukhbhai, since you have journeyed this far for darshan, extend your stay by a few days and perform the panchtirthi pilgrimage of Shri Hari’s sacred prasadi sites across Sorath." Mansukhbhai replied, "Swami, only a few days remain of my vacation, but since a great spiritual luminary like yourself is asking, we will certainly accompany you for darshan at least up to Loj and Mangrol!"
+
+Mansukhbhai traveled with Swami and arrived in Piplana. After taking darshan of all the holy sites within the village where Shri Hari had set His lotus feet, and offering veneration to the sacred picture-image (chitra-pratima) enshrined by the sadhus within their simple shed, Mansukhbhai sat beside Balamukunddas Swami. Swami narrated profound discourses highlighting the boundless divine glory of Shri Hari.
+
+After a short while, as the afternoon sun rose higher, the modest shed with its metal roof became intensely hot. Mansukhbhai was completely drenched in perspiration. Observing the severe heat along with the persistent nuisance of flies and mosquitoes in the open space, Mansukhbhai humbly pleaded with Swami, "Swami, it is overwhelmingly hot inside this small shed, and there is immense discomfort from flies and mosquitoes in this open area. Until the new mandir is completed, please let us rent a house in the village so that all the sadhus can stay comfortably. Whatever rent and expenses are incurred, I shall bear them all. Moreover, your body has advanced in age; rather than straining your physical body in strenuous construction work, please hire laborers and artisans. I will gladly pay for all the expenses."
+
+Hearing Mansukhbhai’s earnest proposal, Balamukunddas Swami replied with divine conviction, "This is the sacred ground where Shri Hari and Gurudev Ramanand Swami met for the very first time. It was right here that He was bestowed the auspicious name 'Sahajanand Swami'. On this sacred soil, no matter how much we exhaust our physical body in divine service, it will never be enough! All the sadhus and devotees are pleasing Shri Hari by offering physical devotion with their own hands. As much as my body permits, I too must surely serve. When noble devotees like you offer their hard-earned wealth to build the Hari Mandir, rendering selfless service with our body and mind is our true devotion. Furthermore, Shriji Maharaj is immensely pleased when Hari Mandirs are constructed with the dedicated physical labor of His devotees. It is with this profound understanding of divine glory that we inspire everyone to engage in seva."
+
+Upon hearing these words brimming with supreme glory and spiritual wisdom, Munsif Saheb Mansukhbhai Choksi was overwhelmed with profound reverence and awe. Rising to his feet, he began offering continuous prostrations (dandavat) at the holy feet of Swami right then and there.
+
+— *From Sorathi Santo...*
+
+🙏
+
+### Navigation:point_down:

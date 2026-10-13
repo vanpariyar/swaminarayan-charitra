@@ -50,3 +50,102 @@ TocOpen: true
 - શ્રીભકતચિંતામણીના મુક્તો ના ચિંતનમાંથી..
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### पीपली के महादेव गोर और श्रीजी महाराज
+
+गढ़पुर से लगभग ५७ किलोमीटर की दूरी पर पीपली गाँव स्थित है। इस गाँव में लखमणभाई ठक्कर नामक श्रीहरि के अनन्य और परम स्नेही हरिभक्त रहते थे। एक बार श्रीजी महाराज जूनागढ़ में फूलडोल (रंगोत्सव) का पर्व मनाने जा रहे थे। वे कोटड़ा-पीठा और देवळिया होते हुए पूरे संघ के साथ पीपली गाँव पधारे। सभी भक्तों ने ढोल-नगाड़ों के साथ भव्य सामैया (स्वागत) किया और परम प्रेमपूर्वक श्रीहरि को लखमण ठक्कर के घर पधराया।
+
+*गया देवळिये करी दया, त्याંथी पीपळी ए प्रभु गया…*  
+*तहां लक्ष्मण ठक्कर वास, उतरया तेना वासनी पास… !*  
+
+श्रीहरि ने सभा में उपस्थित सभी ग्रामवासियों से कुशल-क्षेम पूछा। तब गाँव के लोगों ने हाथ जोड़कर विनती की, “हे प्रभु! गाँव में एक बाघ आ गया है, जिसने कल रात ही एक गाय का शिकार किया है।” तब श्रीहरि ने मनुष्य लीला करते हुए कहा, “आप सभी गाँव वाले आज रात बारी-बारी से पहरा देना और हमारी तथा पूरे संघ की रक्षा करना।” प्रभु के वचन सुनकर सभी हरिभक्तों ने हाथ जोड़कर अपनी सहमति दी।
+
+उस समय सभा में गाँव के विद्वान विप्र महादेव गोर बैठे थे। श्रीहरि की बात सुनकर उनके मन में संशय उत्पन्न हुआ: ‘लोग इन्हें भगवान क्यों कहते हैं? ये तो अपनी रक्षा के लिए अपने भक्तों से पहरा देने को कह रहे हैं! यदि ये वास्तव में भगवान हैं, तो इन्हें तो भक्तों की रक्षा करनी चाहिए! इनके सहारे ये सीधे-सादे लोग भवसागर कैसे पार करेंगे?’ इस प्रकार उनके मन में अनेक शंकाएँ उठने लगीं।
+
+*तहां विप्र महादेव नाम, त्यारे बेठो हतो तेह ठाम…*  
+*तेणे वेण एवा सुण्या ज्यारे, मनमां थयो संशय त्यारे…*  
+*जेनुं रक्षण जनथी कराय, त्यारे ते प्रभु शुं कहेवाय?*  
+*ए शुं मारुं रक्षण करशे, एना शरणथी शुं भव तरशे?*  
+
+श्रीहरि ने लौटते समय पुनः पीपली पधारने का वचन दिया और अगले दिन संघ के साथ जूनागढ़ के लिए प्रस्थान कर गए।
+
+कुछ समय पश्चात, जूनागढ़ में रंगोत्सव संपन्न करके लौटते हुए श्रीजी महाराज पुनः पीपली गाँव पधारे। समस्त भक्तजन दर्शन के लिए उमड़ पड़े। गाँव के विद्वान महादेव गोर भी दर्शन करने तो आए, परंतु मन में संशय और संकल्प लेकर दूर ही खड़े रहे। गाँव की सीमारेखा पर स्थित विशाल वटवृक्ष के नीचे सभा आयोजित करने का निर्णय हुआ। महाराज के विराजने के लिए उत्तम आसन बिछाने को लेकर भक्तों में प्रेम भरी होड़ लग गई! गाँव के प्रतिष्ठित सेठ हिमा ठक्कर और वाघजी गोर ने नए सुंदर ढोलिए (चारपाई) मँगवाए और उन पर मखमल-मशरू के गद्दे तथा नए तकिए सजाकर वटवृक्ष के नीचे बिछा दिए।
+
+उसी समय महादेव गोर ने अपनी एक पुरानी खाट और फटी-पुरानी रजाई (तलाई) उन दोनों नए ढोलियों के पास बिछा दी और मन ही मन दृढ़ संकल्प किया: ‘यदि स्वामिनारायण साक्षात भगवान हैं, तो वे इन नए और सुंदर ढोलियों को छोड़कर मेरी इस पुरानी टूटी खाट पर बैठेंगे!’
+
+श्रीजी महाराज गाजे-बाजे के साथ सामैया स्वीकार करते हुए सभा स्थल पर पधारे। वहाँ उन्होंने बैठने के लिए तीन ढोलिए देखे। भक्तों ने नए और सुसज्जित ढोलियों पर विराजने का बहुत आग्रह किया, परंतु अंतर्यामी श्रीजी महाराज सबको विस्मित करते हुए सीधे जाकर महादेव गोर की पुरानी खाट पर ही विराजमान हो गए!
+
+प्रभु को अपनी पुरानी खाट पर विराजते देख महादेव गोर की आँखों से अश्रुधारा बह निकली। वे दौड़कर श्री स्वामिनारायण भगवान के श्रीचरणों में गिर पड़े और हाथ जोड़कर क्षमा याचना तथा स्तुति करने लगे। यह देखकर उपस्थित सभी लोग चकित रह गए और महाराज से पूछने लगे, “गोर बापा इस प्रकार क्यों रो रहे हैं और क्या कह रहे हैं?” 
+
+तब अंतर्यामी महाराज ने सभी भक्तों के समक्ष तीनों ढोलियों का रहस्य और महादेव गोर के मन के संकल्प को प्रकट किया। यह सुनकर सभी ग्रामवासी आश्चर्यचकित रह गए। इस दिव्य परचे से महादेव गोर का संशय सदा के लिए मिट गया। उन्हें श्रीजी महाराज के साक्षात परब्रह्म होने का दृढ़ निश्चय हो गया। उन्होंने तुरंत वर्तमान (पंच वर्तमान) धारण कर कंठी बाँधी और श्री स्वामिनारायण भगवान की शरण स्वीकार कर ली।
+
+*पछि नाथ पधारिया त्याંय, त्रण ढोलिया ढाळेला ज्यांय...!*  
+*जुना ढोलिया पर जगदीश, राजी थैने बिराज्या मुनीश...!!*  
+*महादेवे कह्युं जोड़ी हाथ, तमे सत्य प्रभु कृपानाथ...!*  
+*पण दुस्तर छे तव माया, भव ब्रह्मा जेवा भरमाया...!!*  
+– *हरिलीलामृत (कलश ७, विश्राम १४)*  
+
+सद्गुरु निष्कुलानंद स्वामी ने ‘श्री भक्तचिंतामणि’ (प्रकरण ११५, कड़ी ५१) में पीपली गाँव के अनन्य भक्तों का स्मरण करते हुए लिखा है:  
+
+*भकत ठक्कर लखमण मोनो, प्रागो ने विरो भक्त प्रभुनो..!*  
+*हरिजन अजु मूळीबाई, वसे गाम पीपळीमांई..!!*  
+– *श्री भक्तचिंतामणि से...*  
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Mahadev Gor of Pipli and Shriji Maharaj
+
+The village of Pipli is situated approximately 57 kilometers from Gadhpur. In this village lived Lakhamanbhai Thakkar, an ardent and loving devotee of Shri Hari. Once, while traveling to Junagadh to celebrate the vibrant festival of Fuldol (the festival of colors), Shriji Maharaj passed through Kotda-Pitha and Devaliya, arriving in Pipli along with His large congregation of sadhus and devotees (sangh). The villagers welcomed the Lord with great joy and a grand traditional reception (samaiyu), lovingly hosting Shri Hari at Lakhaman Thakkar's residence.
+
+*Gaya Devaliye kari daya, tyathi Pipli e Prabhu gaya…*  
+*Taha Lakshman Thakkar vaas, utarya tena vaasni paas…!*  
+*(Bestowing grace upon Devaliya, the Lord proceeded to Pipli; there at the dwelling of Lakshman Thakkar, He lovingly took up residence.)*
+
+In the evening assembly, Shri Hari affectionately inquired about the well-being of the villagers. The devotees folded their hands and submitted, "O Lord! A ferocious tiger has entered our village and preyed on a cow just last night." Enacting a divine human pastime (manushya charitra), Shri Hari said, "All of you villagers should take turns keeping night watch (pahra), and protect Us and the entire sangh tonight." Hearing the Lord's words, the devotees humbly agreed and prepared to keep guard.
+
+A learned Brahmin of the village named Mahadev Gor was also present in that gathering. Hearing Shri Hari ask for protection, doubts arose in his mind: 'Why do people revere him as God? He is asking his own devotees to protect him! If he were truly the Supreme Lord, he ought to protect his devotees. How can these people cross the ocean of worldly existence (bhavsagar) by taking refuge in him?' Perplexed by these thoughts, he remained deeply skeptical.
+
+*Taha vipra Mahadev naam, tyare betho hato teh thaam…*  
+*Tene ven eva sunya jyare, manma thayo sanshay tyare…*  
+*Jenu rakshan janthi karay, tyare te Prabhu shu kahevay?*  
+*E shu maru rakshan karshe, ena sharanthii shu bhav tarshe?*  
+*(There sat a Brahmin named Mahadev; hearing those words, doubt arose within his heart: "Can one who needs protection from mortals truly be called God? How can he protect me, and how can one cross worldly existence in his refuge?")*
+
+Assuring the devotees that He would visit Pipli again on His return journey, Shri Hari departed the next morning with the congregation towards Junagadh.
+
+After joyously celebrating the festival in Junagadh, Shriji Maharaj returned via Pipli. All the devotees rushed out with devotion to have His divine darshan. The scholarly Mahadev Gor also came, but stood at a distance, carrying a secret test in his heart. It was decided that the assembly would be held beneath the shade of a majestic banyan tree on the outskirts of the village. Devotees vied with one another in loving competition to arrange the finest seat for Maharaj. Two prominent village leaders, Hima Thakkar and Vaghji Gor, brought two brand new wooden cots (dholiyas) adorned with luxurious mattresses of mashru silk-cotton and plush bolsters, placing them beneath the tree.
+
+Seeing this, Mahadev Gor brought out his own old, creaky wooden cot along with an old, worn-out quilt, placed it beside the two elegant cots, and made a silent resolve: 'If Swaminarayan is truly the omniscient Supreme Lord, He will bypass those brand new, luxurious cots and choose to sit on my broken, humble cot!'
+
+Amidst jubilant musical celebrations, Shriji Maharaj arrived at the assembly. He saw the three cots laid out for Him. Despite the repeated entreaties of the devotees urging Him to rest on the magnificent new cots, the omniscient Lord walked straight over and joyfully seated Himself upon Mahadev Gor's humble, worn-out cot!
+
+Seeing the Lord seated upon his ragged cot, tears welled up in Mahadev Gor's eyes. Overwhelmed with emotion and remorse, he rushed forward, threw himself at Bhagwan Swaminarayan's lotus feet, and wept while seeking forgiveness and singing His praises. The villagers were astonished and asked Maharaj, "What is Gor Bapa saying, and why is he weeping?"
+
+Shriji Maharaj smilingly revealed the secret of the three cots and exposed the hidden prayer of Mahadev Gor's heart to the entire gathering. The villagers were filled with wonder. This miraculous revelation completely shattered Mahadev Gor's skepticism. He attained unshakable conviction (dradh nishchay) in Shriji Maharaj's divine supremacy, embraced the vows of Satsang (vartman dharan karyo), wore the sacred kanthi, and surrendered unconditionally at the lotus feet of Bhagwan Swaminarayan.
+
+*Pachi Nath padhariya tyay, tran dholiya dhalela jyay...!*  
+*Juna dholiya par Jagdish, raji thaine birajya munish...!!*  
+*Mahadeve kahyu jodi haath, tame satya Prabhu Krupanath...!*  
+*Pan dustar chhe tav maya, bhav Brahma jeva bharmaya...!!*  
+– *Harililamrut (Kalash 7, Vishram 14)*  
+*(Then the Lord arrived where the three cots were laid; upon the old cot, the Lord of the universe joyfully took His seat! With folded hands Mahadev proclaimed: "You alone are the true merciful Lord! Yet Your divine Maya is so formidable that even Brahma and Shiva are enchanted by it!")*
+
+Sadguru Nishkulanand Swami has also commemorated the devout souls of Pipli in 'Shri Bhaktachintamani' (Chapter 115, Verse 51):
+
+*Bhakat Thakkar Lakhaman Mono, Prago ne Viro bhakt Prabhuno..!*  
+*Harijan Aju Mulibai, vase gaam Piplimaai..!!*  
+– *From Shri Bhaktachintamani...*  
+
+🙏
+
+### Navigation:point_down:

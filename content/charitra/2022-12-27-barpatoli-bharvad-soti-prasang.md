@@ -29,3 +29,43 @@ TocOpen: true
 - શ્રીહરિચરિત્ર ચિંતામણિ વાત ૩૫૯ માંથી…. 
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### बारपटोली का चरवाहा और श्रीजी महाराज की छड़ी
+
+बारपटोली गाँव के अनन्य हरिभक्त कालू वावड़िया एक बार गढ़पुर (गढड़ा) में श्रीजी महाराज के दिव्य दर्शन करने जा रहे थे। मार्ग में एक नदी आई, जिसके तट पर एक चरवाहा (भरवाड़) अपने पशु चरा रहा था। उसने कालू भगत को देखकर पूछा, "आपा (भाई)! आप कहाँ जा रहे हैं?" कालू भगत ने उत्तर दिया, "गढड़ा में साक्षात् भगवान श्री स्वामिनारायण विराजे हैं, मैं उन्हीं के दर्शन करने जा रहा हूँ।"
+
+उस चरवाहे के पास एक बहुत ही सुंदर और मजबूत छड़ी (सोटी) थी। उसने वह छड़ी कालू भगत को सौंपते हुए कहा, "आपा! एक काठी दरबार मुझसे यह छड़ी सवा रुपये में माँग रहा था, लेकिन मैंने उसे नहीं दी। अब यह छड़ी मैं आपको भगवान स्वामिनारायण को अर्पण करने के लिए देता हूँ। आप यह छड़ी उन भगवान को भेंट कीजिएगा और उनसे कहिएगा कि यदि वे सच्चे भगवान हैं, तो मेरे अंतिम समय में इसी छड़ी को हाथ में लेकर मुझे अपने धाम ले जाने आएँ, और आने से पूर्व मुझे सूचना भी दें!" 
+
+कालू भगत गढ़पुर पहुँचे और श्रीजी महाराज के पावन चरणों में वंदन कर वह सुंदर छड़ी भेंट की। उन्होंने चरवाहे का संदेश सुनाते हुए कहा, "हे महाराज! मार्ग में एक चरवाहे ने यह छड़ी भेंट भेजी है और कहा है कि यदि महाराज सच्चे भगवान हैं, तो मेरे अंतकाल में इसी छड़ी को हाथ में लेकर मुझे लेने पधारें और पहले से सूचना दें।" श्रीजी महाराज ने मुस्कुराकर कहा, "ठीक है।"
+
+कुछ वर्षों के पश्चात जब उस चरवाहे का अंतिम समय (मृत्युकाल) आया, तब करुणानिधान श्रीजी महाराज दिव्य विमान लेकर साक्षात् उसे लेने पधारे, और उनके पावन कर-कमलों में वही चरवाहे की दी हुई छड़ी थी! प्रभु के दिव्य दर्शन पाकर चरवाहे ने अपने परिवारजनों से कहा, "देखो! भगवान स्वामिनारायण स्वयं मुझे लेने पधारे हैं। मैं उनके साथ परम धाम को जा रहा हूँ। तुम सब भी भगवान स्वामिनारायण का नित्य भजन-स्मरण करना, जिससे तुम भी उनके परम धाम को प्राप्त कर सको।" इतना कहकर उसने शांत भाव से देह त्याग दी और अक्षरधाम को सिधारा।
+
+- 'श्रीहरिचरित्र चिंतामणि' (वार्ता ३५૯) से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### The Shepherd of Barpatoli and Shriji Maharaj's Walking Stick
+
+Once, Kalu Vavadiya, a devout devotee of Barpatoli village, was traveling to Gadhada to have the divine *darshan* of Lord Shriji Maharaj. On the way, he reached a riverbank where a local shepherd (*bharvad*) was grazing his cattle. Seeing him, the shepherd asked, "Respected brother (*Aapa*)! Where are you headed?" Kalu Bhagat replied, "Bhagwan Shri Swaminarayan is residing in Gadhada; I am going to behold His holy *darshan*."
+
+The shepherd possessed an exceptionally fine, beautiful wooden stick (*soti*). Handing the stick to Kalu Bhagat, he said, "Brother! A Kathi chieftain offered me one and a quarter rupees for this stick, but I refused to sell it to him. Now, I am giving it to you to offer to Lord Swaminarayan. Please present it to that Lord and tell Him: 'If You are truly the authentic Supreme God, come to receive me at the time of my death holding this very stick in Your hand, and send me prior notice before You arrive!'"
+
+Kalu Bhagat reached Gadhada, prostrated at the lotus feet of Shriji Maharaj, offered the stick, and conveyed the shepherd's condition: "Maharaj, a shepherd has sent this stick as an offering with a prayer: 'If Maharaj is truly God, He must come to escort me at my final moment holding this stick, and give me advance notice.'" Hearing this innocent and heartfelt challenge, Shriji Maharaj smiled gently and said, "Very well."
+
+A few years later, when the shepherd's mortal lifespan drew to a close, the merciful Supreme Lord Shriji Maharaj arrived in person upon a celestial vehicle (*viman*) to escort his soul to the divine abode. In His holy hand, Maharaj held that very walking stick gifted by the shepherd! Overjoyed at beholding the radiant Lord, the shepherd called out to his family members: "Look! Bhagwan Swaminarayan Himself has come to take me! I am departing with Him to His eternal abode (*Akshardham*). You too should faithfully worship Lord Swaminarayan, so that you also may attain His divine abode!" Having said these words, he peacefully shed his mortal frame and attained the eternal abode of Akshardham.
+
+- From 'Shri Hari Charitra Chintamani' (Discourse 359)...
+
+🙏
+
+### Navigation:point_down:

@@ -32,3 +32,43 @@ TocOpen: true
 - શ્રીહરિચરિત્રચિંતામણીમાંથી…
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### वढाला के मांडणभाई और उनका अक्षरधाम गमन
+
+गाँव वढाला में मांडणभाई आहीर नाम के एक अत्यंत निष्ठावान हरिभक्त रहते थे। एक समय वृद्धावस्था में वे बीमार पड़े, तब उन्हें साक्षात श्रीजी महाराज के दिव्य दर्शन हुए। महाराज ने उनसे पूछा, "मांडणभाई! क्या आपकी कोई इच्छा है?" मांडणभाई ने प्रार्थना करते हुए कहा, "हे महाराज! अब मेरी कोई लौकिक इच्छा शेष नहीं है, परंतु एक बार संतों के दर्शन हो जाएँ तो अति उत्तम होगा।" तब महाराज ने वचन दिया, "ठीक है, कल दोपहर संत यहाँ दर्शन देने आएँगे।"
+
+उस समय जूनागढ़ तथा गढ़पुर के मिलकर बत्तीस साधु वढाला गाँव के मंदिर में पधारे हुए थे। मांडणभाई ने उन सभी संतों को अपने घर आमंत्रित किया और गाँव के सभी सत्संगी हरिभक्तों को भी बुलवाया। उन्होंने सभी बत्तीस साधुओं के लिए उत्तम सीधा (अन्न-सामग्री) भेंट कर प्रसादी रसोई बनवाई और सभी को भावपूर्वक जिमाया। तत्पश्चात मांडणभाई ने सभी साधुओं तथा हरिभक्तों के चरण स्पर्श करके कहा, "हे संतो! अब मुझे इस नश्वर देह का त्याग करना है, अतः आप सब मिलकर श्रीजी महाराज की पावन धुन कीजिए।" तब सभी संत-भक्त मिलकर महाराज की धुन करने लगे।
+
+उसी समय श्रीजी महाराज उन्हें अपने धाम ले जाने के लिए पधारे। तब मांडणभाई ने महाराज से प्रार्थना करते हुए कहा, "हे महाराज! आज तो रहने दीजिए, कल दोपहर मुझे लेने पधारिएगा।" यह सुनकर श्रीजी महाराज अंतर्धान हो गए। तब वहाँ उपस्थित संतों ने पूछा, "मांडणभाई! आप किससे बात कर रहे थे?" मांडणभाई ने उत्तर दिया, "श्रीजी महाराज अभी मुझे लेने आए थे, परंतु मैंने उनसे कहा कि 'हे महाराज! आज रहने दीजिए और कल दोपहर आइएगा।' इसलिए महाराज पुनः पधारने का कहकर चले गए।"
+
+अगले दिन प्रातः उठकर मांडणभाई ने स्नान कर पवित्र भाव से पूजा-अर्चना की और माला फेरते हुए भजन-कीर्तन करने लगे। परिवार के सभी सदस्य और अतिथिजन भी उनके साथ भजन में लीन हो गए। दोपहर के बाद जब चार बजे, तब मांडणभाई बोले, "यह देखिए, साक्षात श्रीजी महाराज तथा बड़े-बड़े मुक्त व संत मुझे लेने पधारे हैं। मैं उनके साथ परम धाम जा रहा हूँ।" ऐसा कहते-कहते और बातें करते हुए उन्होंने पंचमहाभूतों की इस नश्वर देह का त्याग किया और दिव्य देह धारण कर अक्षरधाम सिधार गए। परिवारजनों, सत्संगियों तथा ग्रामवासियों ने इस प्रत्यक्ष परचे (दिव्य चमत्कार) को अपनी आँखों से देखा। उन्होंने गाजे-बाजे के साथ पालकी सजाकर मांडणभाई की अंतिम यात्रा निकाली और उनका अग्नि-संस्कार किया। तत्पश्चात सभी स्नान कर अपने-अपने घर लौटे। इस प्रकार, भक्तवत्सल श्रीहरि ने अपने अनन्य भक्त की इच्छानुसार अगले दिन पुनः पधारकर उन्हें अपने परम अक्षरधाम में निवास दिया।
+
+- श्रीहरिचरित्रचिंतामणि से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Mandanbhai of Vadhala and His Departure to Akshardham
+
+In the village of Vadhala, there lived a devout and noble devotee named Mandanbhai Ahir. Once, in his old age, he fell ill, during which he was blessed with the divine darshan of Shriji Maharaj. Maharaj asked him lovingly, "Mandanbhai, do you have any wish?" Mandanbhai replied, "O Maharaj! I have no worldly desires left, but it would be wonderful if I could have the darshan of the sant-mandal once more." Maharaj graciously assured him, "Very well, tomorrow afternoon the sadhus will arrive here to give you darshan."
+
+At that time, thirty-two sadhus from Junagadh and Gadhpur happened to be staying at the mandir in Vadhala. Mandanbhai respectfully invited all thirty-two sadhus as well as all the satsangi devotees of the village to his home. He provided pure rations (sidha) and had a sumptuous devotional meal prepared to serve them all. Afterwards, Mandanbhai bowed reverently at the feet of all the sadhus and devotees and said, "O holy sants! The time has come for me to depart from this mortal body, so please chant the divine dhun of Shriji Maharaj." Hearing this, all the sadhus and devotees began chanting Maharaj's divine dhun with deep devotion.
+
+At that moment, Shriji Maharaj Himself manifested to escort Mandanbhai to Akshardham. However, Mandanbhai spoke to Maharaj, saying, "O Maharaj! Please postpone it for today, and come to take me tomorrow afternoon instead." Hearing his request, Shriji Maharaj vanished. The sadhus sitting there asked, "Mandanbhai, who were you speaking with?" Mandanbhai answered, "Shriji Maharaj had just arrived to escort me, but I requested Him, 'O Maharaj! Please spare today and come tomorrow afternoon.' Therefore, Maharaj agreed and departed."
+
+The following morning, Mandanbhai awoke early, bathed, purified himself, performed his daily puja, and began doing bhajan while turning the mala. His family members and visiting guests also joined him in singing devotional songs. Around four o'clock in the afternoon, Mandanbhai exclaimed, "Behold! Shriji Maharaj along with eminent muktas and great sants have arrived to take me. I am now leaving for the divine Abode with Them!" While speaking these sacred words, he discarded the material body composed of the five elements and ascended to eternal Akshardham in a divine form. The family members, satsangis, and villagers who witnessed this divine miracle (parcho) arranged a grand palanquin (palkhi) and carried Mandanbhai's mortal frame with musical instruments for the last rites. After performing the cremation and taking a purifying bath, everyone returned home. In this marvelous way, Bhaktavatsal Shri Hari honored the wish of His beloved devotee by returning the next day as promised to escort him to His eternal Akshardham.
+
+- From Shri Hari Charitra Chintamani...
+
+🙏
+
+### Navigation:point_down:

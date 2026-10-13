@@ -33,3 +33,55 @@ TocOpen: true
 - ભગવાન શ્રી સ્વામિનારાયણ...
 
 🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### जसदण के चेला खाचर और श्रीजी महाराज का उपदेश
+
+एक बार तपती दोपहर में श्रीहरि गाँव जसदण से होकर मानकी घोड़ी पर सवार होकर सभी काठी दरबारों, संतों और भक्तों के साथ आगे बढ़ रहे थे। तभी जसदण के दरबार चेला खाचर ने उन्हें रोक लिया और मानकी की लगाम थामकर विनती की, "हे महाराज! आज आपकी महती कृपा से आप यहाँ पधारे हैं, और यदि आप रुकेंगे नहीं तो इस अज्ञानी को क्या लाभ मिलेगा? इसलिए आज तो आप सभी को साथ लेकर मेरे दरबारगढ़ को पावन कीजिए और दोपहर का भोजन (बपोरा) आरोगिए, जिससे हमारा मनुष्य जन्म सफल हो जाए! वैसे भी आप तो मेरे पूज्य पिताश्री (आता) के गुरु हैं और हमारे इष्टदेव हैं, इस नाते भी आपका पधारना अनिवार्य है।"
+
+महाराज ने कहा, "चेला खाचर! आज हमें बहुत जल्दी है, इसलिए इतने सारे लोगों का एक साथ रुकना संभव नहीं हो पाएगा।"
+श्रीजी महाराज की यह बात सुनते ही चेला खाचर अत्यंत दुखी हो गए और उनके नेत्रों से अश्रुधारा बहने लगी। यह देख श्रीजी महाराज बोले, "दरबार! दुखी मत होइए। हम जानते हैं कि आपका स्नेह और प्रेम का अंग है। जाइए, घर पर जो कुछ भी तैयार हो, वही ले आइए। हम यहीं अल्पाहार (टीमण) करेंगे और उसके बाद ही आगे बढ़ेंगे।"
+
+यह सुनते ही दरबार दौड़ते हुए घर गए और सभी के लिए पेड़े की चौकियाँ और बर्फी से भरी मटकियाँ ले आए।
+श्रीजी महाराज और सभी दरबार घोड़ों से उतरे। चेला खाचर ने सभी के हाथ-मुँह धुलवाए, आदर-सत्कार किया और गाँव के पादर (गौंदरे) में ही सबके बैठने की उत्तम व्यवस्था की।
+
+श्रीजी महाराज ने पूछा, "चेला खाचर! आपने वर्तमान (सत्संग के नियम) धारण किए हैं, तो क्या पंच-वर्तमान का पूरा पालन करते हैं?"
+श्रीजी महाराज का यह प्रश्न सुनकर चेला खाचर तनिक संकोच में पड़ गए और बोले, "हे महाराज! मद्यपान न करना और चोरी न करना—इन दो नियमों का तो मैं पूर्णतः पालन करता हूँ, परंतु अन्य नियमों में थोड़ी-बहुत ढील रह जाती है।"
+दरबार के निष्कपट हृदय का सच्चा स्वीकार देखकर श्रीजी महाराज अत्यंत प्रसन्न हुए और बोले, "दरबार! आप तो क्षत्रिय के वंशज हैं और युद्ध के मैदान में परम शूरवीर हैं, उसी प्रकार पंच-वर्तमान के नियमों का पालन करने में भी शूरवीर बनिए! हमारे साथ संबंध होने मात्र से ही सत्संगी का कल्याण तो हम अवश्य करते हैं, परंतु जो नियमों में दृढ़ रहता है, उसके प्रति हमारे मन में आत्मीयता आ जाती है और हमें उससे विशेष स्नेह होता है।"
+
+दरबार ने दोनों हाथ जोड़कर प्रार्थना की, "हे महाराज! अब मैं अन्य नियमों का भी नख-शिख (पूर्ण रूप से) पालन करूँगा। जिससे आप प्रसन्न हों, वैसे सभी वर्तमान अपने शरीर में प्राण रहने तक पूरी तरह निभाऊँगा।"
+श्रीजी महाराज ने अपने कर-कमलों से सभी संतों, भक्तों और उपस्थित ग्रामवासियों को पेड़े व बर्फी का प्रसाद बाँटा तथा स्वयं भी आरोग्या। अल्पाहार पूर्ण कर महाराज सबके साथ आगे के मार्ग पर प्रस्थान कर गए।
+
+- भगवान श्री स्वामिनाारायण...
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Chela Khachar of Jasdan and the Teachings of Shriji Maharaj
+
+Once, during a bright afternoon, Shri Hari was passing through the town of Jasdan riding His mare, Manki, accompanied by various Kathi Darbars, holy saints, and devotees. Seeing Him, Darbar Chela Khachar stopped them, held Manki’s reins, and pleaded, "O Maharaj! Today by Your immense grace You have arrived here, and if You do not halt, what benefit is it to this ignorant soul? Therefore, today please bring everyone to sanctify my Darbargadh (residence) and take lunch (bapora), so that our human birth may be fulfilled. Moreover, You are the Guru of my father (Aata) and our supreme Ishtadev, so by that very relationship, You must grace our home."
+
+Maharaj replied, "Chela Khachar, we are in a great rush today, so it will not be possible for all of us to stay together."
+Upon hearing these words from Shriji Maharaj, Chela Khachar became utterly disheartened, and tears began streaming down his eyes. Shriji Maharaj said with affection, "Darbar! Do not be sorrowful. We well understand that your devotion is rooted in deep love. Go home and bring whatever is readily available; we shall have refreshments (timan) right here and only then continue our journey."
+
+Hearing this, the Darbar hurried home and returned with trays of pedas and pots filled with barfi for everyone.
+Shriji Maharaj and the Darbars dismounted from their horses. Chela Khachar washed their hands and faces, extended warm hospitality, and arranged comfortable seating right at the outskirts (gondar) of the village.
+
+Shriji Maharaj then inquired, "Chela Khachar, you have taken the vows (vartaman), but do you observe the Panch Vartaman (five primary moral codes of Satsang) strictly?"
+Hearing Maharaj’s question, Chela Khachar felt somewhat hesitant and confessed, "O Maharaj! I strictly follow two vows—abstaining from alcohol and refraining from stealing—but in the other vows, there is some slackness."
+Seeing the Darbar's candid and honest admission from a pure heart, Shriji Maharaj was greatly pleased and remarked, "Darbar! You have been nurtured on Kshatriya milk and are fearless warriors in battle. In that same spirit of valour, be steadfast and heroic in upholding the vows of Panch Vartaman! As for salvation (kalyan), We certainly liberate a devotee simply because they have formed an association with Us; however, when someone strictly adheres to the moral vows, We feel a deep sense of closeness and kinship with them, and Our affection for them grows manifold."
+
+With folded hands, the Darbar humbly resolved, "O Maharaj! From now on, I will observe all the other vows from head to toe with utmost perfection. To please You, I shall uphold all the moral codes until my last breath."
+Shriji Maharaj distributed the prasad of peda and barfi with His own holy hands to all the saints, devotees, and villagers present, and also partook of it Himself. After completing the refreshments, Maharaj and the entourage set forth on their onward journey.
+
+- Bhagwan Shri Swaminarayan...
+🙏
+
+### Navigation:point_down:
