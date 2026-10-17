@@ -35,3 +35,105 @@ TocOpen: true
 - શ્રી કચ્છલીલા અધ્યાય ૨૪માંથી….
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### आधोई के रायधणजी और श्रीजी महाराज का बल
+
+एक समय श्रीजी महाराज कच्छ के आधोई गाँव पधारे और लाधाजी के दरबार में दो माह तक रहे। वहाँ कबीरपंथियों के साथ शास्त्रार्थ कर महाराज ने उनका खंडन किया। लाधाजी के चार पुत्र थे—अदोजी, कल्याणजी, रामसंगजी और रायधणजी। श्रीजी महाराज उनके घर रहे और अनेक दिव्य लीलाएँ कर सभी को अलौकिक सुख प्रदान किया।
+
+एक दिन महाराज ढोलिए पर विराजमान थे और चारों भाई उनके सम्मुख बैठे थे। तब श्रीहरि ने पूछा, "आप चार भाई हैं, इनमें सबसे बलवान कौन है?" 
+
+तब तीनों भाइयों ने कहा, "यह रायधणजी बहुत बलवान हैं। ये एक साथ आठ नारियल फोड़ देते हैं—दो नारियल काँख (बगल) में रखते हैं, दो नारियल कोहनी के भीतरी भाग में, दो नारियल दोनों जाँघों और पेड़ू के बीच, और दो नारियल दोनों पिंडलियों व जाँघों के मध्य में रखते हैं; फिर खड़े होकर जैसे ही बैठते हैं, एक ही झटके में वे आठों नारियल टूट जाते हैं! घुटने से बँधी चारहरी रस्सी को एक झटके में तोड़ देते हैं, और यदि पूरे बल में आ जाएँ तो सरोते के समान सुपारी को चुटकी में मसलकर उसका चूरा बना देते हैं; ऐसे पराक्रमी हैं।"
+
+तब श्रीजी महाराज ने रायधणजी से कहा, "हमारी कलाई पकड़िए।" 
+
+रायधणजी ने संकोच करते हुए कहा, "महाराज! आपका शरीर तपस्या के कारण अत्यंत कृश (दुबला) हो गया है। आपका हाथ पकड़ना मुझे उचित नहीं लगता।" 
+
+महाराज ने कहा, "आप हमारी चिंता मत कीजिए; बिना किसी संकोच के अच्छी तरह से हमारी कलाई पकड़िए।" 
+
+तब रायधणजी ने कहा, "ठीक है महाराज! लाइए।" श्रीजी महाराज ने अपना दाहिना हाथ आगे बढ़ाया, जिसे रायधणजी ने एक हाथ से पकड़ लिया। 
+
+महाराज ने कहा, "दोनों हाथों से पकड़िए।" रायधणजी ने दोनों हाथों से कलाई पकड़ी। 
+
+महाराज ने दो-तीन बार चेतावनी दी, "दृढ़ता से पकड़ना, ठीक है?" 
+
+रायधणजी ने कहा, "मैंने बहुत मजबूती से पकड़ रखा है।" 
+
+फिर महाराज ने सहजता से अपना हाथ छुड़ा लिया और रायधणजी का दाहिना हाथ अपनी बगल में दबा लिया। महाराज के दबाते ही रायधणजी अत्यंत व्याकुल हो गए और पीड़ा के कारण मुख से शब्द भी न निकाल सके! जब श्रीजी महाराज ने रायधणजी का चेहरा देखा, तो उनका हाथ छोड़ दिया। रायधणजी काफी देर तक अपना हाथ थामे बैठे रहे और बोले, "हे महाराज! मेरे हाथ की हड्डियाँ टूट गईं!" 
+
+महाराज ने कहा, "यहाँ आइए, हम देखते हैं।" रायधणजी ने आकर हाथ दिखाया, तो महाराज ने देखकर कहा, "हाथ तो बिल्कुल ठीक है, कोई हड्डी नहीं टूटी।"
+
+इसके बाद चारों भाई उठकर कुछ दूरी पर जाकर बैठ गए। महाराज ने पूछा, "दूर क्यों बैठ गए?" 
+
+तब रायधणजी ने हाथ जोड़कर कहा, "कृष्णावतार में भगवान श्रीकृष्ण ग्यारह वर्ष के थे, और उन्होंने कुवलयापीड हाथी, चाणूर-मुष्टिक जैसे मल्लों और कंस का वध किया था। हमें संशय रहता था कि इतने छोटे बालक ने उन महाबलियों को कैसे मारा होगा? आज हमारा वह संशय सदा के लिए मिट गया! क्योंकि आपका यह अद्भुत पराक्रम देखकर हमें स्पष्ट प्रतीति हो गई कि आप न तो छोटे हैं और न ही शरीर से दुर्बल; आप तो अक्षरातीत पूर्ण पुरुषोत्तम नारायण हैं! आज हमने आपको यथार्थ रूप में पहचान लिया है। हे महाराज! आप केवल हँसने-खेलने जैसे सामान्य नहीं हैं, आप तो सर्वथा पूजनीय और सेवा योग्य परमेश्वर हैं।" 
+
+यह जानकर कि साक्षात् भगवान ही समस्त अवतारों के अवतारी हैं, घर के सभी पुरुष और महिलाएँ परम भाव से श्रीजी महाराज की सेवा में समर्पित हो गए।
+
+एक दिन श्रीजी महाराज ने आधोई गाँव के एक हरिभक्त से कहा, "हमने सुना है कि आपके घर का घी बहुत उत्तम होता है।" उस भक्त ने प्रसन्न होकर ताज़ी दुही भैंस के दूध से बना उत्तम घी एक बड़ी काँसे की थाली में भरकर महाराज को भेंट किया। श्रीजी महाराज ने थाली देखकर कहा, "घी बहुत अच्छा है; क्या यह घी आपने हमें पीने के लिए दिया है?" भक्त ने कहा, "हे महाराज! सुखपूर्वक पीजिए।" महाराज ने पूरी थाली मुँह से लगाकर एक ही घूँट में सारा घी पी लिया! जब उस भक्त ने थाली में उँगली घुमाकर देखी, तो उँगली में चिकनाई का एक अंश भी नहीं लगा!
+
+तब उस भक्त ने विस्मित होकर कहा, "जैसे कृष्णावतार में पूतना स्तनपान कराने आई थी, तो आपने उसके प्राणों सहित दूध पी लिया था; वैसे ही इस थाली में लेशमात्र भी चिकनाई शेष नहीं रही!" श्रीजी महाराज ने कहा, "आपने पीने को दिया तो हमने पी लिया।" भक्त हँसकर बोला, "हे महाराज! आपने हमारे लिए थोड़ी प्रसादी भी नहीं छोड़ी!" यह सुनकर महाराज और भक्त दोनों हँस पड़े।
+
+एक अन्य दिन चारों भाइयों की माताजी ने हाथ जोड़कर श्रीहरि से प्रार्थना की, "हे महाराज! मेरे चार पुत्र हैं। वे भगवान का भजन तो भली-भाँति करते हैं, परंतु व्यावहारिक मामलों में समझाने पर भी नहीं समझते और अलग होना चाहते हैं। वे आपस में कहीं विवाद न कर बैठें, इसलिए आप जैसे बँटवारा कर देंगे, हम उसी में प्रसन्न हैं।" तब श्रीजी महाराज ने संपत्ति के चार समान भाग बनाकर चिट्ठियाँ डालीं। जिसके भाग में जो आया, चारों भाइयों ने प्रसन्नता से स्वीकार किया और अपने-अपने घर जाकर श्रीहरि को उत्तम भोजन कराया तथा उनकी विविध सेवाओं से उन्हें प्रसन्न किया।
+
+रायधणजी आदि प्रेमी भक्तों ने श्रीहरि को दो माह तक अपने घर रखा। महाराज नित्य नदी में स्नान करने जाते थे। नदी के सामने स्थित कुंड में भी वे कई बार स्नान करते और वहाँ स्थित श्रीपातालेश्वर महादेवजी के दर्शन करते थे।
+
+एक दिन रायधणजी की भाभी ने महाराज से कहा, "आज साधुओं को भिक्षा माँगने मत जाने दीजिए, आज हम उन्हें भोजन कराएँगे।" महाराज ने विनोद में कहा, "साधुओं को जाने दीजिए वही ठीक है; नहीं तो साधु भूखे रहेंगे तो बाजार में जाकर कहेंगे कि रायधणजी के घर निमंत्रण देकर हमें भूखा मार दिया!" भाभी ने कहा, "जब भूखे रहें तब कहना!" आठ साधु और श्रीजी महाराज भोजन करने बैठे। महाराज ने साधुओं से कहा कि परोसी गई किसी वस्तु को मना मत करना। परोसते-परोसते घर की सामग्री समाप्त हो गई। महाराज बोले, "कुछ और हो तो लाइए!" रायधणजी ने भाभी से कहा, "अब हार स्वीकार कर लीजिए!" भाभी पड़ोस से घी माँगकर लाईं, तो महाराज हँसकर बोले, "हम पराए घर से माँगा हुआ अन्न-घी नहीं आरोगते!" ऐसा कहकर बहुत हास्य-विनोद किया। इस प्रकार श्रीहरि ने आधोई में अनेक दिव्य लीलाएँ कीं।
+
+- श्री कच्छलीला अध्याय २४ में से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### Raydhanji of Adhoi and Shriji Maharaj's Divine Strength
+
+Once, Shriji Maharaj graced the village of Adhoi in Kutch and resided in the darbar of Ladhaji for two months. There, Maharaj engaged in scriptural debates with Kabirpanthis and refuted their tenets. Ladhaji had four sons: Adoji, Kalyanji, Ramsangji, and Raydhanji. Shriji Maharaj stayed at their residence, performed numerous divine lilas, and bestowed divine bliss upon everyone.
+
+One day, Maharaj was seated upon a cot, and the four brothers sat reverently before Him. Shri Hari asked, "You are four brothers; who among you is the strongest?"
+
+The three brothers replied, "Raydhanji is exceptionally strong. He can break eight coconuts simultaneously—placing two under his armpits, two inside his elbows, two between his thighs and lower abdomen, and two between his calves and thighs; standing up and then sitting down with force, he shatters all eight coconuts at once! He can snap a fourfold thick rope tied around his knees in a single thrust, and when in full vigor, he can crush an areca nut to powder between his fingertips just like a nutcracker."
+
+Hearing this, Shriji Maharaj said to Raydhanji, "Grip Our wrist."
+
+Raydhanji hesitated and said, "Maharaj! Your holy body has become very lean due to severe austerities. It would not be proper for me to grip Your wrist."
+
+Maharaj reassured him, "Do not worry about Us; grip Our wrist firmly with all your strength without any fear."
+
+Raydhanji agreed, "Very well, Maharaj!" Shriji Maharaj extended His right hand, and Raydhanji gripped the wrist with one hand. 
+
+Maharaj said, "Hold it with both hands." Raydhanji gripped it tightly with both hands.
+
+Maharaj cautioned him repeatedly, "Hold tight, beware!" 
+
+Raydhanji replied, "I have held it very firmly." 
+
+Then Maharaj effortlessly released His wrist, caught Raydhanji's right hand under His arm, and pressed it. Raydhanji was instantly overcome with intense agony and could not utter a word! Seeing Raydhanji's distressed face, Shriji Maharaj released his hand. Raydhanji sat holding his hand for a long time and groaned, "O Maharaj! The bones of my hand are shattered!"
+
+Maharaj said, "Come here, let Us examine it." When Raydhanji showed his hand, Maharaj inspected it and smiled, "The hand is completely intact; no bone is broken."
+
+The four brothers rose and went to sit at a distance. Maharaj asked, "Why are you sitting so far away?"
+
+Raydhanji folded his hands and submitted, "During Krishnavatar, Lord Krishna was only eleven years old when He slew the formidable elephant Kuvalayapida, the mighty wrestlers Chanura and Mushtika, and King Kamsa. We always harbored a doubt in our minds as to how a young boy could accomplish such feats. Today, that doubt has vanished forever! Witnessing Your divine prowess, we realize that You are neither young nor physically frail; You are Aksharatit Purna Purushottam Narayan Himself! Today we have recognized You in truth. O Maharaj! You are not merely one to jest with; You are the supreme Almighty, worthy of eternal adoration and worship." Realizing that Maharaj is the ultimate source of all divine incarnations, all the men and women of the household devoted themselves wholeheartedly to Shriji Maharaj's service.
+
+Another day, Shriji Maharaj said to a devotee of Adhoi, "We have heard that very fine ghee is prepared at your home." The devotee happily clarified fresh butter from his milch buffaloes, poured a large bronze bowl full of pure ghee, and presented it to Maharaj. Looking at the bowl, Shriji Maharaj asked, "The ghee is wonderful; have you given this for Us to drink?" The devotee replied, "O Maharaj! Please drink it happily." Maharaj raised the bowl to His lips and drank the entire bowl of ghee in one go! When the devotee ran his finger inside the empty bowl, not a single trace of grease adhered to his finger!
+
+The devotee exclaimed in astonishment, "Just as in Krishnavatar Putana came to breastfeed You and You sucked away her very life-breath along with the milk, similarly not a hint of oiliness remains in this vessel!" Shriji Maharaj chuckled, "You offered it for Us to drink, so We drank it." The devotee laughed, "O Maharaj! You did not even leave any prasad for us!" Hearing this, Maharaj and the devotees laughed heartily.
+
+On another occasion, the mother of the four brothers petitioned Shri Hari with folded hands, "O Maharaj! My four sons are devout in worshipping God, but in practical family affairs they do not listen to advice and wish to separate. Lest they quarrel among themselves, whatever division You decide, we shall happily accept." Shriji Maharaj divided the property into four equal lots and drew lots. Each brother received his share happily and returned home, preparing delicious feasts for Shri Hari and pleasing Him through various devotional services.
+
+Raydhanji and the devoted family hosted Shri Hari in their home for two full months. Every day Maharaj bathed in the local river and in the sacred kund on the opposite bank, offering darshan to Shri Pataleshwar Mahadev.
+
+One day, Raydhanji's sister-in-law pleaded with Maharaj, "Please do not allow the sadhus to go out begging today; we wish to feed them at home." Maharaj joked, "It is better to let them go; otherwise, if they remain hungry, they will complain in the bazaar that they were invited to Raydhanji's house only to be starved!" She replied, "Complain only if they remain hungry!" Eight sadhus and Shriji Maharaj sat down for lunch. Maharaj instructed the sadhus not to refuse any serving. As they served generously, the cooked provisions ran out. Maharaj said, "Bring more if there is any!" Raydhanji playfully told his sister-in-law, "Admit defeat now!" She quickly borrowed ghee from a neighbor, but Maharaj laughed, "We do not partake of borrowed food from someone else's house!" and indulged in joyous divine humor. In this manner, Shri Hari performed countless uplifting lilas in Adhoi.
+
+- From 'Shri Kutch Leela', Chapter 24...
+
+🙏
+
+### Navigation:point_down:

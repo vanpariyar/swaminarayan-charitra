@@ -36,3 +36,63 @@ TocOpen: true
 - મારા જનને અંતકાળે… લેખમાળામાંથી..
 
 🙇🏻‍♂️🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### जूनागढ़ के नागर भक्त और श्री रणछोड़रायजी
+
+संवत १८८४ के वैशाख वद द्वितीया (बीज) के पावन दिन पर, जूनागढ़ में सद्गुरु ब्रह्ममुनि (ब्रह्मानंद स्वामी) द्वारा श्रीहरि की आज्ञा से निर्मित भव्य मंदिर के गर्भगृहों में श्रीजी महाराज ने अपने करकमलों से मूर्तियों को आलिंगन में लेकर उनकी दिव्य प्रतिष्ठा की।
+
+उस मंदिर के मध्य गर्भगृह में श्रीरणछोड़रायजी तथा श्रीत्रिकमजी, पूर्व दिशा के मंदिर में महाप्रतापी श्रीराधारमण देव, तथा पश्चिम दिशा के मंदिर में श्रीसिद्धेश्वर महादेवजी, पार्वती माता एवं श्रीविघ्नविनायक गणपतिजी को पधराया गया। सुंदर वस्त्र, आभूषण और पुष्पहारों से सुशोभित कर आरती उतारी गई, और श्रीजी महाराज सम्मुख खड़े रहे। उस समय देश-देशांतर से पधारे समस्त हरिभक्तों ने रुपए, स्वर्णालंकार, पाग (पगड़ियाँ) और भूमि-अनुदान के पत्र देवताओं के सम्मुख समर्पित कर श्रीजी महाराज के चरणों में प्रणाम किया। सभी ने श्रीजी महाराज को परम प्रेम से मूल्यवान वस्त्र पहनाकर उनका भावपूर्ण पूजन किया। 
+
+श्रीराधारमण देव और सिद्धेश्वर महादेव की प्रतिष्ठा के समय मंदिर के गर्भगृह में देवों के सम्मुख खड़े होकर सद्गुरु ब्रह्मानंद स्वामी ने गंभीर स्वर में अष्ट त्रिभंगी और छप्पय छंदों का गान किया:
+"समरत जेही शेषा, दिपत सुरेशा, पुत्र गणेशा निज प्यारा...!
+ब्रह्मांड प्रवेशा, प्रसिद्ध परेशा, अजर उमेशा उधारा...!"
+
+उस समय भायावदर गाँव के अल्पायु बालक रामजी जोशी (कालांतर में जूनागढ़ के परम योगी महापुरुषदास स्वामी) भी वहाँ उपस्थित थे, जो जीवनपर्यंत इस अलौकिक दृश्य का स्मरण कर अत्यंत महिमा के साथ सबको सुनाया करते थे। तत्पश्चात श्रीहरि ने यज्ञादि में पधारे ब्राह्मणों को दुपट्टे, पाग और दक्षिणा दी। चार वेद जो ब्राह्मण रूप धारण कर पधारे थे, उन्हें श्रीजी महाराज ने अपनी छाती पर चरणारविंद प्रदान किए, जिसके बाद वे महाराज की आज्ञा लेकर प्रस्थान कर गए। अन्य ब्राह्मणों को भी दक्षिणा दी गई और सभी शिल्पकारों का सम्मान किया गया।
+
+ऐसे महाप्रतापी श्रीराधारमण देव, श्रीरणछोड़रायजी, त्रिकमरायजी एवं श्रीसिद्धेश्वर महादेवजी के दर्शनार्थ जूनागढ़ तथा देश-विदेश से अनेक मुमुक्षु आज भी नियमित रूप से आते हैं। जूनागढ़ के नागर समाज के अग्रगण्य भक्त चकूभाई नागर की बहन की एक पुत्री का श्रीरणछोड़रायजी के प्रति अनन्य प्रेम था। वे प्रतिदिन नियमित दर्शन करने आती थीं और अत्यंत महिमाभाव से दर्शन कर मंदिर की प्रदक्षिणा करती थीं। दीपावली के दिन तो वे प्रत्येक प्रदक्षिणा के साथ देव के आगे एक-एक सीताफल (शरीफा) अर्पित करते हुए प्रदक्षिणाएँ पूर्ण करती थीं। पुष्टिमार्गीय वैष्णव परिवार में ब्याही होने के उपरांत भी जीवनभर उनका श्रीरणछोड़रायजी के प्रति अनन्य अनुराग बना रहा।
+
+जब उनका अंतिम समय निकट आया, तब भगवान श्री स्वामिनारायण स्वयं उन्हें अपने धाम ले जाने हेतु पधारे और उन्हें दिव्य रूप में दर्शन दिए। वह भक्त महिला तुरंत उठकर बैठ गईं और प्रभु को प्रणाम करते हुए अपने समस्त परिजनों से कहने लगीं, "मुझे लेने साक्षात् श्रीहरि पधारे हैं। मैं उनके साथ परमधाम जा रही हूँ।" 
+
+यह देखकर उनके परिवारजन अत्यंत विस्मित हुए और पूछने लगे। तब उस महिला ने कहा, "मैं मंदिर में श्रीरणछोड़रायजी के दर्शन करने नित्य जाती थी और प्रेमपूर्वक प्रदक्षिणा करती थी, उसी भक्ति के कारण प्रभु आज मुझे अपने धाम ले जाने पधारे हैं। उस दिव्य मूर्ति के प्रति अनन्य अनुराग के कारण भगवान श्री स्वामिनारायण मेरा आत्यंतिक कल्याण करने अंत समय पधारे हैं।" 
+
+ऐसा कहते-कहते उन्होंने सहजता से अपनी नश्वर देह त्याग दी और अक्षरधाम की अधिकारी बनीं। यह अलौकिक दृश्य देखकर समस्त नागर परिवार असीम आश्चर्य में डूब गया और कलियुग में भगवान की प्रत्यक्ष सामर्थ्य की अटल प्रतीति हुई।
+
+- 'मारा जनने अंतकाळे' लेखमाला में से...
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### The Nagar Devotee of Junagadh and Shri Ranchhodrayji
+
+On the auspicious day of Vaishakh Vad 2, Samvat 1884, in Junagadh, within the sanctums of the magnificent mandir built under Shri Hari's command by Sadguru Brahmamuni (Brahmanand Swami), Shriji Maharaj Himself consecrated the divine murtis, embracing each of them with His own holy hands.
+
+In the central shrine, Shri Ranchhodrayji and Shri Trikamji were installed; in the eastern shrine, the resplendent murti of Shri Radharaman Dev; and in the western shrine, Shri Siddheshwar Mahadev, Mother Parvati, and Shri Vighnavinayak Ganapatiji were ceremoniously seated. Adorned in exquisite garments, golden ornaments, and fragrant flower garlands, the arti was performed while Shriji Maharaj stood radiantly before the deities. Devotees from far and wide placed offerings of gold, rupees, rich turbans, and land deeds before the deities and bowed at the lotus feet of Shriji Maharaj. All the devotees lovingly adorned Shriji Maharaj in magnificent attire and performed His worship with boundless devotion. 
+
+During the consecration of Shri Radharaman Dev and Siddheshwar Mahadev, Sadguru Brahmanand Swami stood before the deities within the mandir shrine and sang the glorious verses of the Asht Tribhangi and Chhappaya in a resonant melody:
+"Samarat jehi Shesha, dipat Suresha, putra Ganesha nij pyara...!
+Brahmand pravesha, prasiddha Paresha, ajar Umesha uddhara...!"
+
+Present at that auspicious moment was young Ramji Joshi of Bhayavadar (who later became the revered Yogi Mahapurushdas Swami of Junagadh), who fondly recounted the divine wonder of this occasion throughout his entire life with supreme reverence. Thereafter, Shri Hari honored the participating Brahmins with rich shawls, turbans, and coins. To the four Vedas who had manifested in the guise of Brahmins, Shriji Maharaj granted the touch of His lotus feet upon their chests, whereupon they departed with Maharaj's divine permission. Generous donations were given to all Brahmins, and the artisans and sculptors were warmly honored with gifts.
+
+To behold these glorious deities—Shri Radharaman Dev, Shri Ranchhodrayji, Trikamrayji, and Shri Siddheshwar Mahadev—countless spiritual aspirants from Junagadh, across India, and abroad regularly come for darshan to this day. A niece of Chakubhai Nagar, a prominent devotee from the Nagar community of Junagadh, harbored profound, heartfelt love for Shri Ranchhodrayji. She visited the temple daily for darshan and performed circumambulations (pradakshina) with deep devotional sentiment. On the festive day of Diwali, she would place a custard apple (sitafal) before the deity with each pradakshina she completed. Although married into a Pushtimargiya Vaishnava household, she maintained this pure, unswerving devotion toward Shri Ranchhodrayji throughout her life.
+
+When her final moments arrived, Bhagwan Shree Swaminarayan Himself manifested in His divine form to escort her to Akshardham. She suddenly sat up in bed, offered prostrations to the Lord, and announced to her gathered family, "Shri Hari has arrived in person to take me! I am departing with Him to His divine abode."
+
+Her family members were astonished and inquired about what she was witnessing. She explained, "Because I visited the mandir daily for darshan of Shri Ranchhodrayji and performed pradakshina with heartfelt love, the Lord has personally arrived to take me. Because of my love for that divine murti, Bhagwan Shree Swaminarayan has manifested at my end time to grant me ultimate liberation."
+
+Speaking these words with complete peace and joy, she relinquished her mortal body and attained the eternal abode of Akshardham. Witnessing this miraculous event, her entire Nagar family was overwhelmed with awe, witnessing the undeniable divine power of the Lord in the present age.
+
+- From the series 'Mara Janne Antakale'...
+
+🙏
+
+### Navigation:point_down:
