@@ -1,0 +1,5 @@
+{{- if and (hugo.IsProduction | or (eq .Site.Params.env "production")) .Site.Params.googleAdsense }}
+<!-- Google AdSense -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.googleAdsense }}"
+     crossorigin="anonymous"></script>
+{{- end }}

@@ -1,6 +1,7 @@
 baseURL: "https://vanpariyar.in/swaminarayan-charitra/"
 title: Swaminarayan Charitra
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: hugo-PaperMod
 publishDir: public
 
@@ -10,7 +11,15 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-googleAnalytics: G-T7YMQ8HWGV
+googleAnalytics: G-T7YMQ8HWGV # Legacy but kept for compatibility
+
+services:
+    googleAnalytics:
+        ID: G-T7YMQ8HWGV
+    instagram:
+        disableInlineCSS: true
+    x:
+        disableInlineCSS: true
 
 minify:
     disableXML: true
@@ -18,7 +27,7 @@ minify:
 
 languages:
     en:
-        languageName: "English"
+        label: "English"
         weight: 1
         menu:
             main:
@@ -79,6 +88,8 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "All in one juction of Swaminarayan Charitras in Hindi, English, Gujarati"
+    googleAdsense: "ca-pub-5659963957549282"
+    googleAdSlot: "XXXXXXXXXX"
     # author: Theme PaperMod
     author: ["Bharat Desai", "Dhaval Desai", "Hitendra Kalariya", "Ronak Vanpariya"] # multiple authors
 
@@ -111,19 +122,9 @@ params:
         Title: "Swaminarayan Charitra 🙏"
         Content: >
             - Welcome to Swaminarayan Charitra.  🙂 **( 3 in 1 Gujarati / Hindi / English )**.
-
-            - ##
-
-            - **Swaminarayan Chritra** is the my community project that i keep organized charitra of Swaminarayan Bhagwan.😮. 
-            
-            - ## 
-
+            - **Swaminarayan Chritra** is the my community project that i keep organized charitra of Swaminarayan Bhagwan.😮.
             - The sole purpose is this project to keep Devotees happy 🙏
-            
-            - ## 
-
             - *I need your help to improve this project.*
-
             - `If you want to add Your Charitra / Contribute  in this site ? Feel Free to contact me 📬`
 
     socialIcons:
@@ -202,7 +203,7 @@ privacy:
         disabled: false
         simple: true
 
-    twitter:
+    x:
         disabled: false
         enableDNT: true
         simple: true
@@ -214,9 +215,3 @@ privacy:
     youtube:
         disabled: false
         privacyEnhanced: true
-
-services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
