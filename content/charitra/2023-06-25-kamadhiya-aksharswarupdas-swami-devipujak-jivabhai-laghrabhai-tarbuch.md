@@ -1,0 +1,134 @@
+---
+title: "કમઢિયામાં ભાદર કાંઠે અક્ષરસ્વરૂપદાસ સ્વામીનું પવિત્ર ચરિત્ર: દેવીપૂજક જીવાભાઈ અને લઘરાભાઈનો સત્સંગ પ્રવેશ | On the Banks of Bhadar in Kamadhiya: The Pure Conduct of Aksharswarupdas Swami and the Elevation of Jivabhai and Laghrabhai"
+date: 2023-06-25T12:00:00+05:30
+# draft: true
+author: "Bharat Desai"
+description: "ભાદર કાંઠે કમઢિયા ગામે સદ્ગુરુ અક્ષરસ્વરૂપદાસ સ્વામી અને સંતોના ત્યાગ, નિયમ અને માનસી પૂજા જોઈ દેવીપૂજક બંધુઓ જીવાભાઈ અને લઘરાભાઈએ તરબૂચ ધરાવી પંચવર્તમાન ગ્રહણ કર્યા. On the sandy banks of the Bhadar river in Kamadhiya, observing the pure conduct, vows, and devotional meditation of Sadguru Aksharswarupdas Swami and his sadhus, two humble brothers Jivabhai and Laghrabhai offered fresh watermelons and embraced the pure vows of Satsang."
+tags: ["Kamadhiya", "Bhadar River", "Aksharswarupdas Swami", "Devipujak", "Jivabhai", "Laghrabhai", "Tarbuch", "Panch Vartman", "Sadhu Charitra"]
+categories: ["Charitra"]
+series: ["Daily Charitra"]
+# aliases: ["migrate-from-jekyl"]
+ShowToc: true
+TocOpen: true
+# weight: 2
+---
+
+<!-- this Content Here will shown id listing page till "more" tag -->
+સૌરાષ્ટ્રમાં ભાદર નદીના પટમાં નંદસંતોની નિર્લોભી સાધુતા અને અડગ ધર્મનિયમો જોઈ કમઢિયા ગામના ગરીબ શ્રમજીવી બંધુઓ જીવાભાઈ અને લઘરાભાઈનું જીવન પાવન બની ગયું.
+
+<!--more-->
+
+## Gujarati
+### કમઢિયામાં ભાદર કાંઠે અક્ષરસ્વરૂપદાસ સ્વામીનું પવિત્ર ચરિત્ર: દેવીપૂજક જીવાભાઈ અને લઘરાભાઈનો સત્સંગ પ્રવેશ
+
+સૌરાષ્ટ્રમાં ભાદર નદીના કાંઠે પ્રગટ પુરુષોત્તમ ભગવાન શ્રીસ્વામિનારાયણના અષ્ટપ્રકારે બ્રહ્મચર્યધારી નંદસંતોના દિવ્ય વિચરણથી અનેક મુમુક્ષુ જીવોનું કલ્યાણ થયું હતું. સંતોના નિર્મળ આચરણ અને ઉપદેશથી અઢારેય વરણ—વાણિયા, બ્રાહ્મણ, કાઠી, કણબી, કડિયા, લુહાર, સુથાર, દરજી તેમ જ છેવાડાના દેવીપૂજક શ્રમજીવી પરિવારો પણ સત્સંગના રંગે રંગાયા હતા. 
+
+આ ભાદર નદીના કિનારે ‘કમઢિયા’ નામે એક રળિયામણું ગામ આવેલું છે. આ ગામમાં શ્રીહરિના પ્રાતઃસ્મરણીય એકાંતિક ભક્ત કાયાભાઈ રહેતા હતા. શ્રીહરિ સ્વધામ સિધાવ્યા બાદ સદ્ગુરુ ગુણાતીતાનંદ સ્વામી અને અન્ય વરિષ્ઠ સંતોએ આ ગામમાં સત્સંગનો ખૂબ મહિમા વિસ્તાર્યો હતો. એક સમયે સદ્ગુરુ અક્ષરસ્વરૂપદાસ સ્વામી બાર સંતોના મંડળ સાથે વિચરણ કરતાં કમઢિયા ગામે પધાર્યા. સંતો મંદિરે ઉતારો કરી સવાર-સાંજ ભાદર નદીમાં સ્નાન કરવા પધારતા. 
+
+એક દિવસે રોંઢાટાણે (બપોર પછીના સમયે) ભાદર નદીના પહોળા પટમાં સ્નાન કરી સંતોએ પોતાનાં ભગવાં ધોતિયાં રેતીમાં સૂકવ્યાં હતાં. જમવાનાં તૂંબડાં પડખે મૂકી, નેત્રો મીંચીને સૌ સંતો બપોર પછીની ઉત્થાપનની માનસી પૂજામાં લીન હતા. મનોમન કલ્પેલાં મધુર મેવા અને ભોજન મોહનવર શ્રીહરિને પ્રેમપૂર્વક જમાડતા હતા. સમગ્ર નદીકાંઠે પરમ નીરવ શાંતિ છવાયેલી હતી. 
+
+ભાદર નદીના પટમાં ગામના ગરીબ દેવીપૂજક ભાઈઓ—જીવાભાઈ અને લઘરાભાઈએ પોતાનું પેટીયું રળવા માટે ટેટી-તરબૂચના વાડા વાવેલા હતા. વાડામાં મધુર અને લાલચોળ તરબૂચ પુષ્કળ પાક્યાં હતાં. આ બંને ભાઈઓ ઘણા દિવસોથી સંતોના શાંત, નિર્મળ અને તેજોમય સ્વરૂપનું બારીકાઈથી અવલોકન કરતા હતા. 
+
+તેમણે જોયું કે, આ સાધુઓ કોઈ દિવસ કોઈની પાસે માંગતા નથી, કોઈ સ્ત્રી કે ધન તરફ આંખ ઊંચી કરીને જોતા નથી, અને અહર્નિશ ભગવાનના ધ્યાનમાં જ મસ્ત રહે છે ! આ બંને ભાઈઓ ભક્તિભાવથી ભરાઈ ગયા અને વાડામાંથી મીઠાં-પાકાં બે મોટાં તરબૂચ લઈને સંતો પાસે આવ્યા. 
+
+તેમણે હાથ જોડી નમ્રતાથી કહ્યું, **“સાધુ બાપુ ! અમારે વાડે મીઠાં તરબૂચ પાક્યાં છે, તે આપ મહાત્માઓ આરોગો અને અમને ગરીબોને આશીર્વાદ આપો !”** 
+
+સંતોએ સ્મિત સાથે કહ્યું, **“ભાઈ ! અમે ભગવાનના સાધુ છીએ. પ્રભુને ધર્યા વગર કે નિયમ સિવાય અમે કાંઈ પણ ગ્રહણ ન કરી શકીએ; અને અત્યારે અમારે જમવાનો સમય પણ નથી.”** 
+
+સંતોને સાવ નિર્લોભી જોઈ બંને ભાઈઓ અચંભામાં પડી ગયા ! જીવાભાઈએ માથેથી પાઘડી ઉતારી હાથ જોડી કરગરતાં કહ્યું, **“મહારાજ ! જગતમાં સાધુ-બાવા તો ઘણા જોયા, પણ તમારા જેવા સાચા સંત કોઈ નથી દીઠા ! જો તમે અમારું અન્ન-ફળ સ્વીકારશો તો અમારું જીવન સુધરી જશે ! કૃપા કરીને આ સ્વીકારો !”** 
+
+તેમનો આવો નિર્મળ પ્રેમ અને અતિશય આગ્રહ જોઈને સંતોએ એક તરબૂચ સ્વીકાર્યું અને બીજું પાછું આપ્યું. ત્યારે બંને ભાઈઓ બોલ્યા, **“મહારાજ ! તમે અહીં જ બેસો, અમે વાડામાંથી બીજાં ઘણાં તરબૂચ લઈ આવીએ !”** 
+
+સંતોએ પ્રેમથી સમજાવતાં કહ્યું, **“ભાઈ ! અમારે અમારા ઠાકોરજીને થાળ ધર્યા વિના પાણી પણ ન પીવાય. અમારે ત્યાં નિયમ અને પવિત્રતા સર્વોપરી છે.”** 
+
+ત્યારે બંને ભાઈઓએ ભાવપૂર્વક વિનંતી કરી, **“મહારાજ ! તો કાલે તમે તમારા ઠાકોરજીને સાથે લઈને જ આંહીં નદીએ પધારો ! અમે તમને તેડવા આવીશું અને વાડાનાં તાજાં ફળ ઠાકોરજીને ધરાવીશું !”** 
+
+બીજે દિવસે બપોરે બંને ભાઈઓ વાજતે-ગાજતે સંતોને તેડવા મંદિરે આવ્યા અને કમઢિયાના સમસ્ત સત્સંગીઓને પણ આમંત્રણ આપ્યું. ભાદરના પટમાં મોટા બુંગણ પાથરવામાં આવ્યા. સંતોએ નદીએ સ્નાન કરી ઠાકોરજી પધરાવી દિવ્ય સભા કરી. તાજાં તરબૂચ સુધારીને ઠાકોરજીને થાળ ધર્યો અને સંતોએ પોતાના હાથે સૌને પ્રસાદ આપ્યો. 
+
+ત્યારબાદ સદ્ગુરુ અક્ષરસ્વરૂપદાસ સ્વામીએ પ્રગટ ભગવાન શ્રીસ્વામિનારાયણનો મહિમા અને સદાચારના નિયમો સમજાવ્યા. આ પવિત્ર સત્સંગથી પ્રભાવિત થઈ જીવાભાઈ અને લઘરાભાઈએ સંતોના ચરણે મસ્તક મૂકી દીધું. બંને ભાઈઓએ એ જ ક્ષણે પંચવર્તમાન ગ્રહણ કર્યાં: દારૂ, માંસ, ચોરી, વ્યભિચાર અને અભક્ષ્ય પદાર્થો (ડુંગળી, લસણ વગેરે)નો કાયમ માટે ત્યાગ કર્યો. પાણી-દૂધ ગાળીને વાપરવા જેવા શુદ્ધ આચરણના નિયમો લીધા અને બ્રાહ્મણ જેવું શુદ્ધ, પવિત્ર જીવન જીવવા લાગ્યા. 
+
+આમ, સંતોના પવિત્ર વર્તન અને સત્સંગના પ્રતાપે ગરીબ શ્રમજીવી જીવાભાઈ અને લઘરાભાઈ ઉચ્ચ સત્સંગી બની આ લોકમાં સુખી થયા અને અંતે પરમ અક્ષરધામના અધિકારી બન્યા.
+
+\- ‘સત્સંગ સાગરના મોતી’ લેખમાળામાંથી…
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## Hindi
+### कमढिया में भादर तट पर अक्षरस्वरूपदास स्वामी का पावन चरित्र: देवीपूजक जीवाभाई और लघराभाई का सत्संग-प्रवेश
+
+सौराष्ट्र की पुण्यसलिला भादर नदी के तटवर्ती क्षेत्रों में भगवान श्री स्वामिनारायण के अष्टप्रकार के ब्रह्मचर्य का पालन करने वाले नंद-संतों के विचरण से अगणित मुमुक्षु जीवों का उद्धार हुआ। संतों के निर्मल आचरण, निष्कामता और आत्मीय उपदेशों के प्रभाव से समाज के सभी अठारह वर्णों—ब्राह्मण, क्षत्रिय, वणिक, पाटीदार, कारीगर और समाज के अंतिम छोर पर खड़े देवीपूजक श्रमिक बंधु भी सत्संग के रंग में रंग गए।
+
+भादर नदी के तट पर ‘कमढिया’ नामक एक सुंदर गाँव स्थित है। इस गाँव में प्रभु के प्रातःस्मरणीय एकांतिक भक्त कायाभाई निवास करते थे। श्रीहरि के स्वधाम गमन के उपरांत सद्गुरु गुणातीतानंद स्वामी आदि वरिष्ठ संतों ने इस गाँव में सत्संग का अमृत बरसाया था। एक समय सद्गुरु अक्षरस्वरूपदास स्वामी बारह संतों के मंडल के साथ विचरण करते हुए कमढिया गाँव पधारे। संत मंदिर में निवास करते और नित्य प्रातः-सायं भादर नदी में स्नान हेतु जाते थे।
+
+एक दिन दोपहर ढलने पर संतों ने भादर के चौड़े रेतीले पाट में स्नान किया और अपनी भगवा धोतियाँ रेत पर सुखाने हेतु फैलाईं। भोजन-पात्र (तूंबड़ा) एक ओर रखकर, सभी संत नेत्र मूँदकर दोपहर की उत्थापन मानसी पूजा में लीन हो गए। मन ही मन भावपूर्वक मोहनवर श्रीहरि को मधुर मेवों और मिष्ठान्नों का भोग लगा रहे थे। संपूर्ण नदी तट पर एक दिव्य, नीरव शांति छाई हुई थी।
+
+उसी नदी के पाट में गाँव के निर्धन देवीपूजक बंधु—जीवाभाई और लघराभाई अपनी आजीविका चलाने के लिए तरबूज और खरबूजे की खेती (बाड़ी) करते थे। उनकी बाड़ी में रसीले, लाल तरबूज खूब पके हुए थे। वे दोनों भाई कई दिनों से इन संतों की शांत, निष्पाप और तेजस्वी मुद्रा को दूर से कौतूहल और श्रद्धा से देख रहे थे।
+
+उन्होंने देखा कि ये साधु न तो कभी किसी से कुछ माँगते हैं, न ही कभी किसी धन अथवा स्त्री की ओर दृष्टि उठाते हैं; अहर्निश अपने भगवान के भजन में ही मग्न रहते हैं! दोनों भाइयों का अंतःकरण भक्तिभाव से भर उठा। वे बाड़ी से दो बड़े और पके हुए तरबूज तोड़कर संतों के समीप आए।
+
+उन्होंने हाथ जोड़कर अत्यंत विनयपूर्वक कहा, **“महाराज! हमारी बाड़ी में बहुत मीठे तरबूज पके हैं; आप जैसे पहुँचे हुए संत इन्हें स्वीकार करें और हम निर्धनों को आशीर्वाद दें!”**
+
+संतों ने स्नेहसिक्त मुस्कान के साथ कहा, **“भाई! हम भगवान के त्यागी साधु हैं। प्रभु को भोग धराए बिना हम कोई वस्तु ग्रहण नहीं करते; और अभी हमारे भोजन का समय भी नहीं है।”**
+
+संतों को पूर्णतया निष्कामी और लालच-रहित देखकर दोनों भाई विस्मय में डूब गए! जीवाभाई ने सिर से पगड़ी उतारकर संतों के चरणों में रख दी और करबद्ध होकर प्रार्थना की, **“महाराज! संसार में बहुत से साधु-बावे देखे हैं, किंतु आपके जैसे सच्चे और त्यागी संत कभी नहीं देखे! यदि आप हमारा फल स्वीकार नहीं करेंगे तो हम अभागों का उद्धार कैसे होगा? दया करके इसे ग्रहण कीजिए!”**
+
+उनका अगाध और निष्कपट प्रेम देखकर संतों ने एक तरबूज स्वीकार कर लिया और दूसरा वापस लौटा दिया। तब दोनों भाइयों ने कहा, **“महाराज! आप यहीं बैठिए, हम बाड़ी से और भी बहुत से तरबूज ले आते हैं!”**
+
+संतों ने समझाया, **“भाई! हमारे यहाँ नियम और शुचिता सर्वोपरि है; बिना ठाकुरजी को थाल धराए हम जल की एक बूँद भी नहीं पीते।”**
+
+तब दोनों भाइयों ने गद्गद होकर कहा, **“महाराज! तो कल आप अपने ठाकुरजी को साथ लेकर ही नदी पर पधारिए! हम आपको मंदिर से आदरपूर्वक लेने आएँगे और बाड़ी के ताजे फल ठाकुरजी को भोग लगाएँगे!”**
+
+अगले दिन दोपहर को दोनों भाई संतों को लेने मंदिर पहुँचे और कमढिया गाँव के सभी सत्संगियों को भी आमंत्रित किया। भादर के रेतीले पाट पर बिछौने बिछाए गए। संतों ने स्नान कर ठाकुरजी को पधराया और दिव्य सभा की। ताजे तरबूज काटकर ठाकुरजी को थाल धराया गया और संतों ने अपने करकमलों से सभी को महाप्रसाद बाँटा।
+
+तदुपरांत सद्गुरु अक्षरस्वरूपदास स्वामी ने भगवान स्वामिनारायण की ईश्वरीय महिमा और सदाचार के नियमों का सुंदर निरूपण किया। संतों के पवित्र चरित्र से अभिभूत होकर जीवाभाई और लघराभाई ने संतों के चरणों में शीश नवाया और उसी समय पंचवर्तमान की दीक्षा ली। उन्होंने मद्यपान, मांसाहार, चोरी, व्यभिचार और तामसिक अन्न (प्याज, लहसुन आदि) का जीवनभर के लिए त्याग कर दिया। जल और दूध छानकर प्रयोग करने के पवित्र वैष्णव नियमों को अपनाकर वे ब्राह्मणों के समान निष्पाप जीवन जीने लगे।
+
+इस प्रकार संतों के पवित्र आचरण के प्रताप से निर्धन श्रमिक जीवाभाई और लघराभाई सत्संग के रंग में रंगकर इस लोक में सुखी हुए और अंत में परम अक्षरधाम के अधिकारी बने।
+
+🙏
+
+[Goto Naviagation:point_down: ](#navigation)
+
+----
+
+## English
+### On the Banks of Bhadar in Kamadhiya: The Pure Conduct of Aksharswarupdas Swami and the Elevation of Jivabhai and Laghrabhai
+
+Across the fertile lands of Saurashtra, the untiring spiritual travels of Bhagwan Swaminarayan's eminent Nand-paramhansas—renunciants adhering to the eightfold vows of immaculate celibacy—elevated countless yearning souls to supreme spiritual heights. Through the saints' unblemished moral conduct and boundless compassion, people across all eighteen traditional social strata—Brahmins, Kshatriyas, merchants, farmers, artisans, and underprivileged agrarian laborers—were transformed into devout spiritual seekers.
+
+Along the serene banks of the Bhadar River lies the picturesque village of Kamadhiya, sanctified by the memory of early devotee Kayabhai. Following Shreehari's return to Akshardham, Sadguru Gunatitanand Swami and other senior ascetics nurtured the spiritual fellowship here. On one occasion, Sadguru Aksharswarupdas Swami arrived in Kamadhiya accompanied by twelve paramhansas. The ascetics resided at the village temple and visited the broad sandy bed of the Bhadar River each morning and afternoon for their daily ablutions.
+
+One afternoon, having bathed in the cool waters of the Bhadar, the ascetics spread their saffron dhotis across the clean sand to dry in the breeze. Setting aside their dried-gourd water vessels (tumbadas), the sadhus closed their eyes in deep, tranquil meditation, performing the afternoon *Utthapan Mansi Puja*—mentally visualizing and lovingly offering exquisite confections and fresh fruits to Supreme Lord Shreehari. A profound, celestial silence enveloped the riverbank.
+
+In that very riverbed, two humble, hardworking agrarian brothers, Jivabhai and Laghrabhai, cultivated watermelon and muskmelon patches to earn their daily bread. Their farm was laden with ripe, crimson watermelons. For several days, the two brothers had been quietly observing the sadhus from afar, captivated by their radiant serenity, utter detachment, and peaceful aura.
+
+They observed that these ascetics never solicited money, never looked toward women or worldly possessions, and remained perpetually absorbed in divine contemplation! Deep reverence welled in the brothers' hearts. Selecting two large, perfectly ripe watermelons from their patch, they approached the seated sadhus.
+
+Folding their hands in deep humility, they offered: **"Holy fathers! Our farm has yielded exceptionally sweet watermelons; pray, accept these fresh fruits and bestow your blessings upon us poor laborers!"**
+
+The ascetics smiled gently and declined: **"Brothers! We are ascetics dedicated to God. We do not accept unoffered food, nor do our vows permit us to eat outside appointed dining hours."**
+
+Seeing the sadhus completely free from greed, the brothers were utterly astonished! Jivabhai removed his turban, placed it at the sadhus' feet, and pleaded with tears in his eyes: **"Maharaj! We have seen numerous itinerant sadhus and mendicants, but never have we encountered saints of such pure character and unbending discipline! If you accept our humble harvest, our impoverished lives shall find true purpose! Please do not turn us away!"**
+
+Moved by their genuine, heartfelt devotion, the ascetics accepted one watermelon and returned the other. The brothers eagerly exclaimed, **"Maharaj! Please wait right here; we shall harvest many more watermelons from our patch for you!"**
+
+The sadhus explained with gentle patience, **"Brother! In our faith, sanctity and divine discipline are supreme; we do not partake even of water without first offering it ceremoniously to our Lord Thakorji in holy devotion."**
+
+The brothers replied with boundless joy: **"Maharaj! In that case, bring your Thakorji with you to the riverbank tomorrow! We shall personally escort you from the temple and present our finest harvest directly to your Lord!"**
+
+The following afternoon, the brothers arrived at the temple and escorted the twelve ascetics and the entire satsangi congregation of Kamadhiya to the riverbank. Large mats were spread upon the sands of the Bhadar. After taking their bath, the sadhus placed the sacred murti of Thakorji upon an altar, sliced the watermelons, and lovingly offered them in devotion. The sanctified prasad was then distributed to everyone present.
+
+Sadguru Aksharswarupdas Swami then delivered an inspiring discourse on righteous living and the divine supremacy of Bhagwan Swaminarayan. Profoundly moved by the spiritual radiance of the saints, Jivabhai and Laghrabhai bowed their heads and embraced the sacred Panch Vartman (five moral vows) on the spot. They renounced alcohol, meat-eating, theft, adultery, and impure foods like onions and garlic. Adopting the strict disciplines of straining water and milk, they began living lives as pure and noble as Brahmins.
+
+Through the flawless moral conduct of these selfless sadhus, two humble agrarian laborers were elevated to the highest spiritual dignity, enjoying a blessed life in this world and attaining eternal redemption in Akshardham.
+
+🙏
+
+### Navigation:point_down:
+
+- [Gujarati](#gujarati)
+- [Hindi](#hindi)
+- [English](#english)
